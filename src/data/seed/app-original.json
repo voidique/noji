@@ -1,0 +1,6174 @@
+[
+  {
+    "id": "jmdict-2028990-9787750ec6",
+    "surface": "に",
+    "reading": "に",
+    "romaji": "ni",
+    "targetLevel": "N5",
+    "meaningKo": "~에, ~에서 (시간·장소·방향 표지)",
+    "shortMeaningKo": "~에",
+    "partOfSpeech": [
+      "particle"
+    ],
+    "exampleJa": "明日、家に帰ります。",
+    "exampleKo": "내일 집에 돌아갑니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "に는 용법이 여럿. 시간·장소·도착점 등 문맥으로 구분.",
+    "priority": 100,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-2029010-094f33da8d",
+    "surface": "を",
+    "reading": "を",
+    "romaji": "wo",
+    "targetLevel": "N5",
+    "meaningKo": "~을/~를 (동작의 직접 목적어 표지)",
+    "shortMeaningKo": "~을/를",
+    "partOfSpeech": [
+      "particle"
+    ],
+    "exampleJa": "本を買います。",
+    "exampleKo": "책을 삽니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "を는 직접목적어 표시. 한국어 '을/를'에 대응하나 항상 일치하진 않음.",
+    "priority": 99,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1008490-69e84ec128",
+    "surface": "と",
+    "reading": "と",
+    "romaji": "to",
+    "targetLevel": "N5",
+    "meaningKo": "~와/과 (나열, 그리고)",
+    "shortMeaningKo": "~와",
+    "partOfSpeech": [
+      "noun",
+      "particle",
+      "conjunction"
+    ],
+    "exampleJa": "彼女と話します。",
+    "exampleKo": "그녀와 이야기합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "と는 조사·접속사 등 다용도. '~와' 외 인용·조건 용법 존재.",
+    "priority": 98,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-2028980-a426fa564d",
+    "surface": "で",
+    "reading": "で",
+    "romaji": "de",
+    "targetLevel": "N5",
+    "meaningKo": "~에서, ~로 (장소·수단·원인 표지)",
+    "shortMeaningKo": "~에서",
+    "partOfSpeech": [
+      "particle",
+      "conjunction"
+    ],
+    "exampleJa": "家で本を書きます。",
+    "exampleKo": "집에서 책을 씁니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "で는 장소·수단 등 용법이 여럿. '~에서'는 동작 장소에 한정.",
+    "priority": 97,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-2028940-b3f3ed26f0",
+    "surface": "も",
+    "reading": "も",
+    "romaji": "mo",
+    "targetLevel": "N5",
+    "meaningKo": "~도 (역시, 부정문에서 ~도 아니다)",
+    "shortMeaningKo": "~도",
+    "partOfSpeech": [
+      "adverb",
+      "particle"
+    ],
+    "exampleJa": "僕も行きます。",
+    "exampleKo": "저도 갑니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 96,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1002980-1f8e67b80e",
+    "surface": "から",
+    "reading": "から",
+    "romaji": "kara",
+    "targetLevel": "N5",
+    "meaningKo": "~에서, ~부터 (출발점·시간 기점)",
+    "shortMeaningKo": "~부터",
+    "partOfSpeech": [
+      "particle"
+    ],
+    "exampleJa": "明日から仕事です。",
+    "exampleKo": "내일부터 일입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "から는 기점 표시 외 이유 용법도 있음. 문맥으로 의미 구분.",
+    "priority": 95,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1587040-dabf634fea",
+    "surface": "言う",
+    "reading": "いう",
+    "romaji": "iu",
+    "targetLevel": "N5",
+    "meaningKo": "말하다",
+    "shortMeaningKo": "말하다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "本当のことを言います。",
+    "exampleKo": "진실을 말합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 94,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "言"
+    ]
+  },
+  {
+    "id": "jmdict-2858384-2f0cfab2e7",
+    "surface": "私",
+    "reading": "あたい",
+    "romaji": "atai",
+    "targetLevel": "N4",
+    "meaningKo": "나 (여성, 거친 말투)",
+    "shortMeaningKo": "나",
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "exampleJa": "私は元気です。",
+    "exampleKo": "나는 잘 지냅니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "あたい는 1인칭 '나'의 격식 낮은 형태. 사용역에 유의.",
+    "priority": 93,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "私"
+    ]
+  },
+  {
+    "id": "jmdict-1589350-37ed179d6f",
+    "surface": "思う",
+    "reading": "おもう",
+    "romaji": "omou",
+    "targetLevel": "N5",
+    "meaningKo": "생각하다",
+    "shortMeaningKo": "생각하다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "本当だと思います。",
+    "exampleKo": "사실이라고 생각합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 92,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "思"
+    ]
+  },
+  {
+    "id": "jmdict-2215430-476eb3188f",
+    "surface": "には",
+    "reading": "には",
+    "romaji": "niha",
+    "targetLevel": "N5",
+    "meaningKo": "~에는, ~에게는 (강조·대조·목적 표지)",
+    "shortMeaningKo": "~에는",
+    "partOfSpeech": [
+      "particle",
+      "expression"
+    ],
+    "exampleJa": "家には僕がいます。",
+    "exampleKo": "집에는 제가 있습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 91,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-2819970-e911cf90d4",
+    "surface": "だった",
+    "reading": "だった",
+    "romaji": "data",
+    "targetLevel": "N5",
+    "meaningKo": "~이었다, ~였다 (과거 판단·상태)",
+    "shortMeaningKo": "~이었다",
+    "partOfSpeech": [
+      "expression"
+    ],
+    "exampleJa": "昨日は元気だった。",
+    "exampleKo": "어제는 잘 지냈다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 90,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1259290-e5aae7d3bd",
+    "surface": "見る",
+    "reading": "みる",
+    "romaji": "miru",
+    "targetLevel": "N5",
+    "meaningKo": "보다",
+    "shortMeaningKo": "보다",
+    "partOfSpeech": [
+      "verb-ichidan",
+      "auxiliary"
+    ],
+    "exampleJa": "今、本を見ます。",
+    "exampleKo": "지금 책을 봅니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "見る는 본동사 '보다' 외 보조동사로도 쓰임. ~てみる는 '~해 보다'.",
+    "priority": 89,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "見"
+    ]
+  },
+  {
+    "id": "jmdict-1007130-d0f4982895",
+    "surface": "そんな",
+    "reading": "そんな",
+    "romaji": "sonna",
+    "targetLevel": "N5",
+    "meaningKo": "그렇다",
+    "shortMeaningKo": "그런",
+    "partOfSpeech": [
+      "adjective-na",
+      "interjection"
+    ],
+    "exampleJa": "そんな話は本当です。",
+    "exampleKo": "그런 이야기는 사실입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 88,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1012480-6bd2f304fa",
+    "surface": "もう",
+    "reading": "もう",
+    "romaji": "mou",
+    "targetLevel": "N5",
+    "meaningKo": "이미",
+    "shortMeaningKo": "이미",
+    "partOfSpeech": [
+      "adverb",
+      "interjection"
+    ],
+    "exampleJa": "もう仕事は終わります。",
+    "exampleKo": "이미 일은 끝납니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 87,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1007310-541efdcf76",
+    "surface": "だから",
+    "reading": "だから",
+    "romaji": "dakara",
+    "targetLevel": "N5",
+    "meaningKo": "그래서, 그러니까, 따라서",
+    "shortMeaningKo": "그래서",
+    "partOfSpeech": [
+      "expression",
+      "conjunction"
+    ],
+    "exampleJa": "元気だから、いいです。",
+    "exampleKo": "잘 지내니까 그래서 좋습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 86,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1578850-6e9e3c24ff",
+    "surface": "行く",
+    "reading": "いく",
+    "romaji": "iku",
+    "targetLevel": "N5",
+    "meaningKo": "가다",
+    "shortMeaningKo": "가다",
+    "partOfSpeech": [
+      "verb-godan",
+      "auxiliary"
+    ],
+    "exampleJa": "明日、東京に行きます。",
+    "exampleKo": "내일 도쿄에 갑니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "行く는 본동사 '가다' 외 보조동사 ~ていく 용법 존재.",
+    "priority": 85,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "行"
+    ]
+  },
+  {
+    "id": "jmdict-1928670-cb3809877b",
+    "surface": "だろう",
+    "reading": "だろう",
+    "romaji": "darou",
+    "targetLevel": "N4",
+    "meaningKo": "~겠지, ~일 것이다 (추측·완곡한 판단)",
+    "shortMeaningKo": "~겠지",
+    "partOfSpeech": [
+      "expression"
+    ],
+    "exampleJa": "今日は元気だろう。",
+    "exampleKo": "오늘은 잘 지내겠지.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 84,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1577100-003d6bb794",
+    "surface": "何",
+    "reading": "なに",
+    "romaji": "nani",
+    "targetLevel": "N5",
+    "meaningKo": "무엇",
+    "shortMeaningKo": "무엇",
+    "partOfSpeech": [
+      "noun",
+      "pronoun",
+      "adverb",
+      "interjection"
+    ],
+    "exampleJa": "これは何です。",
+    "exampleKo": "이것은 무엇입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 83,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "何"
+    ]
+  },
+  {
+    "id": "jmdict-1576870-7145b1d7e3",
+    "surface": "俺",
+    "reading": "おれ",
+    "romaji": "ore",
+    "targetLevel": "N5",
+    "meaningKo": "나 (남성, 거친 말투)",
+    "shortMeaningKo": "나",
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "exampleJa": "俺も行きます。",
+    "exampleKo": "나도 갑니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "俺는 남성·격식 낮은 1인칭. 사용역에 유의.",
+    "priority": 82,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "俺"
+    ]
+  },
+  {
+    "id": "jmdict-1288850-ee37069c71",
+    "surface": "今",
+    "reading": "いま",
+    "romaji": "ima",
+    "targetLevel": "N5",
+    "meaningKo": "지금, 이제",
+    "shortMeaningKo": "지금",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "今、家にいます。",
+    "exampleKo": "지금 집에 있습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 81,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "今"
+    ]
+  },
+  {
+    "id": "jmdict-1000420-b5093e3b3b",
+    "surface": "あの",
+    "reading": "あの",
+    "romaji": "ano",
+    "targetLevel": "N5",
+    "meaningKo": "저",
+    "shortMeaningKo": "저",
+    "partOfSpeech": [
+      "adjective-na"
+    ],
+    "exampleJa": "あの人は先生です。",
+    "exampleKo": "저 사람은 선생님입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 80,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-2029000-159180ed03",
+    "surface": "へ",
+    "reading": "へ",
+    "romaji": "he",
+    "targetLevel": "N5",
+    "meaningKo": "~로, ~향해 (방향 표지)",
+    "shortMeaningKo": "~로",
+    "partOfSpeech": [
+      "particle"
+    ],
+    "exampleJa": "東京へ行きます。",
+    "exampleKo": "도쿄로 갑니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "へ는 방향 표시. 도착점 강조의 に와 용법이 겹칠 수 있음.",
+    "priority": 79,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1591110-bda0233479",
+    "surface": "聞く",
+    "reading": "きく",
+    "romaji": "kiku",
+    "targetLevel": "N5",
+    "meaningKo": "듣다",
+    "shortMeaningKo": "듣다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "先生の話を聞きます。",
+    "exampleKo": "선생님의 이야기를 듣습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 78,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "聞"
+    ]
+  },
+  {
+    "id": "jmdict-1580640-20b9e7fd66",
+    "surface": "人",
+    "reading": "ひと",
+    "romaji": "hito",
+    "targetLevel": "N5",
+    "meaningKo": "사람",
+    "shortMeaningKo": "사람",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "あの人は先生です。",
+    "exampleKo": "저 사람은 선생님입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 77,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "人"
+    ]
+  },
+  {
+    "id": "jmdict-1420470-1161ac59ac",
+    "surface": "知る",
+    "reading": "しる",
+    "romaji": "shiru",
+    "targetLevel": "N5",
+    "meaningKo": "알다",
+    "shortMeaningKo": "알다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "本当のことを知っています。",
+    "exampleKo": "진실을 알고 있습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 76,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "知"
+    ]
+  },
+  {
+    "id": "jmdict-2087820-288ef76ba9",
+    "surface": "んです",
+    "reading": "んです",
+    "romaji": "ndesu",
+    "targetLevel": "N4",
+    "meaningKo": "~인 거예요, ~거든요 (설명·이유 강조)",
+    "shortMeaningKo": "~거든요",
+    "partOfSpeech": [
+      "expression"
+    ],
+    "exampleJa": "今日は仕事なんです。",
+    "exampleKo": "오늘은 일이거든요.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 75,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1004880-924070c6cb",
+    "surface": "こんな",
+    "reading": "こんな",
+    "romaji": "konna",
+    "targetLevel": "N5",
+    "meaningKo": "이렇다",
+    "shortMeaningKo": "이런",
+    "partOfSpeech": [
+      "adjective-na"
+    ],
+    "exampleJa": "こんな話は本当です。",
+    "exampleKo": "이런 이야기는 사실입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 74,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-2089060-ef53c1948f",
+    "surface": "なんて",
+    "reading": "なんて",
+    "romaji": "nante",
+    "targetLevel": "N4",
+    "meaningKo": "~라니, ~같은 것 (놀라움·경멸·인용 표지)",
+    "shortMeaningKo": "~라니",
+    "partOfSpeech": [
+      "adverb",
+      "particle"
+    ],
+    "exampleJa": "本当だなんて、大変です。",
+    "exampleKo": "사실이라니 큰일입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 73,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1318610-4885b4bbb0",
+    "surface": "自分",
+    "reading": "じぶん",
+    "romaji": "jibun",
+    "targetLevel": "N5",
+    "meaningKo": "자신, 본인, 스스로",
+    "shortMeaningKo": "자신",
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "exampleJa": "自分で出します。",
+    "exampleKo": "제가 직접 냅니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 72,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "自",
+      "分"
+    ]
+  },
+  {
+    "id": "jmdict-1392580-b4696a252f",
+    "surface": "前",
+    "reading": "まえ",
+    "romaji": "mae",
+    "targetLevel": "N5",
+    "meaningKo": "앞",
+    "shortMeaningKo": "앞",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "家の前にいます。",
+    "exampleKo": "집 앞에 있습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 71,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "前"
+    ]
+  },
+  {
+    "id": "jmdict-1410590-0d72fd5d89",
+    "surface": "待つ",
+    "reading": "まつ",
+    "romaji": "matsu",
+    "targetLevel": "N5",
+    "meaningKo": "기다리다",
+    "shortMeaningKo": "기다리다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "君を待ちます。",
+    "exampleKo": "너를 기다립니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 70,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "待"
+    ]
+  },
+  {
+    "id": "jmdict-2457920-64f29e310e",
+    "surface": "ですか",
+    "reading": "ですか",
+    "romaji": "desuka",
+    "targetLevel": "N5",
+    "meaningKo": "~입니까?, ~인가요? (의문 표지)",
+    "shortMeaningKo": "~인가요?",
+    "partOfSpeech": [
+      "expression"
+    ],
+    "exampleJa": "それは本ですか。",
+    "exampleKo": "그것은 책인가요?",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 69,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1338240-acd03a5186",
+    "surface": "出る",
+    "reading": "でる",
+    "romaji": "deru",
+    "targetLevel": "N5",
+    "meaningKo": "나가다, 나오다",
+    "shortMeaningKo": "나가다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "家を出ます。",
+    "exampleKo": "집을 나갑니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 68,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "出"
+    ]
+  },
+  {
+    "id": "jmdict-2028950-37536d2d4e",
+    "surface": "とは",
+    "reading": "とは",
+    "romaji": "toha",
+    "targetLevel": "N4",
+    "meaningKo": "~이란, ~은/는 (정의·인용 표지)",
+    "shortMeaningKo": "~이란",
+    "partOfSpeech": [
+      "particle",
+      "expression"
+    ],
+    "exampleJa": "好きとは、大事なことです。",
+    "exampleKo": "좋아함이란 소중한 것입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 67,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-2083570-43702c3e22",
+    "surface": "中",
+    "reading": "じゅう",
+    "romaji": "jiゅu",
+    "targetLevel": "N4",
+    "meaningKo": "~내내, ~동안 내내 (시간 전체를 통해서)",
+    "shortMeaningKo": "~내내",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 66,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "中"
+    ]
+  },
+  {
+    "id": "jmdict-1008530-65bf1e0d94",
+    "surface": "とか",
+    "reading": "とか",
+    "romaji": "toka",
+    "targetLevel": "N4",
+    "meaningKo": "~라든지, ~같은 것, ~등 (비한정 열거)",
+    "shortMeaningKo": "~라든지",
+    "partOfSpeech": [
+      "particle",
+      "expression",
+      "conjunction"
+    ],
+    "exampleJa": "仕事とか大変だ。",
+    "exampleKo": "일이라든지 힘들다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 65,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1579110-14ebed8c42",
+    "surface": "今日",
+    "reading": "きょう",
+    "romaji": "kyou",
+    "targetLevel": "N5",
+    "meaningKo": "오늘",
+    "shortMeaningKo": "오늘",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "今日は元気です。",
+    "exampleKo": "오늘은 잘 지냅니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '금일'과 의미 '오늘'이 갈림. 일상어는 '오늘'.",
+    "priority": 64,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "今",
+      "日"
+    ]
+  },
+  {
+    "id": "jmdict-1600900-bcf261b6fc",
+    "surface": "話",
+    "reading": "はなし",
+    "romaji": "hanashi",
+    "targetLevel": "N5",
+    "meaningKo": "이야기, 대화",
+    "shortMeaningKo": "이야기",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "これは本当の話です。",
+    "exampleKo": "이것은 진짜 이야기입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 63,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "話"
+    ]
+  },
+  {
+    "id": "jmdict-2016410-036c6f43fd",
+    "surface": "みたい",
+    "reading": "みたい",
+    "romaji": "mitai",
+    "targetLevel": "N4",
+    "meaningKo": "~같다, ~처럼 (유사·추측)",
+    "shortMeaningKo": "~같다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na"
+    ],
+    "exampleJa": "夢みたいだ。",
+    "exampleKo": "꿈 같다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 62,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1013190-bf99ce0d95",
+    "surface": "より",
+    "reading": "より",
+    "romaji": "yori",
+    "targetLevel": "N4",
+    "meaningKo": "~보다 (비교 기준)",
+    "shortMeaningKo": "~보다",
+    "partOfSpeech": [
+      "adverb",
+      "particle"
+    ],
+    "exampleJa": "僕より大変だ。",
+    "exampleKo": "나보다 힘들다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 61,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1281020-f7865441b2",
+    "surface": "考える",
+    "reading": "かんがえる",
+    "romaji": "kangaeru",
+    "targetLevel": "N4",
+    "meaningKo": "생각하다",
+    "shortMeaningKo": "생각하다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "夢を考える。",
+    "exampleKo": "꿈을 생각한다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 60,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "考"
+    ]
+  },
+  {
+    "id": "jmdict-1315720-f798ac53d5",
+    "surface": "持つ",
+    "reading": "もつ",
+    "romaji": "motsu",
+    "targetLevel": "N5",
+    "meaningKo": "들다, 쥐다",
+    "shortMeaningKo": "들다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 59,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "持"
+    ]
+  },
+  {
+    "id": "jmdict-1465590-146e9890b5",
+    "surface": "入る",
+    "reading": "はいる",
+    "romaji": "hairu",
+    "targetLevel": "N5",
+    "meaningKo": "들어가다",
+    "shortMeaningKo": "들어가다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "部屋に入る。",
+    "exampleKo": "방에 들어간다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 58,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "入"
+    ]
+  },
+  {
+    "id": "jmdict-1188270-117657c2b7",
+    "surface": "何か",
+    "reading": "なにか",
+    "romaji": "nanika",
+    "targetLevel": "N5",
+    "meaningKo": "뭔가, 무언가, 어떤 것",
+    "shortMeaningKo": "뭔가",
+    "partOfSpeech": [
+      "pronoun",
+      "adverb",
+      "interjection"
+    ],
+    "exampleJa": "何か食べる。",
+    "exampleKo": "뭔가 먹는다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 57,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "何"
+    ]
+  },
+  {
+    "id": "jmdict-1158880-2ad1c5ac64",
+    "surface": "違う",
+    "reading": "ちがう",
+    "romaji": "chigau",
+    "targetLevel": "N5",
+    "meaningKo": "다르다",
+    "shortMeaningKo": "다르다",
+    "partOfSpeech": [
+      "verb-godan",
+      "expression"
+    ],
+    "exampleJa": "名前が違う。",
+    "exampleKo": "이름이 다르다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 56,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "違"
+    ]
+  },
+  {
+    "id": "jmdict-1002290-0b0f60e643",
+    "surface": "お前",
+    "reading": "おまえ",
+    "romaji": "omae",
+    "targetLevel": "N5",
+    "meaningKo": "너 (거친, 친밀)",
+    "shortMeaningKo": "너",
+    "partOfSpeech": [
+      "noun",
+      "pronoun"
+    ],
+    "exampleJa": "お前は元気だ。",
+    "exampleKo": "너는 잘 지낸다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '전'과 의미 '너'가 갈림. お前는 격식 낮은 2인칭.",
+    "priority": 55,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "前"
+    ]
+  },
+  {
+    "id": "jmdict-1221270-437edf3e25",
+    "surface": "帰る",
+    "reading": "かえる",
+    "romaji": "kaeru",
+    "targetLevel": "N5",
+    "meaningKo": "돌아가다",
+    "shortMeaningKo": "돌아가다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "今日家に帰る。",
+    "exampleKo": "오늘 집에 돌아간다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 54,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "帰"
+    ]
+  },
+  {
+    "id": "jmdict-2029120-ab4456986a",
+    "surface": "さ",
+    "reading": "さ",
+    "romaji": "sa",
+    "targetLevel": "N4",
+    "meaningKo": "~함 (추상 명사화 접미사)",
+    "shortMeaningKo": "~함",
+    "partOfSpeech": [
+      "noun",
+      "particle",
+      "interjection"
+    ],
+    "exampleJa": "夢の大変さだ。",
+    "exampleKo": "꿈의 힘듦이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 53,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1217730-e6ebc6a635",
+    "surface": "顔",
+    "reading": "かお",
+    "romaji": "kao",
+    "targetLevel": "N5",
+    "meaningKo": "얼굴",
+    "shortMeaningKo": "얼굴",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "彼女の顔を見る。",
+    "exampleKo": "그녀의 얼굴을 본다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 52,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "顔"
+    ]
+  },
+  {
+    "id": "jmdict-1151260-f5c882a0b3",
+    "surface": "悪い",
+    "reading": "わるい",
+    "romaji": "warui",
+    "targetLevel": "N5",
+    "meaningKo": "나쁘다, 좋지 않다",
+    "shortMeaningKo": "나쁘다",
+    "partOfSpeech": [
+      "adjective-i",
+      "interjection"
+    ],
+    "exampleJa": "今日は頭が悪い。",
+    "exampleKo": "오늘은 머리가 나쁘다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 51,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "悪"
+    ]
+  },
+  {
+    "id": "jmdict-1348870-368be9c4ab",
+    "surface": "少し",
+    "reading": "すこし",
+    "romaji": "sukoshi",
+    "targetLevel": "N5",
+    "meaningKo": "조금, 약간, 잠깐",
+    "shortMeaningKo": "조금",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "少し食べる。",
+    "exampleKo": "조금 먹는다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 50,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "少"
+    ]
+  },
+  {
+    "id": "jmdict-1163420-165c81816c",
+    "surface": "一緒に",
+    "reading": "いっしょに",
+    "romaji": "ishoni",
+    "targetLevel": "N5",
+    "meaningKo": "함께, 같이",
+    "shortMeaningKo": "함께",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "彼女と一緒に行く。",
+    "exampleKo": "그녀와 함께 간다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 49,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "一",
+      "緒"
+    ]
+  },
+  {
+    "id": "jmdict-2406710-b0a50b1a8d",
+    "surface": "ただ",
+    "reading": "ただ",
+    "romaji": "tada",
+    "targetLevel": "N4",
+    "meaningKo": "솔직하다",
+    "shortMeaningKo": "솔직하다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 48,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1416830-1e4524694a",
+    "surface": "誰",
+    "reading": "だれ",
+    "romaji": "dare",
+    "targetLevel": "N5",
+    "meaningKo": "누구",
+    "shortMeaningKo": "누구",
+    "partOfSpeech": [
+      "pronoun"
+    ],
+    "exampleJa": "あれは誰だ。",
+    "exampleKo": "저것은 누구다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 47,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "誰"
+    ]
+  },
+  {
+    "id": "jmdict-1451750-06212d3547",
+    "surface": "同じ",
+    "reading": "おなじ",
+    "romaji": "onaji",
+    "targetLevel": "N5",
+    "meaningKo": "같다, 동일하다",
+    "shortMeaningKo": "같다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "exampleJa": "名前が同じだ。",
+    "exampleKo": "이름이 같다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 46,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "同"
+    ]
+  },
+  {
+    "id": "jmdict-1012620-6cedd6e5ba",
+    "surface": "もっと",
+    "reading": "もっと",
+    "romaji": "moto",
+    "targetLevel": "N5",
+    "meaningKo": "더, 더욱, 좀 더",
+    "shortMeaningKo": "더",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "もっと食べる。",
+    "exampleKo": "더 먹는다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 45,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1198180-fdd2c015c5",
+    "surface": "会う",
+    "reading": "あう",
+    "romaji": "au",
+    "targetLevel": "N5",
+    "meaningKo": "만나다",
+    "shortMeaningKo": "만나다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "彼女に会う。",
+    "exampleKo": "그녀를 만난다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 44,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "会"
+    ]
+  },
+  {
+    "id": "jmdict-1400150-bc1810b933",
+    "surface": "早く",
+    "reading": "はやく",
+    "romaji": "hayaku",
+    "targetLevel": "N5",
+    "meaningKo": "일찍, 빨리",
+    "shortMeaningKo": "일찍",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "早く起きる。",
+    "exampleKo": "일찍 일어난다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 43,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "早"
+    ]
+  },
+  {
+    "id": "jmdict-1523060-f1e0281857",
+    "surface": "本当",
+    "reading": "ほんとう",
+    "romaji": "hontou",
+    "targetLevel": "N5",
+    "meaningKo": "진실, 사실",
+    "shortMeaningKo": "사실",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na"
+    ],
+    "exampleJa": "その話は本当です",
+    "exampleKo": "그 이야기는 사실입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '본당'과 의미 '사실'이 갈림. 일상어는 '사실/정말'.",
+    "priority": 42,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "本",
+      "当"
+    ]
+  },
+  {
+    "id": "jmdict-1007660-4e0115502c",
+    "surface": "ちゃん",
+    "reading": "ちゃん",
+    "romaji": "chan",
+    "targetLevel": "N5",
+    "meaningKo": "~짱 (친근한 호칭 접미사)",
+    "shortMeaningKo": "~짱",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "田中ちゃんは元気です",
+    "exampleKo": "다나카짱은 잘 지냅니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 41,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1259140-425beb4b26",
+    "surface": "見える",
+    "reading": "みえる",
+    "romaji": "mieru",
+    "targetLevel": "N4",
+    "meaningKo": "보이다",
+    "shortMeaningKo": "보이다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "ここから家が見えます",
+    "exampleKo": "여기서 집이 보입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 40,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "見"
+    ]
+  },
+  {
+    "id": "jmdict-1013240-24cb06dd44",
+    "surface": "らしい",
+    "reading": "らしい",
+    "romaji": "rashii",
+    "targetLevel": "N4",
+    "meaningKo": "~답다, ~다운",
+    "shortMeaningKo": "~답다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-i"
+    ],
+    "exampleJa": "あの人は本当に男らしい",
+    "exampleKo": "저 사람은 정말 남자답다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 39,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1277450-1086d04fd5",
+    "surface": "好き",
+    "reading": "すき",
+    "romaji": "suki",
+    "targetLevel": "N5",
+    "meaningKo": "좋아하다",
+    "shortMeaningKo": "좋아하다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na"
+    ],
+    "exampleJa": "僕はこの部屋が好きです",
+    "exampleKo": "저는 이 방을 좋아합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 38,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "好"
+    ]
+  },
+  {
+    "id": "jmdict-1338180-5a484e21b9",
+    "surface": "出す",
+    "reading": "だす",
+    "romaji": "dasu",
+    "targetLevel": "N5",
+    "meaningKo": "꺼내다, 빼내다",
+    "shortMeaningKo": "꺼내다",
+    "partOfSpeech": [
+      "noun",
+      "verb-godan"
+    ],
+    "exampleJa": "今、声を出します",
+    "exampleKo": "지금 목소리를 냅니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 37,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "出"
+    ]
+  },
+  {
+    "id": "jmdict-1305990-86e44939cf",
+    "surface": "使う",
+    "reading": "つかう",
+    "romaji": "tsukau",
+    "targetLevel": "N5",
+    "meaningKo": "쓰다, 사용하다",
+    "shortMeaningKo": "쓰다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "今、この部屋を使います",
+    "exampleKo": "지금 이 방을 씁니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 36,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "使"
+    ]
+  },
+  {
+    "id": "jmdict-1419990-779f977830",
+    "surface": "男",
+    "reading": "おとこ",
+    "romaji": "otoko",
+    "targetLevel": "N5",
+    "meaningKo": "남자",
+    "shortMeaningKo": "남자",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "あの人は男です",
+    "exampleKo": "저 사람은 남자입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 35,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "男"
+    ]
+  },
+  {
+    "id": "jmdict-1327190-86dd8e5630",
+    "surface": "手",
+    "reading": "て",
+    "romaji": "te",
+    "targetLevel": "N5",
+    "meaningKo": "손, 팔",
+    "shortMeaningKo": "손",
+    "partOfSpeech": [
+      "noun",
+      "counter"
+    ],
+    "exampleJa": "僕の手は同じです",
+    "exampleKo": "제 손은 같습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 34,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "question"
+    ],
+    "kanjiUsed": [
+      "手"
+    ]
+  },
+  {
+    "id": "jmdict-2253290-77c9f3401f",
+    "surface": "方",
+    "reading": "がた",
+    "romaji": "gata",
+    "targetLevel": "N4",
+    "meaningKo": "~분들 (경칭 복수 접미사)",
+    "shortMeaningKo": "~분들",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 33,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "方"
+    ]
+  },
+  {
+    "id": "jmdict-1535880-3fc73c7559",
+    "surface": "戻る",
+    "reading": "もどる",
+    "romaji": "modoru",
+    "targetLevel": "N4",
+    "meaningKo": "돌아가다",
+    "shortMeaningKo": "돌아가다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "今から家に戻ります",
+    "exampleKo": "지금부터 집으로 돌아갑니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 32,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "戻"
+    ]
+  },
+  {
+    "id": "jmdict-1315920-1ad70abbe4",
+    "surface": "時間",
+    "reading": "じかん",
+    "romaji": "jikan",
+    "targetLevel": "N5",
+    "meaningKo": "시간",
+    "shortMeaningKo": "시간",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "今は時間です",
+    "exampleKo": "지금은 시간입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 31,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "時",
+      "間"
+    ]
+  },
+  {
+    "id": "jmdict-1597890-3a8a715033",
+    "surface": "作る",
+    "reading": "つくる",
+    "romaji": "tsukuru",
+    "targetLevel": "N5",
+    "meaningKo": "만들다",
+    "shortMeaningKo": "만들다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "彼女は家で作ります",
+    "exampleKo": "그녀는 집에서 만듭니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 30,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "作"
+    ]
+  },
+  {
+    "id": "jmdict-1604890-d4cc3e9f2b",
+    "surface": "目",
+    "reading": "め",
+    "romaji": "me",
+    "targetLevel": "N5",
+    "meaningKo": "눈, 눈알",
+    "shortMeaningKo": "눈",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "彼女の目は同じです",
+    "exampleKo": "그녀의 눈은 같습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 29,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "目"
+    ]
+  },
+  {
+    "id": "jmdict-1310730-df07b42041",
+    "surface": "死ぬ",
+    "reading": "しぬ",
+    "romaji": "shinu",
+    "targetLevel": "N5",
+    "meaningKo": "죽다",
+    "shortMeaningKo": "죽다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "あの男は死にます",
+    "exampleKo": "저 남자는 죽습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 28,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "死"
+    ]
+  },
+  {
+    "id": "jmdict-1006380-87c9b7c89e",
+    "surface": "ずっと",
+    "reading": "ずっと",
+    "romaji": "zuto",
+    "targetLevel": "N5",
+    "meaningKo": "쭉, 계속, 내내, 줄곧",
+    "shortMeaningKo": "쭉",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "今日はずっと家にいます",
+    "exampleKo": "오늘은 쭉 집에 있습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 27,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1009330-e33a7e36c1",
+    "surface": "どんな",
+    "reading": "どんな",
+    "romaji": "donna",
+    "targetLevel": "N5",
+    "meaningKo": "어떻다",
+    "shortMeaningKo": "어떤",
+    "partOfSpeech": [
+      "adjective-na"
+    ],
+    "exampleJa": "どんな人も好きです",
+    "exampleKo": "어떤 사람도 좋아합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 26,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1562350-9ba9b2d54b",
+    "surface": "話す",
+    "reading": "はなす",
+    "romaji": "hanasu",
+    "targetLevel": "N5",
+    "meaningKo": "말하다, 이야기하다",
+    "shortMeaningKo": "말하다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "僕は先生と話します",
+    "exampleKo": "저는 선생님과 이야기합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 25,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "話"
+    ]
+  },
+  {
+    "id": "jmdict-1007720-58c60b77dc",
+    "surface": "ちゃんと",
+    "reading": "ちゃんと",
+    "romaji": "chanto",
+    "targetLevel": "N4",
+    "meaningKo": "제대로",
+    "shortMeaningKo": "제대로",
+    "partOfSpeech": [
+      "verb-suru",
+      "adverb"
+    ],
+    "exampleJa": "彼女はちゃんと話します",
+    "exampleKo": "그녀는 제대로 이야기합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 24,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1008340-be24bbdd03",
+    "surface": "である",
+    "reading": "である",
+    "romaji": "dearu",
+    "targetLevel": "N4",
+    "meaningKo": "~이다 (격식·문어체 단정)",
+    "shortMeaningKo": "~이다",
+    "partOfSpeech": [
+      "verb-godan",
+      "copula"
+    ],
+    "exampleJa": "これは話である",
+    "exampleKo": "이것은 이야기이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "である는 문어체 계사. 회화의 だ/です와 사용역이 다름.",
+    "priority": 23,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1266440-50f627a40c",
+    "surface": "呼ぶ",
+    "reading": "よぶ",
+    "romaji": "yobu",
+    "targetLevel": "N4",
+    "meaningKo": "부르다",
+    "shortMeaningKo": "부르다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "先生を呼びます",
+    "exampleKo": "선생님을 부릅니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 22,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "呼"
+    ]
+  },
+  {
+    "id": "jmdict-1380440-97d44f432e",
+    "surface": "声",
+    "reading": "こえ",
+    "romaji": "koe",
+    "targetLevel": "N5",
+    "meaningKo": "목소리",
+    "shortMeaningKo": "목소리",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "彼女の声は同じです",
+    "exampleKo": "그녀의 목소리는 같습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 21,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "声"
+    ]
+  },
+  {
+    "id": "jmdict-1521400-e34a0c3de6",
+    "surface": "僕",
+    "reading": "ぼく",
+    "romaji": "boku",
+    "targetLevel": "N5",
+    "meaningKo": "나 (남성, 캐주얼)",
+    "shortMeaningKo": "나",
+    "partOfSpeech": [
+      "noun",
+      "pronoun"
+    ],
+    "exampleJa": "僕は先生です",
+    "exampleKo": "저는 선생님입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "僕는 주로 남성이 쓰는 1인칭. 사용역에 유의.",
+    "priority": 20,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "僕"
+    ]
+  },
+  {
+    "id": "jmdict-1589600-0ecb79e462",
+    "surface": "終わる",
+    "reading": "おわる",
+    "romaji": "owaru",
+    "targetLevel": "N5",
+    "meaningKo": "끝나다, 마치다",
+    "shortMeaningKo": "끝나다",
+    "partOfSpeech": [
+      "noun",
+      "verb-godan"
+    ],
+    "exampleJa": "今、話が終わります",
+    "exampleKo": "지금 이야기가 끝납니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 19,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "終"
+    ]
+  },
+  {
+    "id": "jmdict-1191730-ad600c3276",
+    "surface": "家",
+    "reading": "いえ",
+    "romaji": "ie",
+    "targetLevel": "N5",
+    "meaningKo": "집",
+    "shortMeaningKo": "집",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "ここは僕の家だ。",
+    "exampleKo": "여기는 내 집이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 18,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "家"
+    ]
+  },
+  {
+    "id": "jmdict-1519210-5865317210",
+    "surface": "忘れる",
+    "reading": "わすれる",
+    "romaji": "wasureru",
+    "targetLevel": "N4",
+    "meaningKo": "잊어버리다",
+    "shortMeaningKo": "잊어버리다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "君の名前を忘れる。",
+    "exampleKo": "너의 이름을 잊어버린다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 17,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "忘"
+    ]
+  },
+  {
+    "id": "jmdict-1358280-d36845609e",
+    "surface": "食べる",
+    "reading": "たべる",
+    "romaji": "taberu",
+    "targetLevel": "N5",
+    "meaningKo": "먹다",
+    "shortMeaningKo": "먹다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "今日は家で食べる。",
+    "exampleKo": "오늘은 집에서 먹는다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 16,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "食"
+    ]
+  },
+  {
+    "id": "jmdict-1316380-9d156e2fb6",
+    "surface": "次",
+    "reading": "つぎ",
+    "romaji": "tsugi",
+    "targetLevel": "N5",
+    "meaningKo": "다음",
+    "shortMeaningKo": "다음",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "次は僕の話だ。",
+    "exampleKo": "다음은 내 이야기다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 15,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "次"
+    ]
+  },
+  {
+    "id": "jmdict-1236900-b5d4fa3ad6",
+    "surface": "教える",
+    "reading": "おしえる",
+    "romaji": "oshieru",
+    "targetLevel": "N5",
+    "meaningKo": "가르치다",
+    "shortMeaningKo": "가르치다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "先生が名前を教える。",
+    "exampleKo": "선생님이 이름을 가르친다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 14,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "教"
+    ]
+  },
+  {
+    "id": "jmdict-1548370-d1fbcd5f35",
+    "surface": "頼む",
+    "reading": "たのむ",
+    "romaji": "tanomu",
+    "targetLevel": "N4",
+    "meaningKo": "부탁하다",
+    "shortMeaningKo": "부탁하다",
+    "partOfSpeech": [
+      "verb-godan",
+      "interjection"
+    ],
+    "exampleJa": "彼女に頼む。",
+    "exampleKo": "그녀에게 부탁한다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 13,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "頼"
+    ]
+  },
+  {
+    "id": "jmdict-1307770-d9caac4e05",
+    "surface": "子",
+    "reading": "こ",
+    "romaji": "ko",
+    "targetLevel": "N5",
+    "meaningKo": "아이, 어린이",
+    "shortMeaningKo": "아이",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "この子は元気だ。",
+    "exampleKo": "이 아이는 건강하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 12,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "子"
+    ]
+  },
+  {
+    "id": "jmdict-1289370-633226fed9",
+    "surface": "今度",
+    "reading": "こんど",
+    "romaji": "kondo",
+    "targetLevel": "N4",
+    "meaningKo": "이번",
+    "shortMeaningKo": "이번",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "今度は僕の話だ。",
+    "exampleKo": "이번은 내 이야기다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '금도'와 의미 '이번'이 갈림. '다음번' 뜻도 있음.",
+    "priority": 11,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "今",
+      "度"
+    ]
+  },
+  {
+    "id": "jmdict-1360930-0ea6479066",
+    "surface": "心配",
+    "reading": "しんぱい",
+    "romaji": "shinpai",
+    "targetLevel": "N4",
+    "meaningKo": "걱정(하다), 불안",
+    "shortMeaningKo": "걱정",
+    "partOfSpeech": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ],
+    "exampleJa": "彼女が心配だ。",
+    "exampleKo": "그녀가 걱정이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '심배'와 의미 '걱정'이 갈림. 한국어 직역 불가.",
+    "priority": 10,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "心",
+      "配"
+    ]
+  },
+  {
+    "id": "jmdict-1304970-a8c6a698da",
+    "surface": "仕事",
+    "reading": "しごと",
+    "romaji": "shigoto",
+    "targetLevel": "N5",
+    "meaningKo": "일(하다), 직업",
+    "shortMeaningKo": "일",
+    "partOfSpeech": [
+      "noun",
+      "verb-suru"
+    ],
+    "exampleJa": "今日は仕事だ。",
+    "exampleKo": "오늘은 일이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '사사'와 의미 '일'이 갈림. 한국어 '사사'와 무관.",
+    "priority": 9,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "仕",
+      "事"
+    ]
+  },
+  {
+    "id": "jmdict-1591430-75665bfa82",
+    "surface": "気持ち",
+    "reading": "きもち",
+    "romaji": "kimochi",
+    "targetLevel": "N4",
+    "meaningKo": "기분, 느낌",
+    "shortMeaningKo": "기분",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "今は気持ちが変だ。",
+    "exampleKo": "지금은 기분이 이상하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 8,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "気",
+      "持"
+    ]
+  },
+  {
+    "id": "jmdict-1378520-e19677df03",
+    "surface": "生きる",
+    "reading": "いきる",
+    "romaji": "ikiru",
+    "targetLevel": "N4",
+    "meaningKo": "살다",
+    "shortMeaningKo": "살다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "僕は今を生きる。",
+    "exampleKo": "나는 지금을 산다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 7,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "生"
+    ]
+  },
+  {
+    "id": "jmdict-1154340-2a12252cb2",
+    "surface": "くらい",
+    "reading": "くらい",
+    "romaji": "kurai",
+    "targetLevel": "N4",
+    "meaningKo": "~쯤, ~정도 (대략적인 정도·양)",
+    "shortMeaningKo": "~쯤",
+    "partOfSpeech": [
+      "noun",
+      "particle"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 6,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1259210-9454f86f5e",
+    "surface": "見せる",
+    "reading": "みせる",
+    "romaji": "miseru",
+    "targetLevel": "N4",
+    "meaningKo": "보여주다",
+    "shortMeaningKo": "보여주다",
+    "partOfSpeech": [
+      "verb-ichidan",
+      "auxiliary"
+    ],
+    "exampleJa": "彼女に手を見せる。",
+    "exampleKo": "그녀에게 손을 보여준다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "見せる는 '보여주다'. 보조동사로도 쓰여 의지·결의를 표시.",
+    "priority": 5,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "見"
+    ]
+  },
+  {
+    "id": "jmdict-2231090-6280728141",
+    "surface": "よし",
+    "reading": "よし",
+    "romaji": "yoshi",
+    "targetLevel": "N4",
+    "meaningKo": "그만둠, 포기",
+    "shortMeaningKo": "그만둠",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "それではよしではなかった。",
+    "exampleKo": "그것으로는 그만이 아니었다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 4,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1401000-36e1b12e74",
+    "surface": "相手",
+    "reading": "あいて",
+    "romaji": "aite",
+    "targetLevel": "N4",
+    "meaningKo": "상대, 상대방",
+    "shortMeaningKo": "상대",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "彼女は僕の相手だ。",
+    "exampleKo": "그녀는 나의 상대다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '상수'와 의미 '상대'가 갈림. 한국어 '상대'로 직역.",
+    "priority": 3,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "相",
+      "手"
+    ]
+  },
+  {
+    "id": "jmdict-1352130-0491bab072",
+    "surface": "上",
+    "reading": "うえ",
+    "romaji": "ue",
+    "targetLevel": "N5",
+    "meaningKo": "위, 위쪽",
+    "shortMeaningKo": "위",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "手の上ではなかった。",
+    "exampleKo": "손 위가 아니었다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 2,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "上"
+    ]
+  },
+  {
+    "id": "jmdict-1247250-fa23093175",
+    "surface": "君",
+    "reading": "きみ",
+    "romaji": "kimi",
+    "targetLevel": "N5",
+    "meaningKo": "너 (친근)",
+    "shortMeaningKo": "너",
+    "partOfSpeech": [
+      "noun",
+      "pronoun"
+    ],
+    "exampleJa": "君が好きだ。",
+    "exampleKo": "너를 좋아한다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "君는 동등·아랫사람에게 쓰는 2인칭. 사용역에 유의.",
+    "priority": 1,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "君"
+    ]
+  },
+  {
+    "id": "jmdict-1465610-76a3723e50",
+    "surface": "入れる",
+    "reading": "いれる",
+    "romaji": "ireru",
+    "targetLevel": "N5",
+    "meaningKo": "넣다",
+    "shortMeaningKo": "넣다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "口に入れる。",
+    "exampleKo": "입에 넣는다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "入"
+    ]
+  },
+  {
+    "id": "jmdict-1396130-bd9765aab9",
+    "surface": "全部",
+    "reading": "ぜんぶ",
+    "romaji": "zenbu",
+    "targetLevel": "N4",
+    "meaningKo": "전부, 모두",
+    "shortMeaningKo": "전부",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "これで全部だ。",
+    "exampleKo": "이것으로 전부다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "全",
+      "部"
+    ]
+  },
+  {
+    "id": "jmdict-1463770-34222a0ddf",
+    "surface": "日",
+    "reading": "ひ",
+    "romaji": "hi",
+    "targetLevel": "N5",
+    "meaningKo": "날, 하루",
+    "shortMeaningKo": "날",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "今日は同じ日だ。",
+    "exampleKo": "오늘은 같은 날이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "日"
+    ]
+  },
+  {
+    "id": "jmdict-1386840-321beceda6",
+    "surface": "絶対",
+    "reading": "ぜったい",
+    "romaji": "zetai",
+    "targetLevel": "N4",
+    "meaningKo": "절대로, 반드시",
+    "shortMeaningKo": "절대로",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "絶対に無理だ。",
+    "exampleKo": "절대로 무리다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "絶",
+      "対"
+    ]
+  },
+  {
+    "id": "jmdict-1344930-efd2a65438",
+    "surface": "女",
+    "reading": "おんな",
+    "romaji": "onna",
+    "targetLevel": "N5",
+    "meaningKo": "여자",
+    "shortMeaningKo": "여자",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "彼女は元気な女だ。",
+    "exampleKo": "그녀는 건강한 여자다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "女"
+    ]
+  },
+  {
+    "id": "jmdict-1326980-39f34a2f7d",
+    "surface": "取る",
+    "reading": "とる",
+    "romaji": "toru",
+    "targetLevel": "N5",
+    "meaningKo": "잡다, 집다",
+    "shortMeaningKo": "잡다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "僕が手に取った。",
+    "exampleKo": "내가 손에 잡았다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "取"
+    ]
+  },
+  {
+    "id": "jmdict-1000590-afd029e755",
+    "surface": "あんな",
+    "reading": "あんな",
+    "romaji": "anna",
+    "targetLevel": "N5",
+    "meaningKo": "저렇다",
+    "shortMeaningKo": "저런",
+    "partOfSpeech": [
+      "adjective-na"
+    ],
+    "exampleJa": "あんな男は好きだ。",
+    "exampleKo": "저런 남자는 좋아한다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1606560-c248eab8db",
+    "surface": "分かる",
+    "reading": "わかる",
+    "romaji": "wakaru",
+    "targetLevel": "N5",
+    "meaningKo": "알다, 이해하다",
+    "shortMeaningKo": "알다",
+    "partOfSpeech": [
+      "verb-godan",
+      "interjection"
+    ],
+    "exampleJa": "君の気持ちは分かる。",
+    "exampleKo": "너의 기분은 안다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past"
+    ],
+    "kanjiUsed": [
+      "分"
+    ]
+  },
+  {
+    "id": "jmdict-1293810-6fe1c288b6",
+    "surface": "最後",
+    "reading": "さいご",
+    "romaji": "saigo",
+    "targetLevel": "N4",
+    "meaningKo": "마지막, 끝",
+    "shortMeaningKo": "마지막",
+    "partOfSpeech": [
+      "noun",
+      "expression"
+    ],
+    "exampleJa": "これが最後だ。",
+    "exampleKo": "이것이 마지막이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '최후'와 의미 '마지막'이 갈림. 일상어는 '마지막'.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "最",
+      "後"
+    ]
+  },
+  {
+    "id": "jmdict-1236070-5637b9636b",
+    "surface": "強い",
+    "reading": "つよい",
+    "romaji": "tsuyoi",
+    "targetLevel": "N5",
+    "meaningKo": "세다, 강하다, 강인하다",
+    "shortMeaningKo": "세다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "この男は強いです。",
+    "exampleKo": "이 남자는 셉니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "強"
+    ]
+  },
+  {
+    "id": "jmdict-1355850-c8df1c64d8",
+    "surface": "場所",
+    "reading": "ばしょ",
+    "romaji": "basho",
+    "targetLevel": "N5",
+    "meaningKo": "장소",
+    "shortMeaningKo": "장소",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "ここは同じ場所だ。",
+    "exampleKo": "여기는 같은 장소다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "場",
+      "所"
+    ]
+  },
+  {
+    "id": "jmdict-1450330-5d93e4f9b4",
+    "surface": "逃げる",
+    "reading": "にげる",
+    "romaji": "nigeru",
+    "targetLevel": "N4",
+    "meaningKo": "도망치다",
+    "shortMeaningKo": "도망치다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "あの男が逃げる。",
+    "exampleKo": "저 남자가 도망친다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "逃"
+    ]
+  },
+  {
+    "id": "jmdict-1221520-171c687473",
+    "surface": "気",
+    "reading": "き",
+    "romaji": "ki",
+    "targetLevel": "N5",
+    "meaningKo": "마음, 기운",
+    "shortMeaningKo": "마음",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "僕も同じ気持ちだ。",
+    "exampleKo": "나도 같은 마음이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "気"
+    ]
+  },
+  {
+    "id": "jmdict-1611580-94f1739d6a",
+    "surface": "本当に",
+    "reading": "ほんとうに",
+    "romaji": "hontouni",
+    "targetLevel": "N5",
+    "meaningKo": "정말로, 진짜로",
+    "shortMeaningKo": "정말로",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "本当に元気です。",
+    "exampleKo": "정말로 건강합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "本",
+      "当"
+    ]
+  },
+  {
+    "id": "jmdict-1487660-1e5a70edb2",
+    "surface": "必要",
+    "reading": "ひつよう",
+    "romaji": "hitsuyou",
+    "targetLevel": "N4",
+    "meaningKo": "필요하다",
+    "shortMeaningKo": "필요하다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na"
+    ],
+    "exampleJa": "この仕事が必要だ。",
+    "exampleKo": "이 일이 필요하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "必",
+      "要"
+    ]
+  },
+  {
+    "id": "jmdict-1264540-8cf94933e9",
+    "surface": "言葉",
+    "reading": "ことば",
+    "romaji": "kotoba",
+    "targetLevel": "N5",
+    "meaningKo": "단어, 표현",
+    "shortMeaningKo": "단어",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "これは同じ言葉だ。",
+    "exampleKo": "이것은 같은 단어다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '언엽'과 의미 '단어'가 갈림. '말·언어' 의미도 포괄.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "言",
+      "葉"
+    ]
+  },
+  {
+    "id": "jmdict-1315840-74b185c194",
+    "surface": "時",
+    "reading": "とき",
+    "romaji": "toki",
+    "targetLevel": "N5",
+    "meaningKo": "때, 순간",
+    "shortMeaningKo": "때",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "今がその時だ。",
+    "exampleKo": "지금이 그 때다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "時"
+    ]
+  },
+  {
+    "id": "jmdict-1531710-f46fb2c9d9",
+    "surface": "名前",
+    "reading": "なまえ",
+    "romaji": "namae",
+    "targetLevel": "N5",
+    "meaningKo": "이름",
+    "shortMeaningKo": "이름",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "君の名前は同じだ。",
+    "exampleKo": "네 이름은 같다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '명전'과 의미 '이름'이 갈림. 한국어 '명전'은 비통용.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "名",
+      "前"
+    ]
+  },
+  {
+    "id": "jmdict-1342550-f868c2c252",
+    "surface": "初めて",
+    "reading": "はじめて",
+    "romaji": "hajimete",
+    "targetLevel": "N4",
+    "meaningKo": "처음으로",
+    "shortMeaningKo": "처음으로",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "今日が初めてだ。",
+    "exampleKo": "오늘이 처음이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "初"
+    ]
+  },
+  {
+    "id": "jmdict-1483150-2bc2ef7140",
+    "surface": "彼女",
+    "reading": "かのじょ",
+    "romaji": "kanojiょ",
+    "targetLevel": "N5",
+    "meaningKo": "그녀",
+    "shortMeaningKo": "그녀",
+    "partOfSpeech": [
+      "noun",
+      "pronoun"
+    ],
+    "exampleJa": "彼女は先生です。",
+    "exampleKo": "그녀는 선생님입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "彼",
+      "女"
+    ]
+  },
+  {
+    "id": "jmdict-1415000-f48a1c9b0b",
+    "surface": "大変",
+    "reading": "たいへん",
+    "romaji": "taihen",
+    "targetLevel": "N4",
+    "meaningKo": "매우, 굉장히",
+    "shortMeaningKo": "매우",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "exampleJa": "仕事は大変だ。",
+    "exampleKo": "일이 매우 힘들다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "大",
+      "変"
+    ]
+  },
+  {
+    "id": "jmdict-1530970-78c746b054",
+    "surface": "無理",
+    "reading": "むり",
+    "romaji": "muri",
+    "targetLevel": "N4",
+    "meaningKo": "불가능하다",
+    "shortMeaningKo": "불가능하다",
+    "partOfSpeech": [
+      "noun",
+      "verb-suru",
+      "adjective-na",
+      "interjection"
+    ],
+    "exampleJa": "今日はもう無理だ。",
+    "exampleKo": "오늘은 이제 불가능하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음은 '무리'로 같으나 의미는 '불가능하다'에 가까움.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "無",
+      "理"
+    ]
+  },
+  {
+    "id": "jmdict-1405800-746c7dfb3a",
+    "surface": "続ける",
+    "reading": "つづける",
+    "romaji": "tsuzukeru",
+    "targetLevel": "N4",
+    "meaningKo": "계속하다",
+    "shortMeaningKo": "계속하다",
+    "partOfSpeech": [
+      "verb-ichidan",
+      "auxiliary"
+    ],
+    "exampleJa": "僕は仕事を続ける。",
+    "exampleKo": "나는 일을 계속한다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "続ける는 본동사 외 보조동사 ~続ける로 동작 지속을 표시.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "続"
+    ]
+  },
+  {
+    "id": "jmdict-1451210-f51ad82e4c",
+    "surface": "動く",
+    "reading": "うごく",
+    "romaji": "ugoku",
+    "targetLevel": "N4",
+    "meaningKo": "움직이다",
+    "shortMeaningKo": "움직이다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "体が動く。",
+    "exampleKo": "몸이 움직인다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "動"
+    ]
+  },
+  {
+    "id": "jmdict-1593480-9e9007cb60",
+    "surface": "怖い",
+    "reading": "こわい",
+    "romaji": "kowai",
+    "targetLevel": "N5",
+    "meaningKo": "무섭다, 두렵다",
+    "shortMeaningKo": "무섭다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "夜の家は怖い。",
+    "exampleKo": "밤의 집은 무섭다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "怖"
+    ]
+  },
+  {
+    "id": "jmdict-1206050-462d7336e6",
+    "surface": "覚える",
+    "reading": "おぼえる",
+    "romaji": "oboeru",
+    "targetLevel": "N4",
+    "meaningKo": "외우다",
+    "shortMeaningKo": "외우다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "君の名前を覚える。",
+    "exampleKo": "네 이름을 외운다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "覚"
+    ]
+  },
+  {
+    "id": "jmdict-1596930-11d0327675",
+    "surface": "確か",
+    "reading": "たしか",
+    "romaji": "tashika",
+    "targetLevel": "N4",
+    "meaningKo": "확실하다",
+    "shortMeaningKo": "확실하다",
+    "partOfSpeech": [
+      "adjective-na",
+      "adverb"
+    ],
+    "exampleJa": "これは確かだ。",
+    "exampleKo": "이것은 확실하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "確"
+    ]
+  },
+  {
+    "id": "jmdict-1373860-e096c5c8e2",
+    "surface": "世界",
+    "reading": "せかい",
+    "romaji": "sekai",
+    "targetLevel": "N4",
+    "meaningKo": "세계, 세상",
+    "shortMeaningKo": "세계",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "ここは同じ世界だ。",
+    "exampleKo": "여기는 같은 세계다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "世",
+      "界"
+    ]
+  },
+  {
+    "id": "jmdict-1582310-ee24a5ab99",
+    "surface": "頭",
+    "reading": "あたま",
+    "romaji": "atama",
+    "targetLevel": "N5",
+    "meaningKo": "머리",
+    "shortMeaningKo": "머리",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "頭"
+    ]
+  },
+  {
+    "id": "jmdict-1499320-d73094598e",
+    "surface": "部屋",
+    "reading": "へや",
+    "romaji": "heya",
+    "targetLevel": "N5",
+    "meaningKo": "방",
+    "shortMeaningKo": "방",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "ここが僕の部屋だ。",
+    "exampleKo": "여기가 내 방이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '부옥'과 의미 '방'이 갈림. 일상어는 '방'.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "部",
+      "屋"
+    ]
+  },
+  {
+    "id": "jmdict-1360480-cbf2c4a796",
+    "surface": "心",
+    "reading": "こころ",
+    "romaji": "kokoro",
+    "targetLevel": "N5",
+    "meaningKo": "마음",
+    "shortMeaningKo": "마음",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "君の心は同じです。",
+    "exampleKo": "네 마음은 같습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "心"
+    ]
+  },
+  {
+    "id": "jmdict-1189130-c2da8c5366",
+    "surface": "どうぞ",
+    "reading": "どうぞ",
+    "romaji": "douzo",
+    "targetLevel": "N5",
+    "meaningKo": "부디",
+    "shortMeaningKo": "부디",
+    "partOfSpeech": [
+      "verb-suru",
+      "adverb"
+    ],
+    "exampleJa": "どうぞお願いします。",
+    "exampleKo": "부디 부탁드립니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1409140-a68c6926ab",
+    "surface": "体",
+    "reading": "からだ",
+    "romaji": "karada",
+    "targetLevel": "N5",
+    "meaningKo": "몸, 신체",
+    "shortMeaningKo": "몸",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "僕の体は元気です。",
+    "exampleKo": "내 몸은 건강합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "体"
+    ]
+  },
+  {
+    "id": "jmdict-1156800-5a0fbf2159",
+    "surface": "意味",
+    "reading": "いみ",
+    "romaji": "imi",
+    "targetLevel": "N4",
+    "meaningKo": "뜻, 의미(하다)",
+    "shortMeaningKo": "뜻",
+    "partOfSpeech": [
+      "noun",
+      "verb-suru"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "意",
+      "味"
+    ]
+  },
+  {
+    "id": "jmdict-1232870-f4f697d3f6",
+    "surface": "許す",
+    "reading": "ゆるす",
+    "romaji": "yurusu",
+    "targetLevel": "N4",
+    "meaningKo": "용서하다",
+    "shortMeaningKo": "용서하다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "僕は君を許します。",
+    "exampleKo": "나는 너를 용서합니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "許"
+    ]
+  },
+  {
+    "id": "jmdict-1473740-b4cd4bad1d",
+    "surface": "買う",
+    "reading": "かう",
+    "romaji": "kau",
+    "targetLevel": "N5",
+    "meaningKo": "사다",
+    "shortMeaningKo": "사다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "明日家を買います。",
+    "exampleKo": "내일 집을 삽니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "買"
+    ]
+  },
+  {
+    "id": "jmdict-1554820-6c2d58afee",
+    "surface": "力",
+    "reading": "ちから",
+    "romaji": "chikara",
+    "targetLevel": "N5",
+    "meaningKo": "힘",
+    "shortMeaningKo": "힘",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "君には力があります。",
+    "exampleKo": "너에게는 힘이 있습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "力"
+    ]
+  },
+  {
+    "id": "jmdict-1344410-0229eb01a2",
+    "surface": "助ける",
+    "reading": "たすける",
+    "romaji": "tasukeru",
+    "targetLevel": "N4",
+    "meaningKo": "구하다",
+    "shortMeaningKo": "구하다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "僕が君を助けます。",
+    "exampleKo": "제가 당신을 구하겠습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "助"
+    ]
+  },
+  {
+    "id": "jmdict-1382370-51f569c471",
+    "surface": "昔",
+    "reading": "むかし",
+    "romaji": "mukashi",
+    "targetLevel": "N4",
+    "meaningKo": "옛날, 예전",
+    "shortMeaningKo": "옛날",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "昔の話です。",
+    "exampleKo": "옛날 이야기입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative"
+    ],
+    "kanjiUsed": [
+      "昔"
+    ]
+  },
+  {
+    "id": "jmdict-1254180-6433b68cd3",
+    "surface": "決める",
+    "reading": "きめる",
+    "romaji": "kimeru",
+    "targetLevel": "N4",
+    "meaningKo": "정하다",
+    "shortMeaningKo": "정하다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "僕が決めます。",
+    "exampleKo": "제가 정하겠습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "決"
+    ]
+  },
+  {
+    "id": "jmdict-1359040-09a6018c13",
+    "surface": "信じる",
+    "reading": "しんじる",
+    "romaji": "shinjiru",
+    "targetLevel": "N4",
+    "meaningKo": "믿다",
+    "shortMeaningKo": "믿다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "君を信じます。",
+    "exampleKo": "당신을 믿습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "信"
+    ]
+  },
+  {
+    "id": "jmdict-1212260-0262a47611",
+    "surface": "感じる",
+    "reading": "かんじる",
+    "romaji": "kanjiru",
+    "targetLevel": "N4",
+    "meaningKo": "느끼다",
+    "shortMeaningKo": "느끼다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "力を感じます。",
+    "exampleKo": "힘을 느낍니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "感"
+    ]
+  },
+  {
+    "id": "jmdict-2036870-2df8b89b1c",
+    "surface": "お願い",
+    "reading": "おねがい",
+    "romaji": "onegai",
+    "targetLevel": "N5",
+    "meaningKo": "제발, 부탁해요",
+    "shortMeaningKo": "제발",
+    "partOfSpeech": [
+      "noun",
+      "verb-suru",
+      "interjection"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "願"
+    ]
+  },
+  {
+    "id": "jmdict-2852740-4852609e2c",
+    "surface": "やつ",
+    "reading": "やつ",
+    "romaji": "yatsu",
+    "targetLevel": "N4",
+    "meaningKo": "녀석, 놈",
+    "shortMeaningKo": "녀석",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "同じやつです。",
+    "exampleKo": "같은 녀석입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1510790-3513d32e46",
+    "surface": "変わる",
+    "reading": "かわる",
+    "romaji": "kawaru",
+    "targetLevel": "N4",
+    "meaningKo": "바뀌다, 변하다",
+    "shortMeaningKo": "바뀌다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "世界が変わります。",
+    "exampleKo": "세상이 바뀝니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "変"
+    ]
+  },
+  {
+    "id": "jmdict-1169870-e6bd8349e6",
+    "surface": "飲む",
+    "reading": "のむ",
+    "romaji": "nomu",
+    "targetLevel": "N5",
+    "meaningKo": "마시다",
+    "shortMeaningKo": "마시다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "今飲みます。",
+    "exampleKo": "지금 마십니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "飲"
+    ]
+  },
+  {
+    "id": "jmdict-1307550-372bc808ca",
+    "surface": "始める",
+    "reading": "はじめる",
+    "romaji": "hajimeru",
+    "targetLevel": "N4",
+    "meaningKo": "시작하다",
+    "shortMeaningKo": "시작하다",
+    "partOfSpeech": [
+      "verb-ichidan",
+      "auxiliary"
+    ],
+    "exampleJa": "今日から始めます。",
+    "exampleKo": "오늘부터 시작하겠습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "始める는 본동사 외 보조동사 ~始める로 동작 개시를 표시.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "始"
+    ]
+  },
+  {
+    "id": "jmdict-1008860-1037907d57",
+    "surface": "言える",
+    "reading": "いえる",
+    "romaji": "ieru",
+    "targetLevel": "N4",
+    "meaningKo": "말할 수 있다",
+    "shortMeaningKo": "말할 수 있다",
+    "partOfSpeech": [
+      "verb-ichidan",
+      "expression"
+    ],
+    "exampleJa": "本当に言えます。",
+    "exampleKo": "정말로 말할 수 있습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "言"
+    ]
+  },
+  {
+    "id": "jmdict-1293990-8172500ac9",
+    "surface": "最初",
+    "reading": "さいしょ",
+    "romaji": "saisho",
+    "targetLevel": "N4",
+    "meaningKo": "처음, 맨 처음",
+    "shortMeaningKo": "처음",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "最初の話です。",
+    "exampleKo": "처음 이야기입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '최초'와 의미 '처음'이 갈림. 일상어는 '처음'.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative"
+    ],
+    "kanjiUsed": [
+      "最",
+      "初"
+    ]
+  },
+  {
+    "id": "jmdict-1207240-38091189e4",
+    "surface": "楽しい",
+    "reading": "たのしい",
+    "romaji": "tanoshii",
+    "targetLevel": "N5",
+    "meaningKo": "즐겁다, 재미있다, 신나다",
+    "shortMeaningKo": "즐겁다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "今日は楽しいです。",
+    "exampleKo": "오늘은 즐겁습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "楽"
+    ]
+  },
+  {
+    "id": "jmdict-1327120-f164cf943b",
+    "surface": "守る",
+    "reading": "まもる",
+    "romaji": "mamoru",
+    "targetLevel": "N4",
+    "meaningKo": "지키다",
+    "shortMeaningKo": "지키다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "君を守ります。",
+    "exampleKo": "당신을 지키겠습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "守"
+    ]
+  },
+  {
+    "id": "jmdict-1322990-a6edb1ee86",
+    "surface": "者",
+    "reading": "もの",
+    "romaji": "mono",
+    "targetLevel": "N4",
+    "meaningKo": "자, 사람",
+    "shortMeaningKo": "자",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "同じ者です。",
+    "exampleKo": "같은 자입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "者"
+    ]
+  },
+  {
+    "id": "jmdict-1509480-d64bf11ae9",
+    "surface": "別に",
+    "reading": "べつに",
+    "romaji": "betsuni",
+    "targetLevel": "N4",
+    "meaningKo": "딱히 (~않다), 별로 (~않다)",
+    "shortMeaningKo": "딱히",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "別"
+    ]
+  },
+  {
+    "id": "jmdict-1215230-6b00397d4c",
+    "surface": "間",
+    "reading": "あいだ",
+    "romaji": "aida",
+    "targetLevel": "N5",
+    "meaningKo": "동안, ~하는 사이 (기간)",
+    "shortMeaningKo": "동안",
+    "partOfSpeech": [
+      "noun",
+      "adverb",
+      "conjunction"
+    ],
+    "exampleJa": "仕事の間、彼女を待った。",
+    "exampleKo": "일하는 동안, 그녀를 기다렸다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "間"
+    ]
+  },
+  {
+    "id": "jmdict-1387990-0913d67ec5",
+    "surface": "先生",
+    "reading": "せんせい",
+    "romaji": "sensei",
+    "targetLevel": "N5",
+    "meaningKo": "선생님",
+    "shortMeaningKo": "선생님",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "田中さんは僕の先生です。",
+    "exampleKo": "다나카 씨는 저의 선생님입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음은 '선생'이나 한국어 '선생님'에 가까운 존칭 용법.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "先",
+      "生"
+    ]
+  },
+  {
+    "id": "jmdict-1343950-b2d9a18581",
+    "surface": "書く",
+    "reading": "かく",
+    "romaji": "kaku",
+    "targetLevel": "N5",
+    "meaningKo": "쓰다",
+    "shortMeaningKo": "쓰다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "僕は名前を書きます。",
+    "exampleKo": "저는 이름을 씁니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "書"
+    ]
+  },
+  {
+    "id": "jmdict-1329590-087683633e",
+    "surface": "受ける",
+    "reading": "うける",
+    "romaji": "ukeru",
+    "targetLevel": "N4",
+    "meaningKo": "받다",
+    "shortMeaningKo": "받다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "彼女から大事な話を受けた。",
+    "exampleKo": "그녀에게서 중요한 이야기를 받았다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "受"
+    ]
+  },
+  {
+    "id": "jmdict-1223640-3ba92b3dc9",
+    "surface": "起きる",
+    "reading": "おきる",
+    "romaji": "okiru",
+    "targetLevel": "N5",
+    "meaningKo": "일어나다",
+    "shortMeaningKo": "일어나다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "僕は明日、早く起きます。",
+    "exampleKo": "저는 내일 일찍 일어납니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "起"
+    ]
+  },
+  {
+    "id": "jmdict-1155120-f960493c4a",
+    "surface": "以上",
+    "reading": "いじょう",
+    "romaji": "ijiょu",
+    "targetLevel": "N4",
+    "meaningKo": "~이상 (~보다 많거나 같음)",
+    "shortMeaningKo": "~이상",
+    "partOfSpeech": [
+      "noun",
+      "expression",
+      "conjunction"
+    ],
+    "exampleJa": "これ以上、必要ですか。",
+    "exampleKo": "이 이상, 필요합니까?",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "question"
+    ],
+    "kanjiUsed": [
+      "以",
+      "上"
+    ]
+  },
+  {
+    "id": "jmdict-1421850-121108a442",
+    "surface": "置く",
+    "reading": "おく",
+    "romaji": "oku",
+    "targetLevel": "N4",
+    "meaningKo": "놓다, 두다",
+    "shortMeaningKo": "놓다",
+    "partOfSpeech": [
+      "verb-godan",
+      "auxiliary"
+    ],
+    "exampleJa": "手を上に置きます。",
+    "exampleKo": "손을 위에 놓습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "置く는 본동사 '놓다' 외 보조동사 ~ておく로 준비·방치 표시.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "置"
+    ]
+  },
+  {
+    "id": "jmdict-1351360-d9c3dff0eb",
+    "surface": "笑う",
+    "reading": "わらう",
+    "romaji": "warau",
+    "targetLevel": "N4",
+    "meaningKo": "웃다",
+    "shortMeaningKo": "웃다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "彼女は本当に笑った。",
+    "exampleKo": "그녀는 정말로 웃었다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "past"
+    ],
+    "kanjiUsed": [
+      "笑"
+    ]
+  },
+  {
+    "id": "jmdict-1360010-54d3eb9916",
+    "surface": "寝る",
+    "reading": "ねる",
+    "romaji": "neru",
+    "targetLevel": "N5",
+    "meaningKo": "자다",
+    "shortMeaningKo": "자다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "僕は今日、早く寝ます。",
+    "exampleKo": "저는 오늘 일찍 잡니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "寝"
+    ]
+  },
+  {
+    "id": "jmdict-1510640-6a186d8eb7",
+    "surface": "変",
+    "reading": "へん",
+    "romaji": "hen",
+    "targetLevel": "N4",
+    "meaningKo": "이상하다",
+    "shortMeaningKo": "이상하다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na"
+    ],
+    "exampleJa": "その男の人は変だ。",
+    "exampleKo": "그 남자는 이상하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "変"
+    ]
+  },
+  {
+    "id": "jmdict-1320830-57348c4e8b",
+    "surface": "実は",
+    "reading": "じつは",
+    "romaji": "jitsuha",
+    "targetLevel": "N4",
+    "meaningKo": "사실은, 실은, 솔직히 말하면",
+    "shortMeaningKo": "사실은",
+    "partOfSpeech": [
+      "adverb",
+      "expression"
+    ],
+    "exampleJa": "実は、彼女が好きだ。",
+    "exampleKo": "사실은, 그녀를 좋아한다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "実"
+    ]
+  },
+  {
+    "id": "jmdict-1395620-71173d1b73",
+    "surface": "全然",
+    "reading": "ぜんぜん",
+    "romaji": "zenzen",
+    "targetLevel": "N5",
+    "meaningKo": "전혀 (~않다), 조금도 (~않다)",
+    "shortMeaningKo": "전혀",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "昨日は全然違った。",
+    "exampleKo": "어제는 전혀 달랐다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '전연'과 의미 '전혀'가 갈림. 부정문과 호응.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "全",
+      "然"
+    ]
+  },
+  {
+    "id": "jmdict-1413940-7441a9f561",
+    "surface": "大事",
+    "reading": "だいじ",
+    "romaji": "daiji",
+    "targetLevel": "N4",
+    "meaningKo": "중요하다",
+    "shortMeaningKo": "중요하다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na"
+    ],
+    "exampleJa": "この仕事は大事だ。",
+    "exampleKo": "이 일은 중요하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '대사'와 의미 '중요하다'가 갈림. 한국어 '대사'와 무관.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "大",
+      "事"
+    ]
+  },
+  {
+    "id": "jmdict-1536010-62cd3494dd",
+    "surface": "問題",
+    "reading": "もんだい",
+    "romaji": "mondai",
+    "targetLevel": "N4",
+    "meaningKo": "문제",
+    "shortMeaningKo": "문제",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "仕事に問題がある。",
+    "exampleKo": "일에 문제가 있다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "問",
+      "題"
+    ]
+  },
+  {
+    "id": "jmdict-1407460-1debb6d969",
+    "surface": "多い",
+    "reading": "おおい",
+    "romaji": "ooi",
+    "targetLevel": "N5",
+    "meaningKo": "많다",
+    "shortMeaningKo": "많다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "今日は仕事が多い。",
+    "exampleKo": "오늘은 일이 많다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "多"
+    ]
+  },
+  {
+    "id": "jmdict-1529410-ed60b5b783",
+    "surface": "夢",
+    "reading": "ゆめ",
+    "romaji": "yume",
+    "targetLevel": "N4",
+    "meaningKo": "꿈",
+    "shortMeaningKo": "꿈",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "それは夢ではありませんでした。",
+    "exampleKo": "그것은 꿈이 아니었습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "夢"
+    ]
+  },
+  {
+    "id": "jmdict-1604570-0302e6a472",
+    "surface": "見つける",
+    "reading": "みつける",
+    "romaji": "mitsukeru",
+    "targetLevel": "N4",
+    "meaningKo": "찾다",
+    "shortMeaningKo": "찾다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "場所を見つける。",
+    "exampleKo": "장소를 찾는다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "見"
+    ]
+  },
+  {
+    "id": "jmdict-1165970-2404654ea1",
+    "surface": "一番",
+    "reading": "いちばん",
+    "romaji": "ichiban",
+    "targetLevel": "N5",
+    "meaningKo": "제일, 첫째",
+    "shortMeaningKo": "제일",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "僕は一番、君が好きだ。",
+    "exampleKo": "나는 제일 네가 좋다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '일번'과 의미 '제일'이 갈림. 최상급 부사로 쓰임.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "一",
+      "番"
+    ]
+  },
+  {
+    "id": "jmdict-1203250-d960a56b56",
+    "surface": "外",
+    "reading": "そと",
+    "romaji": "soto",
+    "targetLevel": "N5",
+    "meaningKo": "밖, 바깥",
+    "shortMeaningKo": "밖",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "今日は外で食べます。",
+    "exampleKo": "오늘은 밖에서 먹습니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "外"
+    ]
+  },
+  {
+    "id": "jmdict-1260720-c0b1a26e7d",
+    "surface": "元気",
+    "reading": "げんき",
+    "romaji": "genki",
+    "targetLevel": "N5",
+    "meaningKo": "활발하다",
+    "shortMeaningKo": "활발하다",
+    "partOfSpeech": [
+      "noun",
+      "adjective-na"
+    ],
+    "exampleJa": "今日も僕は元気だ。",
+    "exampleKo": "오늘도 나는 활발하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '원기'와 의미 '활발하다'가 갈림. 안부 인사로도 쓰임.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "元",
+      "気"
+    ]
+  },
+  {
+    "id": "jmdict-1591420-4b3040e727",
+    "surface": "決まる",
+    "reading": "きまる",
+    "romaji": "kimaru",
+    "targetLevel": "N4",
+    "meaningKo": "결정되다",
+    "shortMeaningKo": "결정되다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "次の仕事が決まる。",
+    "exampleKo": "다음 일이 결정된다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "決"
+    ]
+  },
+  {
+    "id": "jmdict-1591150-44b38813d5",
+    "surface": "聞こえる",
+    "reading": "きこえる",
+    "romaji": "kikoeru",
+    "targetLevel": "N4",
+    "meaningKo": "들리다",
+    "shortMeaningKo": "들리다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "彼女の声が聞こえる。",
+    "exampleKo": "그녀의 목소리가 들린다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "聞"
+    ]
+  },
+  {
+    "id": "jmdict-1217700-aab91be0b6",
+    "surface": "頑張る",
+    "reading": "がんばる",
+    "romaji": "ganbaru",
+    "targetLevel": "N4",
+    "meaningKo": "열심히 하다, 버티다",
+    "shortMeaningKo": "열심히 하다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "僕は仕事を頑張る。",
+    "exampleKo": "나는 일을 열심히 한다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative"
+    ],
+    "kanjiUsed": [
+      "頑",
+      "張"
+    ]
+  },
+  {
+    "id": "jmdict-1421970-98e660f68d",
+    "surface": "遅い",
+    "reading": "おそい",
+    "romaji": "osoi",
+    "targetLevel": "N5",
+    "meaningKo": "느리다, 늦다",
+    "shortMeaningKo": "느리다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "今日の仕事は遅い。",
+    "exampleKo": "오늘 일은 느리다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "遅"
+    ]
+  },
+  {
+    "id": "jmdict-1387280-21ab1f5d1e",
+    "surface": "先に",
+    "reading": "さきに",
+    "romaji": "sakini",
+    "targetLevel": "N4",
+    "meaningKo": "먼저, 앞서, 우선",
+    "shortMeaningKo": "먼저",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "先"
+    ]
+  },
+  {
+    "id": "jmdict-1576250-2a9279d938",
+    "surface": "一度",
+    "reading": "いちど",
+    "romaji": "ichido",
+    "targetLevel": "N5",
+    "meaningKo": "한 번",
+    "shortMeaningKo": "한 번",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "彼女に一度会います。",
+    "exampleKo": "그녀를 한 번 만납니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '일도'와 의미 '한 번'이 갈림. 횟수 표현으로 사용.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "一",
+      "度"
+    ]
+  },
+  {
+    "id": "jmdict-1547330-be37b54e56",
+    "surface": "欲しい",
+    "reading": "ほしい",
+    "romaji": "hoshii",
+    "targetLevel": "N5",
+    "meaningKo": "갖고 싶다, 원하다",
+    "shortMeaningKo": "갖고 싶다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "時間が欲しい。",
+    "exampleKo": "시간을 갖고 싶다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "欲"
+    ]
+  },
+  {
+    "id": "jmdict-1304510-518244cb2e",
+    "surface": "残る",
+    "reading": "のこる",
+    "romaji": "nokoru",
+    "targetLevel": "N4",
+    "meaningKo": "남다",
+    "shortMeaningKo": "남다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "仕事が残る。",
+    "exampleKo": "일이 남는다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "残"
+    ]
+  },
+  {
+    "id": "jmdict-1345605-745fb27b21",
+    "surface": "そろそろ",
+    "reading": "そろそろ",
+    "romaji": "sorosoro",
+    "targetLevel": "N4",
+    "meaningKo": "슬슬, 이제 곧, 이제는",
+    "shortMeaningKo": "슬슬",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "exampleJa": "そろそろ時間です。",
+    "exampleKo": "슬슬 시간입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past"
+    ],
+    "kanjiUsed": []
+  },
+  {
+    "id": "jmdict-1212250-58fc77357c",
+    "surface": "感じ",
+    "reading": "かんじ",
+    "romaji": "kanji",
+    "targetLevel": "N4",
+    "meaningKo": "느낌, 감각",
+    "shortMeaningKo": "느낌",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "同じ感じだ。",
+    "exampleKo": "같은 느낌이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "感"
+    ]
+  },
+  {
+    "id": "jmdict-1432680-64301fc3b4",
+    "surface": "痛い",
+    "reading": "いたい",
+    "romaji": "itai",
+    "targetLevel": "N5",
+    "meaningKo": "아프다, 쑤시다",
+    "shortMeaningKo": "아프다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "今日頭が痛い。",
+    "exampleKo": "오늘 머리가 아프다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "痛"
+    ]
+  },
+  {
+    "id": "jmdict-1534930-ed5ae79b25",
+    "surface": "黙る",
+    "reading": "だまる",
+    "romaji": "damaru",
+    "targetLevel": "N4",
+    "meaningKo": "입 다물다",
+    "shortMeaningKo": "입 다물다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "彼女は黙ります。",
+    "exampleKo": "그녀는 입을 다뭅니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "黙"
+    ]
+  },
+  {
+    "id": "jmdict-1361490-bacd1cbe73",
+    "surface": "新しい",
+    "reading": "あたらしい",
+    "romaji": "atarashii",
+    "targetLevel": "N5",
+    "meaningKo": "새롭다, 신선하다",
+    "shortMeaningKo": "새롭다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "新しい部屋だ。",
+    "exampleKo": "새로운 방이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "新"
+    ]
+  },
+  {
+    "id": "jmdict-1307710-6c21349e5b",
+    "surface": "姿",
+    "reading": "すがた",
+    "romaji": "sugata",
+    "targetLevel": "N4",
+    "meaningKo": "모습, 형태",
+    "shortMeaningKo": "모습",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "彼女の姿だ。",
+    "exampleKo": "그녀의 모습이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "姿"
+    ]
+  },
+  {
+    "id": "jmdict-1536350-549c683dc1",
+    "surface": "夜",
+    "reading": "よる",
+    "romaji": "yoru",
+    "targetLevel": "N5",
+    "meaningKo": "밤",
+    "shortMeaningKo": "밤",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "今日も夜になる。",
+    "exampleKo": "오늘도 밤이 된다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "夜"
+    ]
+  },
+  {
+    "id": "jmdict-1289590-b2884473a1",
+    "surface": "困る",
+    "reading": "こまる",
+    "romaji": "komaru",
+    "targetLevel": "N4",
+    "meaningKo": "곤란하다, 난감하다",
+    "shortMeaningKo": "곤란하다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "本当に困る。",
+    "exampleKo": "정말로 곤란하다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "困"
+    ]
+  },
+  {
+    "id": "jmdict-1579260-cc5c7d5ba8",
+    "surface": "昨日",
+    "reading": "きのう",
+    "romaji": "kinou",
+    "targetLevel": "N5",
+    "meaningKo": "어제",
+    "shortMeaningKo": "어제",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "昨日は仕事だ。",
+    "exampleKo": "어제는 일이다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '작일'과 의미 '어제'가 갈림. 일상어는 '어제'.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "昨",
+      "日"
+    ]
+  },
+  {
+    "id": "jmdict-1402730-9dc24704ed",
+    "surface": "送る",
+    "reading": "おくる",
+    "romaji": "okuru",
+    "targetLevel": "N4",
+    "meaningKo": "보내다",
+    "shortMeaningKo": "보내다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "",
+    "exampleKo": "",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [],
+    "kanjiUsed": [
+      "送"
+    ]
+  },
+  {
+    "id": "jmdict-1445690-982ee3e804",
+    "surface": "怒る",
+    "reading": "おこる",
+    "romaji": "okoru",
+    "targetLevel": "N4",
+    "meaningKo": "화내다",
+    "shortMeaningKo": "화내다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "本当に怒る。",
+    "exampleKo": "정말로 화낸다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "怒"
+    ]
+  },
+  {
+    "id": "jmdict-1309260-96529b0ac9",
+    "surface": "思い出す",
+    "reading": "おもいだす",
+    "romaji": "omoidasu",
+    "targetLevel": "N4",
+    "meaningKo": "생각해 내다",
+    "shortMeaningKo": "생각해 내다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "昔の話を思い出す。",
+    "exampleKo": "옛날 이야기를 생각해 낸다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "思",
+      "出"
+    ]
+  },
+  {
+    "id": "jmdict-1584660-7a1a205cd5",
+    "surface": "明日",
+    "reading": "あした",
+    "romaji": "ashita",
+    "targetLevel": "N5",
+    "meaningKo": "내일",
+    "shortMeaningKo": "내일",
+    "partOfSpeech": [
+      "noun",
+      "adverb"
+    ],
+    "exampleJa": "明日は仕事です。",
+    "exampleKo": "내일은 일입니다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '명일'과 의미 '내일'이 갈림. 일상어는 '내일'.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "明",
+      "日"
+    ]
+  },
+  {
+    "id": "jmdict-1355120-8d68bd209f",
+    "surface": "乗る",
+    "reading": "のる",
+    "romaji": "noru",
+    "targetLevel": "N5",
+    "meaningKo": "타다",
+    "shortMeaningKo": "타다",
+    "partOfSpeech": [
+      "verb-godan"
+    ],
+    "exampleJa": "明日それに乗る。",
+    "exampleKo": "내일 그것을 탄다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "乗"
+    ]
+  },
+  {
+    "id": "jmdict-1283190-d926f39b61",
+    "surface": "高い",
+    "reading": "たかい",
+    "romaji": "takai",
+    "targetLevel": "N5",
+    "meaningKo": "높다, 크다",
+    "shortMeaningKo": "높다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "彼女は声が高い。",
+    "exampleKo": "그녀는 목소리가 높다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "高"
+    ]
+  },
+  {
+    "id": "jmdict-1550140-dcf744d258",
+    "surface": "理由",
+    "reading": "りゆう",
+    "romaji": "riyuu",
+    "targetLevel": "N4",
+    "meaningKo": "이유",
+    "shortMeaningKo": "이유",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "exampleJa": "それが理由だ。",
+    "exampleKo": "그것이 이유다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": "한자음 '리유'와 의미 '이유'가 갈림. 두음법칙 차이.",
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "理",
+      "由"
+    ]
+  },
+  {
+    "id": "jmdict-1429750-8eaf4323d9",
+    "surface": "長い",
+    "reading": "ながい",
+    "romaji": "nagai",
+    "targetLevel": "N5",
+    "meaningKo": "길다",
+    "shortMeaningKo": "길다",
+    "partOfSpeech": [
+      "adjective-i"
+    ],
+    "exampleJa": "本当に長い。",
+    "exampleKo": "정말로 길다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "長"
+    ]
+  },
+  {
+    "id": "jmdict-1587610-581033c912",
+    "surface": "嫌",
+    "reading": "いや",
+    "romaji": "iya",
+    "targetLevel": "N5",
+    "meaningKo": "싫다",
+    "shortMeaningKo": "싫다",
+    "partOfSpeech": [
+      "adjective-na",
+      "interjection"
+    ],
+    "exampleJa": "それは嫌だ。",
+    "exampleKo": "그것은 싫다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past_negative",
+      "question"
+    ],
+    "kanjiUsed": [
+      "嫌"
+    ]
+  },
+  {
+    "id": "jmdict-1559290-16e86fb71b",
+    "surface": "連れる",
+    "reading": "つれる",
+    "romaji": "tsureru",
+    "targetLevel": "N4",
+    "meaningKo": "데려가다",
+    "shortMeaningKo": "데려가다",
+    "partOfSpeech": [
+      "verb-ichidan"
+    ],
+    "exampleJa": "彼女を連れる。",
+    "exampleKo": "그녀를 데려간다.",
+    "distractorsKo": [
+      "A",
+      "B",
+      "C"
+    ],
+    "usageNote": null,
+    "priority": 0,
+    "tags": [],
+    "reviewStatus": "needs_review",
+    "sentencePatterns": [
+      "declarative",
+      "past",
+      "past_negative"
+    ],
+    "kanjiUsed": [
+      "連"
+    ]
+  }
+]
