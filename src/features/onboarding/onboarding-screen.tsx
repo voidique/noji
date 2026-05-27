@@ -55,6 +55,9 @@ export function OnboardingScreen() {
 
   const complete = async () => {
     await markOnboarded(db);
+    if (router.canDismiss()) {
+      router.dismissAll();
+    }
     router.replace('/');
   };
 
