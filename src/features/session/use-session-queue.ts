@@ -47,10 +47,13 @@ export function useSessionQueue(): SessionState {
       const card = queue[index];
       if (!card) return;
       ratingInProgress.current = true;
-      const next = applyRating(toScheduled(card), rating);
-      await applySchedule(db, card.id, next);
-      ratingInProgress.current = false;
-      setIndex((i) => i + 1);
+      try {
+        const next = applyRating(toScheduled(card), rating);
+        await applySchedule(db, card.id, next);
+        setIndex((i) => i + 1);
+      } finally {
+        ratingInProgress.current = false;
+      }
     },
     [db, queue, index]
   );

@@ -110,7 +110,7 @@ export function OnboardingScreen() {
               modifiers={[
                 buttonStyle('borderedProminent'),
                 controlSize('large'),
-                tint(palette.ink as string),
+                tint('#007AFF'),
               ]}
             />
           </Host>

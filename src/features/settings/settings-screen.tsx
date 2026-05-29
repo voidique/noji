@@ -105,7 +105,7 @@ export function SettingsScreen() {
 
         <Section title="정보">
           <Button
-            label="튜토리얼 다시 보기"
+            label="온보딩 다시 보기"
             systemImage="sparkles"
             onPress={() => router.push('/onboarding')}
           />
@@ -114,7 +114,7 @@ export function SettingsScreen() {
             systemImage="info.circle"
             onPress={() => router.push('/settings/about')}
           />
-          <Label title="Noji v1.0" systemImage="app.badge" />
+          <Label title="1.0.0" systemImage="app.badge" />
         </Section>
       </Form>
     </Host>

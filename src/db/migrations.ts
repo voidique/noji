@@ -11,10 +11,18 @@ export async function migrate(db: SQLiteDatabase): Promise<void> {
   const userVersion = userVersionRow?.user_version ?? 0;
 
   if (userVersion < SCHEMA_VERSION) {
-    if (userVersion >= 1) {
-      await db.execAsync(
-        `ALTER TABLE vocab ADD COLUMN pronunciation_ko TEXT NOT NULL DEFAULT ''`
-      );
+    // pronunciation_ko was added in schema v2.
+    // Try/catch handles both cases:
+    //   - upgrade (v0 or v1): ALTER TABLE succeeds
+    //   - fresh install: table was created with column already → error is ignored
+    if (userVersion < 2) {
+      try {
+        await db.execAsync(
+          `ALTER TABLE vocab ADD COLUMN pronunciation_ko TEXT NOT NULL DEFAULT ''`
+        );
+      } catch {
+        // Column already present — safe to ignore
+      }
     }
     await db.execAsync(`PRAGMA user_version = ${SCHEMA_VERSION}`);
   }
