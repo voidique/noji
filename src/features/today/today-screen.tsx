@@ -1,11 +1,29 @@
 import { Button, Host } from '@expo/ui/swift-ui';
 import { buttonStyle, controlSize, tint } from '@expo/ui/swift-ui/modifiers';
+import { GlassView, isGlassEffectAPIAvailable } from 'expo-glass-effect';
 import { useRouter } from 'expo-router';
 import { SymbolView } from 'expo-symbols';
 import type { SFSymbol } from 'sf-symbols-typescript';
 import { ActivityIndicator, ScrollView, StyleSheet, Text, View } from 'react-native';
-import { palette, radius, spacing, typography } from '../../theme/tokens';
+import { palette, spacing, typography } from '../../theme/tokens';
 import { useTodayData } from './use-today-data';
+
+const GLASS_OK = isGlassEffectAPIAvailable();
+
+function GlassCard({ style, children }: { style: object; children: React.ReactNode }) {
+  if (GLASS_OK) {
+    return (
+      <GlassView glassEffectStyle="regular" style={style}>
+        {children}
+      </GlassView>
+    );
+  }
+  return (
+    <View style={[style, { backgroundColor: palette.surfaceElevated as string }]}>
+      {children}
+    </View>
+  );
+}
 
 export function TodayScreen() {
   const router = useRouter();
@@ -21,8 +39,8 @@ export function TodayScreen() {
 
   const newToShow = Math.min(stats.newCount, settings.newPerDay);
   const totalQueue = newToShow + stats.due;
-  const learned = stats.known;
-  const learnedPct = stats.total === 0 ? 0 : Math.round((learned / stats.total) * 100);
+  const known = stats.known;
+  const knownPct = stats.total === 0 ? 0 : Math.round((known / stats.total) * 100);
   const isCaughtUp = totalQueue === 0;
 
   return (
@@ -33,38 +51,36 @@ export function TodayScreen() {
         contentContainerStyle={styles.content}
         showsVerticalScrollIndicator={false}
       >
-        <View style={styles.heroCard}>
-          <Text style={styles.heroLevel}>레벨 {settings.targetLevel}</Text>
+        <GlassCard style={styles.heroCard}>
+          <Text style={styles.heroLevel}>{settings.targetLevel}</Text>
           <Text style={styles.heroNumber}>{totalQueue}</Text>
           <Text style={styles.heroLabel}>
-            {isCaughtUp ? '오늘 학습 완료' : '개의 단어가 기다려요'}
+            {isCaughtUp ? '오늘 다 했어요' : '개 남았어요'}
           </Text>
-        </View>
+        </GlassCard>
 
         <SectionTitle>오늘</SectionTitle>
-        <Card>
-          <StatRow icon="sparkle" label="신규" value={newToShow} />
+        <GlassCard style={styles.card}>
+          <StatRow icon="sparkle" label="새 단어" value={newToShow} />
           <Divider />
           <StatRow icon="arrow.triangle.2.circlepath" label="복습" value={stats.due} />
-          <Divider />
-          <StatRow icon="checkmark.circle" label="완료" value={learned} />
-        </Card>
+        </GlassCard>
 
         <SectionTitle>진도</SectionTitle>
-        <Card>
+        <GlassCard style={styles.card}>
           <View style={styles.progressBlock}>
             <View style={styles.progressHeader}>
               <Text style={styles.progressTitle}>{settings.targetLevel}</Text>
-              <Text style={styles.progressPct}>{learnedPct}%</Text>
+              <Text style={styles.progressPct}>{knownPct}%</Text>
             </View>
             <View style={styles.progressBarTrack}>
-              <View style={[styles.progressBarFill, { width: `${learnedPct}%` }]} />
+              <View style={[styles.progressBarFill, { width: `${knownPct}%` }]} />
             </View>
             <Text style={styles.progressMeta}>
-              {stats.total}개 중 {learned}개 학습 완료
+              {stats.total}개 중 {known}개 외웠어요
             </Text>
           </View>
-        </Card>
+        </GlassCard>
 
         <View style={styles.actionBlock}>
           <Host style={styles.actionHost}>
@@ -75,7 +91,7 @@ export function TodayScreen() {
               modifiers={[
                 buttonStyle('borderedProminent'),
                 controlSize('large'),
-                tint(palette.ink as string),
+                tint('#007AFF'),
               ]}
             />
           </Host>
@@ -87,10 +103,6 @@ export function TodayScreen() {
 
 function SectionTitle({ children }: { children: string }) {
   return <Text style={styles.sectionTitle}>{children}</Text>;
-}
-
-function Card({ children }: { children: React.ReactNode }) {
-  return <View style={styles.card}>{children}</View>;
 }
 
 function Divider() {
@@ -131,17 +143,18 @@ const styles = StyleSheet.create({
     gap: spacing.md,
   },
   heroCard: {
-    backgroundColor: palette.surfaceElevated as string,
-    borderRadius: radius.lg,
+    borderRadius: 22,
     paddingVertical: spacing.xl,
     paddingHorizontal: spacing.lg,
     alignItems: 'center',
     gap: spacing.xs,
+    overflow: 'hidden',
   },
   heroLevel: {
     ...typography.footnote,
     color: palette.inkFaint as string,
-    letterSpacing: 0.6,
+    letterSpacing: 0.8,
+    fontWeight: '600',
   },
   heroNumber: {
     fontSize: 84,
@@ -164,8 +177,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   card: {
-    backgroundColor: palette.surfaceElevated as string,
-    borderRadius: radius.lg,
+    borderRadius: 18,
     overflow: 'hidden',
   },
   statRow: {

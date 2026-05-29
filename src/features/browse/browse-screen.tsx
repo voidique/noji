@@ -1,8 +1,8 @@
 import { Host, Picker, Text } from '@expo/ui/swift-ui';
 import { pickerStyle, tag } from '@expo/ui/swift-ui/modifiers';
 import { Stack } from 'expo-router';
-import { useState } from 'react';
-import { ActivityIndicator, FlatList, StyleSheet, Text as RNText, View } from 'react-native';
+import { useCallback, useState } from 'react';
+import { ActivityIndicator, FlatList, ListRenderItem, StyleSheet, Text as RNText, View } from 'react-native';
 import { EmptyState } from '../../components/empty-state';
 import { VocabRow } from '../../components/vocab-row';
 import type { JlptLevel, VocabWithReview } from '../../data/vocab-types';
@@ -14,14 +14,28 @@ export function BrowseScreen() {
   const [search, setSearch] = useState('');
   const { items, loading } = useBrowseData(level, search);
 
+  const onSearchChange = useCallback(
+    (e: { nativeEvent: { text: string } }) => setSearch(e.nativeEvent.text),
+    []
+  );
+  const onLevelChange = useCallback(
+    (value: string) => setLevel(value as JlptLevel),
+    []
+  );
+  const renderItem = useCallback<ListRenderItem<VocabWithReview>>(
+    ({ item, index }) => (
+      <VocabRow vocab={item} showSeparator={index !== items.length - 1} />
+    ),
+    [items.length]
+  );
+
   return (
     <>
       <Stack.Screen
         options={{
           headerSearchBarOptions: {
             placeholder: '단어, 가나, 한국어 검색',
-            onChangeText: (e: { nativeEvent: { text: string } }) =>
-              setSearch(e.nativeEvent.text),
+            onChangeText: onSearchChange,
             hideWhenScrolling: false,
             obscureBackground: true,
           },
@@ -32,15 +46,13 @@ export function BrowseScreen() {
         keyboardDismissMode="on-drag"
         data={items}
         keyExtractor={(item) => item.id}
-        renderItem={({ item, index }) => (
-          <VocabRow vocab={item} showSeparator={index !== items.length - 1} />
-        )}
+        renderItem={renderItem}
         ListHeaderComponent={
           <View style={styles.header}>
             <Host style={styles.pickerHost}>
               <Picker
                 selection={level}
-                onSelectionChange={(value) => setLevel(value as JlptLevel)}
+                onSelectionChange={onLevelChange}
                 modifiers={[pickerStyle('segmented')]}
               >
                 <Text modifiers={[tag('N5')]}>N5</Text>

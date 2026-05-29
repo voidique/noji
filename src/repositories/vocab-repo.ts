@@ -6,6 +6,7 @@ interface VocabRow {
   surface: string;
   reading: string;
   romaji: string;
+  pronunciation_ko: string;
   level: JlptLevel;
   meaning_ko: string;
   short_meaning_ko: string;
@@ -36,6 +37,7 @@ function mapVocab(row: VocabRow): VocabEntry {
     surface: row.surface,
     reading: row.reading,
     romaji: row.romaji,
+    pronunciationKo: row.pronunciation_ko,
     level: row.level,
     meaningKo: row.meaning_ko,
     shortMeaningKo: row.short_meaning_ko,

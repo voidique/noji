@@ -1,9 +1,9 @@
 import { useSQLiteContext } from 'expo-sqlite';
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { ReviewRating, VocabWithReview } from '../../data/vocab-types';
 import { applySchedule, getDueQueue, getNewQueue } from '../../repositories/review-repo';
 import { getSettings } from '../../repositories/settings-repo';
-import { applyRating, toScheduled } from '../../srs/scheduler';
+import { applyRating, previewInterval, toScheduled } from '../../srs/scheduler';
 
 export interface SessionState {
   queue: VocabWithReview[];
@@ -12,6 +12,7 @@ export interface SessionState {
   loading: boolean;
   completed: number;
   total: number;
+  intervals: Record<ReviewRating, string>;
   rate: (rating: ReviewRating) => Promise<void>;
 }
 
@@ -20,6 +21,7 @@ export function useSessionQueue(): SessionState {
   const [queue, setQueue] = useState<VocabWithReview[]>([]);
   const [index, setIndex] = useState(0);
   const [loading, setLoading] = useState(true);
+  const ratingInProgress = useRef(false);
 
   useEffect(() => {
     let cancelled = false;
@@ -41,22 +43,39 @@ export function useSessionQueue(): SessionState {
 
   const rate = useCallback(
     async (rating: ReviewRating) => {
+      if (ratingInProgress.current) return;
       const card = queue[index];
       if (!card) return;
+      ratingInProgress.current = true;
       const next = applyRating(toScheduled(card), rating);
       await applySchedule(db, card.id, next);
+      ratingInProgress.current = false;
       setIndex((i) => i + 1);
     },
     [db, queue, index]
   );
 
+  const current = queue[index] ?? null;
+
+  const intervals = useMemo<Record<ReviewRating, string>>(() => {
+    if (!current) return { again: '—', hard: '—', good: '—', easy: '—' };
+    const s = toScheduled(current);
+    return {
+      again: previewInterval(s, 'again'),
+      hard:  previewInterval(s, 'hard'),
+      good:  previewInterval(s, 'good'),
+      easy:  previewInterval(s, 'easy'),
+    };
+  }, [current]);
+
   return {
     queue,
     index,
-    current: queue[index] ?? null,
+    current,
     loading,
     completed: index,
     total: queue.length,
+    intervals,
     rate,
   };
 }

@@ -1,8 +1,9 @@
 import { useRouter } from 'expo-router';
+import { memo, useCallback } from 'react';
 import { Pressable, StyleSheet, Text, View } from 'react-native';
 import { SymbolView } from 'expo-symbols';
-import type { VocabWithReview } from '../data/vocab-types';
-import { palette, spacing, typography } from '../theme/tokens';
+import type { ReviewStatus, VocabWithReview } from '../data/vocab-types';
+import { palette, ratingColors, spacing, typography } from '../theme/tokens';
 
 interface Props {
   vocab: VocabWithReview;
@@ -10,12 +11,49 @@ interface Props {
   showSeparator?: boolean;
 }
 
-export function VocabRow({ vocab, showLevel = false, showSeparator = true }: Props) {
+// ─── Status helpers ────────────────────────────────────────────────────────────
+
+const STATUS_LABEL: Record<ReviewStatus, string> = {
+  new:      '처음',
+  learning: '배우는 중',
+  review:   '복습',
+  known:    '외웠어요',
+};
+
+function statusColor(status: ReviewStatus): string {
+  switch (status) {
+    case 'new':      return palette.inkFaint as string;
+    case 'learning': return ratingColors.hard.text as string;
+    case 'review':   return ratingColors.easy.text as string;
+    case 'known':    return ratingColors.good.text as string;
+  }
+}
+
+function formatDue(dueAt: number, status: ReviewStatus): string {
+  if (status === 'new' || status === 'known') return '';
+  const diffMs = dueAt - Date.now();
+  if (diffMs <= 0) return '지금';
+  const mins = Math.round(diffMs / 60_000);
+  if (mins < 60) return `${mins}분 후`;
+  const days = Math.round(diffMs / 86_400_000);
+  if (days < 1) return '오늘';
+  return `${days}일 후`;
+}
+
+// ─── Component ────────────────────────────────────────────────────────────────
+
+export const VocabRow = memo(function VocabRow({ vocab, showLevel = false, showSeparator = true }: Props) {
   const router = useRouter();
+  const onPress = useCallback(() => {
+    router.push(`/browse/${vocab.id}`);
+  }, [router, vocab.id]);
+
+  const due = formatDue(vocab.dueAt, vocab.status);
+  const statusText = STATUS_LABEL[vocab.status] + (due ? ` · ${due}` : '');
 
   return (
     <Pressable
-      onPress={() => router.push(`/browse/${vocab.id}`)}
+      onPress={onPress}
       style={({ pressed }) => [styles.row, pressed && styles.pressed]}
       android_ripple={{ color: palette.separator as string }}
     >
@@ -35,18 +73,26 @@ export function VocabRow({ vocab, showLevel = false, showSeparator = true }: Pro
         <Text style={styles.reading} numberOfLines={1}>
           {vocab.reading}
         </Text>
+        <Text style={styles.pronunciationKo} numberOfLines={1}>
+          {vocab.pronunciationKo}
+        </Text>
       </View>
 
       {showLevel ? <Text style={styles.level}>{vocab.level}</Text> : null}
 
-      <Text style={styles.meaning} numberOfLines={2}>
-        {vocab.shortMeaningKo}
-      </Text>
+      <View style={styles.trailing}>
+        <Text style={styles.meaning} numberOfLines={2}>
+          {vocab.shortMeaningKo}
+        </Text>
+        <Text style={[styles.status, { color: statusColor(vocab.status) }]} numberOfLines={1}>
+          {statusText}
+        </Text>
+      </View>
 
       {showSeparator ? <View style={styles.separator} /> : null}
     </Pressable>
   );
-}
+});
 
 const styles = StyleSheet.create({
   row: {
@@ -80,6 +126,10 @@ const styles = StyleSheet.create({
     ...typography.footnote,
     color: palette.inkFaint as string,
   },
+  pronunciationKo: {
+    ...typography.caption,
+    color: palette.inkFaint as string,
+  },
   level: {
     ...typography.caption,
     color: palette.inkFaint as string,
@@ -87,13 +137,21 @@ const styles = StyleSheet.create({
     marginLeft: spacing.md,
     marginRight: spacing.sm,
   },
+  trailing: {
+    alignItems: 'flex-end',
+    gap: 3,
+    marginLeft: spacing.md,
+    flexShrink: 1,
+    maxWidth: '45%',
+  },
   meaning: {
     ...typography.subhead,
     color: palette.inkMuted as string,
     textAlign: 'right',
-    marginLeft: spacing.md,
-    maxWidth: '45%',
-    flexShrink: 1,
+  },
+  status: {
+    ...typography.caption,
+    textAlign: 'right',
   },
   separator: {
     position: 'absolute',

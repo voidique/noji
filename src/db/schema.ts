@@ -1,4 +1,4 @@
-export const SCHEMA_VERSION = 1;
+export const SCHEMA_VERSION = 2;
 
 export const SCHEMA_SQL = `
 PRAGMA journal_mode = WAL;
@@ -19,7 +19,8 @@ CREATE TABLE IF NOT EXISTS vocab (
   priority INTEGER NOT NULL DEFAULT 0,
   kanji_used TEXT NOT NULL DEFAULT '[]',
   jmdict_entry_id TEXT NOT NULL DEFAULT '',
-  jmdict_glosses TEXT NOT NULL DEFAULT '[]'
+  jmdict_glosses TEXT NOT NULL DEFAULT '[]',
+  pronunciation_ko TEXT NOT NULL DEFAULT ''
 );
 
 CREATE INDEX IF NOT EXISTS idx_vocab_level_priority ON vocab(level, priority DESC);

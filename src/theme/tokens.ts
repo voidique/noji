@@ -1,5 +1,25 @@
 import { DynamicColorIOS, Platform } from 'react-native';
 
+export type ColorScheme = 'light' | 'dark';
+
+/**
+ * Glass / atmospheric colors.
+ * Plain strings (not DynamicColorIOS) — pick variant with useColorScheme().
+ */
+export const glassPalette = {
+  light: {
+    cardBg: 'rgba(255, 255, 255, 0.82)',
+    cardBorder: 'rgba(0, 0, 0, 0.07)',
+    cardGlow: 'rgba(0, 0, 0, 0.10)',
+  },
+  dark: {
+    // iOS elevated dark surface (#2C2C2E) with slight transparency
+    cardBg: 'rgba(44, 44, 46, 0.90)',
+    cardBorder: 'rgba(255, 255, 255, 0.08)',
+    cardGlow: 'rgba(0, 0, 0, 0.55)',
+  },
+} as const;
+
 type DynamicColor = ReturnType<typeof DynamicColorIOS> | string;
 
 const dyn = (light: string, dark: string): DynamicColor =>
@@ -47,4 +67,28 @@ export const typography = {
   caption: { fontSize: 12, fontWeight: '400' as const },
   cardFace: { fontSize: 52, fontWeight: '600' as const, letterSpacing: -0.5 },
   cardReading: { fontSize: 20, fontWeight: '400' as const },
+} as const;
+
+// iOS semantic colors per SRS rating — use `as string` at call site
+export const ratingColors = {
+  again: {
+    text:   dyn('#FF3B30', '#FF453A'),
+    bg:     dyn('rgba(255,59,48,0.09)',  'rgba(255,69,58,0.13)'),
+    border: dyn('rgba(255,59,48,0.20)',  'rgba(255,69,58,0.26)'),
+  },
+  hard: {
+    text:   dyn('#FF9500', '#FF9F0A'),
+    bg:     dyn('rgba(255,149,0,0.09)',  'rgba(255,159,10,0.13)'),
+    border: dyn('rgba(255,149,0,0.20)',  'rgba(255,159,10,0.26)'),
+  },
+  good: {
+    text:   dyn('#34C759', '#30D158'),
+    bg:     dyn('rgba(52,199,89,0.09)',  'rgba(48,209,88,0.13)'),
+    border: dyn('rgba(52,199,89,0.20)',  'rgba(48,209,88,0.26)'),
+  },
+  easy: {
+    text:   dyn('#007AFF', '#0A84FF'),
+    bg:     dyn('rgba(0,122,255,0.09)', 'rgba(10,132,255,0.13)'),
+    border: dyn('rgba(0,122,255,0.20)', 'rgba(10,132,255,0.26)'),
+  },
 } as const;

@@ -2,6 +2,7 @@ export type IllustrationKind =
   | 'pulse-circle'
   | 'book-flip'
   | 'card-flip'
+  | 'rating-bar'
   | 'srs-timeline'
   | 'checkmark';
 
@@ -24,13 +25,18 @@ export const ONBOARDING_PAGES: OnboardingPage[] = [
   },
   {
     kind: 'card-flip',
-    title: '탭하고 확인하고 평가하기',
-    body: '카드를 탭해 의미를 확인하고\n얼마나 잘 외웠는지 평가하세요.',
+    title: '탭하고 확인하기',
+    body: '카드를 탭하면 앞뒤가 뒤집혀요.\n의미·예문을 확인한 뒤 평가하세요.',
+  },
+  {
+    kind: 'rating-bar',
+    title: '솔직하게 평가하세요',
+    body: '완벽해를 눌러야 진도가 올라가요.\n어렵다면 다시 — 괜찮아요.',
   },
   {
     kind: 'srs-timeline',
     title: '잊을 때쯤 다시 만나요',
-    body: '어려운 단어는 더 빨리,\n잘 아는 단어는 더 늦게 돌아옵니다.',
+    body: '어려운 단어는 더 빨리,\n잘 아는 단어는 더 늦게 돌아와요.\n오늘 탭에서 전체 진도를 확인하세요.',
   },
   {
     kind: 'checkmark',

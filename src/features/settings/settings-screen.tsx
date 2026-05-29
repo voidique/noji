@@ -7,6 +7,7 @@ import {
   Section,
   Stepper,
   Text,
+  Toggle,
 } from '@expo/ui/swift-ui';
 import { pickerStyle, tag } from '@expo/ui/swift-ui/modifiers';
 import { useRouter } from 'expo-router';
@@ -17,10 +18,23 @@ import { resetAllProgress } from '../../repositories/review-repo';
 import { palette } from '../../theme/tokens';
 import { useSettings } from './use-settings';
 
+function formatHour(h: number): string {
+  if (h === 0) return '오전 12시';
+  if (h < 12) return `오전 ${h}시`;
+  if (h === 12) return '오후 12시';
+  return `오후 ${h - 12}시`;
+}
+
 export function SettingsScreen() {
   const router = useRouter();
   const db = useSQLiteContext();
-  const { settings, updateLevel, updateNewPerDay } = useSettings();
+  const {
+    settings,
+    updateLevel,
+    updateNewPerDay,
+    updateNotificationsEnabled,
+    updateNotificationHour,
+  } = useSettings();
 
   if (!settings) {
     return null;
@@ -60,6 +74,24 @@ export function SettingsScreen() {
             value={settings.newPerDay}
             onValueChange={(value) => updateNewPerDay(value)}
           />
+        </Section>
+
+        <Section title="알림">
+          <Toggle
+            label="복습 알림"
+            isOn={settings.notificationsEnabled}
+            onIsOnChange={(isOn) => updateNotificationsEnabled(isOn)}
+          />
+          {settings.notificationsEnabled ? (
+            <Stepper
+              label={`알림 시간: ${formatHour(settings.notificationHour)}`}
+              min={0}
+              max={23}
+              step={1}
+              value={settings.notificationHour}
+              onValueChange={(value) => updateNotificationHour(value)}
+            />
+          ) : null}
         </Section>
 
         <Section title="데이터">

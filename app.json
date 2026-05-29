@@ -40,7 +40,13 @@
           }
         }
       ],
-      "expo-sqlite"
+      "expo-sqlite",
+      [
+        "expo-notifications",
+        {
+          "sounds": []
+        }
+      ]
     ],
     "experiments": {
       "typedRoutes": true,

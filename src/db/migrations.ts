@@ -11,6 +11,11 @@ export async function migrate(db: SQLiteDatabase): Promise<void> {
   const userVersion = userVersionRow?.user_version ?? 0;
 
   if (userVersion < SCHEMA_VERSION) {
+    if (userVersion >= 1) {
+      await db.execAsync(
+        `ALTER TABLE vocab ADD COLUMN pronunciation_ko TEXT NOT NULL DEFAULT ''`
+      );
+    }
     await db.execAsync(`PRAGMA user_version = ${SCHEMA_VERSION}`);
   }
 
@@ -35,8 +40,8 @@ async function seedVocab(db: SQLiteDatabase): Promise<void> {
       `INSERT OR REPLACE INTO vocab(
         id, surface, reading, romaji, level, meaning_ko, short_meaning_ko,
         part_of_speech, example_ja, example_ko, usage_note, priority,
-        kanji_used, jmdict_entry_id, jmdict_glosses
-      ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)`
+        kanji_used, jmdict_entry_id, jmdict_glosses, pronunciation_ko
+      ) VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)`
     );
     try {
       for (const e of entries) {
@@ -56,6 +61,7 @@ async function seedVocab(db: SQLiteDatabase): Promise<void> {
           JSON.stringify(e.kanjiUsed),
           e.jmdictEntryId,
           JSON.stringify(e.jmdictGlosses),
+          e.pronunciationKo,
         ]);
       }
     } finally {

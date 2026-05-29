@@ -85,6 +85,20 @@ export function applyRating(
   }
 }
 
+/**
+ * Returns a human-readable label for how soon the card will be due
+ * if the given rating is chosen — e.g. "1분 후", "3일 후".
+ */
+export function previewInterval(state: Schedulable, rating: ReviewRating): string {
+  const { dueAt, intervalDays } = applyRating(state, rating);
+  const diffMs = Math.max(0, dueAt - Date.now());
+  const mins = Math.round(diffMs / 60_000);
+  if (mins < 60) return `${mins}분 후`;
+  const days = Math.round(intervalDays);
+  if (days < 30) return `${days}일 후`;
+  return `${Math.round(days / 30)}개월 후`;
+}
+
 function clampEase(value: number): number {
   if (value < MIN_EASE) return MIN_EASE;
   if (value > MAX_EASE) return MAX_EASE;

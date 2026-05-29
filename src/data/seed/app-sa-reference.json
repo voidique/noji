@@ -101,6 +101,77 @@
     ]
   },
   {
+    "id": "jmdict-2028970-25d16116ff",
+    "jmdictEntryId": "2028970",
+    "jmdictSenseGlosses": [
+      "indicates a question"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb",
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb",
+      "particle"
+    ]
+  },
+  {
+    "id": "jmdict-2029090-e57580a04d",
+    "jmdictEntryId": "2029090",
+    "jmdictSenseGlosses": [
+      "hey",
+      "you"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-2029110-34c0378efb",
+    "jmdictEntryId": "2029110",
+    "jmdictSenseGlosses": [
+      "don't"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-2029080-d2aedce6b7",
+    "jmdictEntryId": "2029080",
+    "jmdictSenseGlosses": [
+      "right?",
+      "isn't it?",
+      "doesn't it?",
+      "don't you?",
+      "don't you think?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "interjection"
+    ]
+  },
+  {
     "id": "jmdict-1587040-dabf634fea",
     "jmdictEntryId": "1587040",
     "jmdictSenseGlosses": [
@@ -223,6 +294,24 @@
     ]
   },
   {
+    "id": "jmdict-1004200-ecd1d1dfbe",
+    "jmdictEntryId": "1004200",
+    "jmdictSenseGlosses": [
+      "but",
+      "however",
+      "although"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "conjunction"
+    ]
+  },
+  {
     "id": "jmdict-1012480-6bd2f304fa",
     "jmdictEntryId": "1012480",
     "jmdictSenseGlosses": [
@@ -338,6 +427,25 @@
     ]
   },
   {
+    "id": "jmdict-1009470-a9b6d2b530",
+    "jmdictEntryId": "1009470",
+    "jmdictSenseGlosses": [
+      "if",
+      "in case",
+      "if it is the case that",
+      "if it is true that"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction",
+      "auxiliary"
+    ]
+  },
+  {
     "id": "jmdict-1288850-ee37069c71",
     "jmdictEntryId": "1288850",
     "jmdictSenseGlosses": [
@@ -355,6 +463,43 @@
     "jmdictSensePos": [
       "noun",
       "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1547720-e87fd43d82",
+    "jmdictEntryId": "1547720",
+    "jmdictSenseGlosses": [
+      "to come (spatially or temporally)",
+      "to approach",
+      "to arrive"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-irregular",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-irregular",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-2028960-b5c9e397d3",
+    "jmdictEntryId": "2028960",
+    "jmdictSenseGlosses": [
+      "such things as ...",
+      "and ... and"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "interjection",
+      "copula"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "interjection",
+      "copula"
     ]
   },
   {
@@ -530,6 +675,23 @@
     ]
   },
   {
+    "id": "jmdict-2830360-f47c0a94ed",
+    "jmdictEntryId": "2830360",
+    "jmdictSenseGlosses": [
+      "oh",
+      "oh my",
+      "oh dear",
+      "wow"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
     "id": "jmdict-1410590-0d72fd5d89",
     "jmdictEntryId": "1410590",
     "jmdictSenseGlosses": [
@@ -589,6 +751,54 @@
     "jmdictSensePos": [
       "particle",
       "expression"
+    ]
+  },
+  {
+    "id": "jmdict-2643970-5df4e4f6c7",
+    "jmdictEntryId": "2643970",
+    "jmdictSenseGlosses": [
+      "after all",
+      "because"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "conjunction"
+    ]
+  },
+  {
+    "id": "jmdict-2029130-63d4c9cd76",
+    "jmdictEntryId": "2029130",
+    "jmdictSenseGlosses": [
+      "adds force or indicates command"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
+    "id": "jmdict-1009980-3611f093b0",
+    "jmdictEntryId": "1009980",
+    "jmdictSenseGlosses": [
+      "although",
+      "despite",
+      "even though",
+      "and yet"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
     ]
   },
   {
@@ -717,6 +927,39 @@
     ]
   },
   {
+    "id": "jmdict-2140410-59cdeebe7b",
+    "jmdictEntryId": "2140410",
+    "jmdictSenseGlosses": [
+      "it is assuredly that ...",
+      "can say with confidence that ..."
+    ],
+    "jmdictPartOfSpeechTags": [
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-2029100-0a8f038aef",
+    "jmdictEntryId": "2029100",
+    "jmdictSenseGlosses": [
+      "indicates emotion or admiration"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun",
+      "particle",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun",
+      "particle",
+      "interjection"
+    ]
+  },
+  {
     "id": "jmdict-1315720-f798ac53d5",
     "jmdictEntryId": "1315720",
     "jmdictSenseGlosses": [
@@ -748,6 +991,20 @@
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
       "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1002940-f76919b4ed",
+    "jmdictEntryId": "1002940",
+    "jmdictSenseGlosses": [
+      "I wonder"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
     ]
   },
   {
@@ -860,6 +1117,21 @@
     ]
   },
   {
+    "id": "jmdict-1008590-5adca422bf",
+    "jmdictEntryId": "1008590",
+    "jmdictSenseGlosses": [
+      "as (i.e. in the role of)",
+      "for (i.e. from the viewpoint of)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
     "id": "jmdict-1151260-f5c882a0b3",
     "jmdictEntryId": "1151260",
     "jmdictSenseGlosses": [
@@ -945,6 +1217,39 @@
     ]
   },
   {
+    "id": "jmdict-1005900-03bf4ed069",
+    "jmdictEntryId": "1005900",
+    "jmdictSenseGlosses": [
+      "then",
+      "well",
+      "so",
+      "well then"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "jmdict-1005460-961bd53023",
+    "jmdictEntryId": "1005460",
+    "jmdictSenseGlosses": [
+      "nothing but",
+      "except",
+      "no more than"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
     "id": "jmdict-1451750-06212d3547",
     "jmdictEntryId": "1451750",
     "jmdictSenseGlosses": [
@@ -997,6 +1302,26 @@
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
       "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1009970-86e2162a01",
+    "jmdictEntryId": "1009970",
+    "jmdictSenseGlosses": [
+      "because",
+      "as",
+      "since",
+      "so",
+      "therefore"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "conjunction"
     ]
   },
   {
@@ -1141,6 +1466,21 @@
     ]
   },
   {
+    "id": "jmdict-2425930-a969597cda",
+    "jmdictEntryId": "2425930",
+    "jmdictSenseGlosses": [
+      "that's the way it is",
+      "yes"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
     "id": "jmdict-1419990-779f977830",
     "jmdictEntryId": "1419990",
     "jmdictSenseGlosses": [
@@ -1153,6 +1493,20 @@
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
       "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2654310-0febc797e9",
+    "jmdictEntryId": "2654310",
+    "jmdictSenseGlosses": [
+      "let's"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "auxiliary"
     ]
   },
   {
@@ -1170,6 +1524,22 @@
     "jmdictSensePos": [
       "noun",
       "counter"
+    ]
+  },
+  {
+    "id": "jmdict-1007370-9991775ac8",
+    "jmdictEntryId": "1007370",
+    "jmdictSenseGlosses": [
+      "but",
+      "however",
+      "although"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
     ]
   },
   {
@@ -1265,6 +1635,27 @@
     ]
   },
   {
+    "id": "jmdict-1001200-423998ace8",
+    "jmdictEntryId": "1001200",
+    "jmdictSenseGlosses": [
+      "hey!",
+      "say!",
+      "I say!",
+      "come on!",
+      "look!",
+      "oi!"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun",
+      "interjection"
+    ]
+  },
+  {
     "id": "jmdict-1006380-87c9b7c89e",
     "jmdictEntryId": "1006380",
     "jmdictSenseGlosses": [
@@ -1295,6 +1686,40 @@
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
       "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-2667510-5bd50c66f8",
+    "jmdictEntryId": "2667510",
+    "jmdictSenseGlosses": [
+      "isn't that right?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1011710-2882ca6529",
+    "jmdictEntryId": "1011710",
+    "jmdictSenseGlosses": [
+      "look!",
+      "see!",
+      "here!",
+      "there!",
+      "hey!"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
     ]
   },
   {
@@ -1336,20 +1761,18 @@
     ]
   },
   {
-    "id": "jmdict-1008340-be24bbdd03",
-    "jmdictEntryId": "1008340",
+    "id": "jmdict-2194050-037ffa7267",
+    "jmdictEntryId": "2194050",
     "jmdictSenseGlosses": [
-      "be",
-      "is"
+      "huh?",
+      "what's up?"
     ],
     "jmdictPartOfSpeechTags": [
-      "verb-godan",
-      "copula"
+      "interjection"
     ],
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
-      "verb-godan",
-      "copula"
+      "interjection"
     ]
   },
   {
@@ -1397,6 +1820,24 @@
     "jmdictSensePos": [
       "noun",
       "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-2143350-50367ba8ee",
+    "jmdictEntryId": "2143350",
+    "jmdictSenseGlosses": [
+      "may",
+      "might",
+      "perhaps",
+      "may be",
+      "possibly"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
     ]
   },
   {
@@ -1518,6 +1959,37 @@
     ]
   },
   {
+    "id": "jmdict-1188490-0525c996cd",
+    "jmdictEntryId": "1188490",
+    "jmdictSenseGlosses": [
+      "(not) anything",
+      "(nothing) at all",
+      "(not) any",
+      "nothing"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1979920-5cd8f79121",
+    "jmdictEntryId": "1979920",
+    "jmdictSenseGlosses": [
+      "you"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
     "id": "jmdict-1307770-d9caac4e05",
     "jmdictEntryId": "1307770",
     "jmdictSenseGlosses": [
@@ -1599,6 +2071,26 @@
     ]
   },
   {
+    "id": "jmdict-2827864-72697b150e",
+    "jmdictEntryId": "2827864",
+    "jmdictSenseGlosses": [
+      "because",
+      "as",
+      "since",
+      "so",
+      "therefore"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression",
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression",
+      "conjunction"
+    ]
+  },
+  {
     "id": "jmdict-1591430-75665bfa82",
     "jmdictEntryId": "1591430",
     "jmdictSenseGlosses": [
@@ -1615,6 +2107,25 @@
     "jmdictSensePos": [
       "noun",
       "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2055530-48ca3dc0bc",
+    "jmdictEntryId": "2055530",
+    "jmdictSenseGlosses": [
+      "but",
+      "however",
+      "(and) yet",
+      "nevertheless",
+      "still",
+      "for all that"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
     ]
   },
   {
@@ -1698,6 +2209,21 @@
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
       "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1416840-8ba0f52504",
+    "jmdictEntryId": "1416840",
+    "jmdictSenseGlosses": [
+      "someone",
+      "somebody"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
     ]
   },
   {
@@ -1915,6 +2441,20 @@
     ]
   },
   {
+    "id": "jmdict-1007400-59c943f787",
+    "jmdictEntryId": "1007400",
+    "jmdictSenseGlosses": [
+      "if it's the case"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
+    ]
+  },
+  {
     "id": "jmdict-1355850-c8df1c64d8",
     "jmdictEntryId": "1355850",
     "jmdictSenseGlosses": [
@@ -2052,6 +2592,23 @@
     ]
   },
   {
+    "id": "jmdict-1005110-b8bbd81aaf",
+    "jmdictEntryId": "1005110",
+    "jmdictSenseGlosses": [
+      "come (on)",
+      "come now",
+      "come along",
+      "here"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
     "id": "jmdict-1342550-f868c2c252",
     "jmdictEntryId": "1342550",
     "jmdictSenseGlosses": [
@@ -2126,6 +2683,25 @@
     ]
   },
   {
+    "id": "jmdict-1004410-36588c8bc5",
+    "jmdictEntryId": "1004410",
+    "jmdictSenseGlosses": [
+      "it is ... that ...",
+      "precisely",
+      "in particular",
+      "definitely",
+      "for sure",
+      "only (when, after, because, etc.)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
     "id": "jmdict-1405800-746c7dfb3a",
     "jmdictEntryId": "1405800",
     "jmdictSenseGlosses": [
@@ -2179,6 +2755,22 @@
     ]
   },
   {
+    "id": "jmdict-1483160-9b23fad17d",
+    "jmdictEntryId": "1483160",
+    "jmdictSenseGlosses": [
+      "he",
+      "she",
+      "that guy"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
     "id": "jmdict-1206050-462d7336e6",
     "jmdictEntryId": "1206050",
     "jmdictSenseGlosses": [
@@ -2195,6 +2787,36 @@
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
       "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-2851029-5d739c11f2",
+    "jmdictEntryId": "2851029",
+    "jmdictSenseGlosses": [
+      "isn't it?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression",
+      "copula"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "expression",
+      "copula"
+    ]
+  },
+  {
+    "id": "jmdict-2607730-3b5a2379b2",
+    "jmdictEntryId": "2607730",
+    "jmdictSenseGlosses": [
+      "excuse me! (when calling out to someone)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
     ]
   },
   {
@@ -2343,6 +2965,27 @@
     "jmdictSenseIdx": 1,
     "jmdictSensePos": [
       "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2395490-d88116f9f6",
+    "jmdictEntryId": "2395490",
+    "jmdictSenseGlosses": [
+      "and yet",
+      "despite this",
+      "but even so",
+      "but even then",
+      "however",
+      "nevertheless",
+      "for all that",
+      "notwithstanding that"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
     ]
   },
   {
@@ -2597,6 +3240,26 @@
     "jmdictSensePos": [
       "noun",
       "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1008430-46576f86c3",
+    "jmdictEntryId": "1008430",
+    "jmdictSenseGlosses": [
+      "so",
+      "therefore",
+      "accordingly",
+      "consequently",
+      "on those grounds",
+      "that is why",
+      "for that reason"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
     ]
   },
   {
@@ -2927,6 +3590,21 @@
     ]
   },
   {
+    "id": "jmdict-1416860-00b1c0e95c",
+    "jmdictEntryId": "1416860",
+    "jmdictSenseGlosses": [
+      "no one",
+      "nobody"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
     "id": "jmdict-1529410-ed60b5b783",
     "jmdictEntryId": "1529410",
     "jmdictSenseGlosses": [
@@ -2989,6 +3667,22 @@
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
       "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2002400-69661068a6",
+    "jmdictEntryId": "2002400",
+    "jmdictSenseGlosses": [
+      "um",
+      "er",
+      "well"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
     ]
   },
   {
@@ -3193,6 +3887,20 @@
     ]
   },
   {
+    "id": "jmdict-2834812-182978f525",
+    "jmdictEntryId": "2834812",
+    "jmdictSenseGlosses": [
+      "I can tell you"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
     "id": "jmdict-1534930-ed5ae79b25",
     "jmdictEntryId": "1534930",
     "jmdictSenseGlosses": [
@@ -3296,6 +4004,24 @@
     ]
   },
   {
+    "id": "jmdict-2771030-a51a8bfe51",
+    "jmdictEntryId": "2771030",
+    "jmdictSenseGlosses": [
+      "oh",
+      "ho",
+      "exclamation of surprise, admiration, etc."
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression",
+      "interjection"
+    ]
+  },
+  {
     "id": "jmdict-1402730-9dc24704ed",
     "jmdictEntryId": "1402730",
     "jmdictSenseGlosses": [
@@ -3360,6 +4086,23 @@
     "jmdictSensePos": [
       "noun",
       "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2017770-b2a45575cc",
+    "jmdictEntryId": "2017770",
+    "jmdictSenseGlosses": [
+      "yes?",
+      "no?",
+      "isn't it?",
+      "is it?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
     ]
   },
   {
@@ -3461,6 +4204,8623 @@
     "jmdictSenseIdx": 0,
     "jmdictSensePos": [
       "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1587590-0d12399eb1",
+    "jmdictEntryId": "1587590",
+    "jmdictSenseGlosses": [
+      "until now",
+      "till now",
+      "up to now",
+      "up to the present",
+      "so far"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1215810-1539552bc3",
+    "jmdictEntryId": "1215810",
+    "jmdictSenseGlosses": [
+      "relation",
+      "relationship",
+      "connection"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1497190-6e59095e23",
+    "jmdictEntryId": "1497190",
+    "jmdictSenseGlosses": [
+      "normal",
+      "ordinary",
+      "regular",
+      "usual",
+      "common",
+      "average"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1310670-3e6e6016fa",
+    "jmdictEntryId": "1310670",
+    "jmdictSenseGlosses": [
+      "to stop",
+      "to turn off"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1441870-e5d25a75c0",
+    "jmdictEntryId": "1441870",
+    "jmdictSenseGlosses": [
+      "to convey",
+      "to report",
+      "to transmit",
+      "to communicate",
+      "to tell",
+      "to impart",
+      "to propagate",
+      "to teach",
+      "to bequeath"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1576900-bd58368ec4",
+    "jmdictEntryId": "1576900",
+    "jmdictSenseGlosses": [
+      "sound",
+      "noise"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1203260-b586f9e835",
+    "jmdictEntryId": "1203260",
+    "jmdictSenseGlosses": [
+      "another (person or thing)",
+      "other",
+      "different",
+      "something else",
+      "someone else",
+      "the rest",
+      "et al."
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1293780-6d4b4cc7d8",
+    "jmdictEntryId": "1293780",
+    "jmdictSenseGlosses": [
+      "recently",
+      "lately",
+      "these days",
+      "nowadays",
+      "right now"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1593670-a4f6b38de8",
+    "jmdictEntryId": "1593670",
+    "jmdictSenseGlosses": [
+      "to search for",
+      "to look for",
+      "to hunt for",
+      "to seek"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1299030-e90d280f62",
+    "jmdictEntryId": "1299030",
+    "jmdictSenseGlosses": [
+      "to kill",
+      "to slay",
+      "to murder",
+      "to slaughter"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1311300-a13a0237a2",
+    "jmdictEntryId": "1311300",
+    "jmdictSenseGlosses": [
+      "we",
+      "us"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1604800-4ce12db666",
+    "jmdictEntryId": "1604800",
+    "jmdictSenseGlosses": [
+      "to go towards",
+      "to head towards"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1008930-88d1d2cff0",
+    "jmdictEntryId": "1008930",
+    "jmdictSenseGlosses": [
+      "what's the matter?",
+      "what's wrong?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1538130-13df6cc997",
+    "jmdictEntryId": "1538130",
+    "jmdictSenseGlosses": [
+      "promise",
+      "agreement",
+      "arrangement",
+      "one's word",
+      "contract",
+      "pact"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1275640-5157b38cc2",
+    "jmdictEntryId": "1275640",
+    "jmdictSenseGlosses": [
+      "mouth"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "counter"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "counter"
+    ]
+  },
+  {
+    "id": "jmdict-1514320-2c6c72d2e2",
+    "jmdictEntryId": "1514320",
+    "jmdictSenseGlosses": [
+      "to walk"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2684260-d61866fa83",
+    "jmdictEntryId": "2684260",
+    "jmdictSenseGlosses": [
+      "emphatic sentence-ending particle"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
+    "id": "jmdict-1001720-fe48f468cc",
+    "jmdictEntryId": "1001720",
+    "jmdictSenseGlosses": [
+      "please"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1229840-b077860913",
+    "jmdictEntryId": "1229840",
+    "jmdictSenseGlosses": [
+      "to cry",
+      "to shed tears",
+      "to weep",
+      "to sob"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1588880-19dc1ad371",
+    "jmdictEntryId": "1588880",
+    "jmdictSenseGlosses": [
+      "big",
+      "large",
+      "great"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1387210-356fff077e",
+    "jmdictEntryId": "1387210",
+    "jmdictSenseGlosses": [
+      "first",
+      "before",
+      "ahead (of)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 2,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2825978-1b568bb53a",
+    "jmdictEntryId": "2825978",
+    "jmdictSenseGlosses": [
+      "don't you think?",
+      "indicates question"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1202440-e0d246f77b",
+    "jmdictEntryId": "1202440",
+    "jmdictSenseGlosses": [
+      "to open",
+      "to undo",
+      "to unseal",
+      "to unpack"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1512130-08e93c9bb7",
+    "jmdictEntryId": "1512130",
+    "jmdictSenseGlosses": [
+      "to return (something)",
+      "to restore",
+      "to put back"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-1404975-c6993b1291",
+    "jmdictEntryId": "1404975",
+    "jmdictSenseGlosses": [
+      "fast",
+      "quick",
+      "rapid",
+      "swift",
+      "speedy",
+      "brisk",
+      "prompt"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1548550-91d097cd50",
+    "jmdictEntryId": "1548550",
+    "jmdictSenseGlosses": [
+      "to fall",
+      "to drop",
+      "to come down",
+      "to crash",
+      "to collapse",
+      "to cave in",
+      "to give way"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1412890-e0d1915620",
+    "jmdictEntryId": "1412890",
+    "jmdictSenseGlosses": [
+      "big",
+      "large",
+      "great"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1487400-70c586d51d",
+    "jmdictEntryId": "1487400",
+    "jmdictSenseGlosses": [
+      "always",
+      "without exception",
+      "necessarily",
+      "certainly",
+      "without fail",
+      "positively",
+      "invariably"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1214330-2fc1d6d582",
+    "jmdictEntryId": "1214330",
+    "jmdictSenseGlosses": [
+      "simple",
+      "easy",
+      "uncomplicated"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1550840-92add5f8e9",
+    "jmdictEntryId": "1550840",
+    "jmdictSenseGlosses": [
+      "to leave",
+      "to go away"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1254760-21bbaba371",
+    "jmdictEntryId": "1254760",
+    "jmdictSenseGlosses": [
+      "rather",
+      "quite",
+      "fairly",
+      "pretty",
+      "surprisingly",
+      "quite a bit",
+      "fairly well"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 3,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1405790-707ce2a7fe",
+    "jmdictEntryId": "1405790",
+    "jmdictSenseGlosses": [
+      "to continue",
+      "to last",
+      "to go on"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1350040-3bd0562699",
+    "jmdictEntryId": "1350040",
+    "jmdictSenseGlosses": [
+      "to disappear",
+      "to vanish",
+      "to go out of sight",
+      "to go away",
+      "to become lost"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-2269050-4ed8927192",
+    "jmdictEntryId": "2269050",
+    "jmdictSenseGlosses": [
+      "suddenly",
+      "abruptly",
+      "unexpectedly"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1202450-e696aaa037",
+    "jmdictEntryId": "1202450",
+    "jmdictSenseGlosses": [
+      "to open (a door, etc.)",
+      "to unwrap (e.g. parcel, package)",
+      "to unlock"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1588730-325cc9b903",
+    "jmdictEntryId": "1588730",
+    "jmdictSenseGlosses": [
+      "to choose",
+      "to select",
+      "to pick (out)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1155090-65e03f3311",
+    "jmdictEntryId": "1155090",
+    "jmdictSenseGlosses": [
+      "excluding",
+      "except (for)",
+      "apart from",
+      "other than",
+      "besides",
+      "in addition to"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1221690-db74fe545e",
+    "jmdictEntryId": "1221690",
+    "jmdictSenseGlosses": [
+      "to weigh on one's mind",
+      "to bother one",
+      "to worry about",
+      "to be concerned about",
+      "to care about",
+      "to feel uneasy",
+      "to be anxious"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1545790-b4b8765789",
+    "jmdictEntryId": "1545790",
+    "jmdictSenseGlosses": [
+      "Mr",
+      "Mrs",
+      "Miss",
+      "Ms"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1307500-e3862fc2a7",
+    "jmdictEntryId": "1307500",
+    "jmdictSenseGlosses": [
+      "to begin",
+      "to start",
+      "to commence"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1013050-f9088ce13f",
+    "jmdictEntryId": "1013050",
+    "jmdictSenseGlosses": [
+      "slowly",
+      "unhurriedly",
+      "without haste",
+      "leisurely",
+      "at one's leisure"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1242160-24804d4437",
+    "jmdictEntryId": "1242160",
+    "jmdictSenseGlosses": [
+      "near",
+      "neighbourhood",
+      "neighborhood",
+      "vicinity"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1454080-f2fcc9cfe0",
+    "jmdictEntryId": "1454080",
+    "jmdictSenseGlosses": [
+      "road",
+      "path",
+      "street",
+      "lane",
+      "passage"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1289070-5494546f79",
+    "jmdictEntryId": "1289070",
+    "jmdictSenseGlosses": [
+      "this time",
+      "now"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1594060-7b53bc0443",
+    "jmdictEntryId": "1594060",
+    "jmdictSenseGlosses": [
+      "happiness",
+      "good fortune",
+      "luck",
+      "blessing"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1184140-430f3a6b0b",
+    "jmdictEntryId": "1184140",
+    "jmdictSenseGlosses": [
+      "below",
+      "down",
+      "under",
+      "younger (e.g. daughter)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1597040-a209bd6eb0",
+    "jmdictEntryId": "1597040",
+    "jmdictSenseGlosses": [
+      "to stand (up)",
+      "to rise",
+      "to get to one's feet",
+      "to stand on end (e.g. of hairs)",
+      "to stick up"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1153890-1353d50bd1",
+    "jmdictEntryId": "1153890",
+    "jmdictSenseGlosses": [
+      "peace of mind",
+      "relief",
+      "(sense of) security",
+      "safety",
+      "assurance",
+      "confidence"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1205770-5f529614c0",
+    "jmdictEntryId": "1205770",
+    "jmdictSenseGlosses": [
+      "surely",
+      "certainly"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1346200-7d59a5792b",
+    "jmdictEntryId": "1346200",
+    "jmdictSenseGlosses": [
+      "arbitrarily",
+      "of its own accord",
+      "without asking",
+      "voluntarily",
+      "willfully",
+      "as one pleases",
+      "selfishly",
+      "by itself",
+      "automatically"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1510650-1330d38dea",
+    "jmdictEntryId": "1510650",
+    "jmdictSenseGlosses": [
+      "to change",
+      "to alter",
+      "to transform",
+      "to convert",
+      "to turn",
+      "to vary"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1589220-fb827b1e6b",
+    "jmdictEntryId": "1589220",
+    "jmdictSenseGlosses": [
+      "to calm down",
+      "to compose oneself",
+      "to regain presence of mind",
+      "to relax"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1355810-eca5fc0d29",
+    "jmdictEntryId": "1355810",
+    "jmdictSenseGlosses": [
+      "case",
+      "occasion",
+      "situation",
+      "circumstances"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2136910-fec0577698",
+    "jmdictEntryId": "2136910",
+    "jmdictSenseGlosses": [
+      "in (a period of time, manner)",
+      "at (a time, stage in life, etc.)",
+      "while"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1539040-ecff4ec1c0",
+    "jmdictEntryId": "1539040",
+    "jmdictSenseGlosses": [
+      "tender",
+      "kind",
+      "gentle",
+      "graceful",
+      "affectionate",
+      "amiable"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1254730-fbed76be92",
+    "jmdictEntryId": "1254730",
+    "jmdictSenseGlosses": [
+      "after all",
+      "in the end",
+      "ultimately",
+      "eventually"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1456360-513de7c3e7",
+    "jmdictEntryId": "1456360",
+    "jmdictSenseGlosses": [
+      "to read"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1497980-a5f9371b45",
+    "jmdictEntryId": "1497980",
+    "jmdictSenseGlosses": [
+      "to lose",
+      "to be defeated",
+      "to be beaten"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1343100-9cfea6d330",
+    "jmdictEntryId": "1343100",
+    "jmdictSenseGlosses": [
+      "place",
+      "spot",
+      "scene",
+      "site"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2134690-a8daa14d35",
+    "jmdictEntryId": "2134690",
+    "jmdictSenseGlosses": [
+      "what's more",
+      "moreover",
+      "at that",
+      "in addition to that",
+      "what's worse"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "jmdict-1576150-6510f54eb5",
+    "jmdictEntryId": "1576150",
+    "jmdictSenseGlosses": [
+      "one person"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1428280-2fcf0f466a",
+    "jmdictEntryId": "1428280",
+    "jmdictSenseGlosses": [
+      "morning"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1218380-b6f6ec773c",
+    "jmdictEntryId": "1218380",
+    "jmdictSenseGlosses": [
+      "dangerous",
+      "risky",
+      "hazardous",
+      "perilous",
+      "precarious"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-2134680-3d70927be8",
+    "jmdictEntryId": "2134680",
+    "jmdictSenseGlosses": [
+      "that is"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb",
+      "expression"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "adverb",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1604550-5e787109e3",
+    "jmdictEntryId": "1604550",
+    "jmdictSenseGlosses": [
+      "to be found",
+      "to be discovered"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1352290-4872ab65c9",
+    "jmdictEntryId": "1352290",
+    "jmdictSenseGlosses": [
+      "to rise",
+      "to go up",
+      "to come up",
+      "to ascend",
+      "to be raised"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-godan",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-godan",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1221540-a78bbe69ff",
+    "jmdictEntryId": "1221540",
+    "jmdictSenseGlosses": [
+      "to feel (as if)",
+      "to have a feeling (that)",
+      "to have a hunch (that)",
+      "to get a sense (that)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-2136890-13f6eb017a",
+    "jmdictEntryId": "2136890",
+    "jmdictSenseGlosses": [
+      "to try to ...",
+      "to be about to do ..."
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1509430-7904cda2c2",
+    "jmdictEntryId": "1509430",
+    "jmdictSenseGlosses": [
+      "separate",
+      "different",
+      "another",
+      "extra"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1444610-f1f7487208",
+    "jmdictEntryId": "1444610",
+    "jmdictSenseGlosses": [
+      "to hand over",
+      "to hand in",
+      "to pass",
+      "to give",
+      "to transfer"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 2,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2846370-bd81a2dcae",
+    "jmdictEntryId": "2846370",
+    "jmdictSenseGlosses": [
+      "best regards",
+      "pleased to meet you",
+      "please remember me",
+      "please treat me favorably (favourably)",
+      "please take care of"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-2457930-71b9e81297",
+    "jmdictEntryId": "2457930",
+    "jmdictSenseGlosses": [
+      "isn't it?",
+      "it really is"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1341670-0943829bbd",
+    "jmdictEntryId": "1341670",
+    "jmdictSenseGlosses": [
+      "preparation",
+      "arrangements",
+      "getting ready",
+      "provision",
+      "setup",
+      "reserving"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1314600-cf8aa3e119",
+    "jmdictEntryId": "1314600",
+    "jmdictSenseGlosses": [
+      "to resemble",
+      "to look like",
+      "to be like",
+      "to be alike",
+      "to be similar",
+      "to take after"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1322320-a5eb3d46e3",
+    "jmdictEntryId": "1322320",
+    "jmdictSenseGlosses": [
+      "to throw away",
+      "to cast away",
+      "to dump",
+      "to discard"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1522150-b142354d85",
+    "jmdictEntryId": "1522150",
+    "jmdictSenseGlosses": [
+      "book",
+      "volume",
+      "script"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "counter"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "counter"
+    ]
+  },
+  {
+    "id": "jmdict-1406150-a81f79f3ea",
+    "jmdictEntryId": "1406150",
+    "jmdictSenseGlosses": [
+      "existence",
+      "being",
+      "presence"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1170650-a593fbabb9",
+    "jmdictEntryId": "1170650",
+    "jmdictSenseGlosses": [
+      "to hide",
+      "to conceal"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1307850-5e455871c5",
+    "jmdictEntryId": "1307850",
+    "jmdictSenseGlosses": [
+      "child",
+      "children"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1559900-11849c35cf",
+    "jmdictEntryId": "1559900",
+    "jmdictSenseGlosses": [
+      "contacting",
+      "(making) contact",
+      "getting in touch",
+      "communication",
+      "correspondence",
+      "call",
+      "message"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1467150-932f404e53",
+    "jmdictEntryId": "1467150",
+    "jmdictSenseGlosses": [
+      "to leave (a matter, decision, etc. to someone)",
+      "to entrust (to someone)",
+      "to entrust (someone) with"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1404630-25579caf7f",
+    "jmdictEntryId": "1404630",
+    "jmdictSenseGlosses": [
+      "leg"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1589590-201745ef33",
+    "jmdictEntryId": "1589590",
+    "jmdictSenseGlosses": [
+      "end",
+      "ending",
+      "close",
+      "conclusion"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1163400-ffaa24f4eb",
+    "jmdictEntryId": "1163400",
+    "jmdictSenseGlosses": [
+      "(doing) together"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1238680-422e0a518c",
+    "jmdictEntryId": "1238680",
+    "jmdictSenseGlosses": [
+      "to be surprised",
+      "to be taken aback",
+      "to be amazed",
+      "to be astonished",
+      "to be shocked"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1540170-9b8a18363f",
+    "jmdictEntryId": "1540170",
+    "jmdictSenseGlosses": [
+      "friend",
+      "companion"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1323500-dfb367613b",
+    "jmdictEntryId": "1323500",
+    "jmdictSenseGlosses": [
+      "hindrance",
+      "obstacle",
+      "nuisance",
+      "disturbance",
+      "interruption",
+      "interference"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1546200-a741016c7d",
+    "jmdictEntryId": "1546200",
+    "jmdictSenseGlosses": [
+      "use",
+      "purpose"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2084700-11fc95af10",
+    "jmdictEntryId": "2084700",
+    "jmdictSenseGlosses": [
+      "to do so",
+      "to do thus"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1920245-d8b07a24e2",
+    "jmdictEntryId": "1920245",
+    "jmdictSenseGlosses": [
+      "what",
+      "what kind of",
+      "what sort of"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-na",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-na",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1533580-57ade8d36e",
+    "jmdictEntryId": "1533580",
+    "jmdictSenseGlosses": [
+      "interesting",
+      "fascinating",
+      "intriguing",
+      "enthralling"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1863230-54cb3eef58",
+    "jmdictEntryId": "1863230",
+    "jmdictSenseGlosses": [
+      "we",
+      "us"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1402540-cb3c28d1bf",
+    "jmdictEntryId": "1402540",
+    "jmdictSenseGlosses": [
+      "to run"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1346150-1f0205bbd1",
+    "jmdictEntryId": "1346150",
+    "jmdictSenseGlosses": [
+      "to win",
+      "to gain victory"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1451150-2c57ae7f42",
+    "jmdictEntryId": "1451150",
+    "jmdictSenseGlosses": [
+      "to work",
+      "to labor",
+      "to labour"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1205900-ca1d078c07",
+    "jmdictEntryId": "1205900",
+    "jmdictSenseGlosses": [
+      "confirmation",
+      "verification",
+      "validation",
+      "review",
+      "check",
+      "affirmation",
+      "identification"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1344380-e5355228eb",
+    "jmdictEntryId": "1344380",
+    "jmdictSenseGlosses": [
+      "to be saved",
+      "to be rescued",
+      "to survive"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2837492-51c647f929",
+    "jmdictEntryId": "2837492",
+    "jmdictSenseGlosses": [
+      "that is so",
+      "that is right",
+      "it looks to me",
+      "that's my impression"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1386460-8acc8a0a7a",
+    "jmdictEntryId": "1386460",
+    "jmdictSenseGlosses": [
+      "explanation",
+      "exposition",
+      "description",
+      "account",
+      "caption",
+      "legend"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1546220-fe4b435f9b",
+    "jmdictEntryId": "1546220",
+    "jmdictSenseGlosses": [
+      "preparation",
+      "arrangements",
+      "provision",
+      "getting ready",
+      "laying out (e.g. a meal)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1192150-fdb43852a1",
+    "jmdictEntryId": "1192150",
+    "jmdictSenseGlosses": [
+      "family"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1502860-e8b945ef3f",
+    "jmdictEntryId": "1502860",
+    "jmdictSenseGlosses": [
+      "part",
+      "portion",
+      "share"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1277140-be20c35656",
+    "jmdictEntryId": "1277140",
+    "jmdictSenseGlosses": [
+      "opposite side",
+      "other side"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1378690-6d39fef146",
+    "jmdictEntryId": "1378690",
+    "jmdictSenseGlosses": [
+      "to be born"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1291800-76bf11d98f",
+    "jmdictEntryId": "1291800",
+    "jmdictSenseGlosses": [
+      "to sit (down)",
+      "to have a seat",
+      "to be seated",
+      "to kneel (on the floor)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1582670-872527dd5c",
+    "jmdictEntryId": "1582670",
+    "jmdictSenseGlosses": [
+      "two persons",
+      "two people",
+      "pair",
+      "couple"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1542160-1bcf3a5094",
+    "jmdictEntryId": "1542160",
+    "jmdictSenseGlosses": [
+      "to play (games, sports)",
+      "to enjoy oneself",
+      "to have a good time"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1531190-6e217b88b2",
+    "jmdictEntryId": "1531190",
+    "jmdictSenseGlosses": [
+      "daughter"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1320230-01e65a7807",
+    "jmdictEntryId": "1320230",
+    "jmdictSenseGlosses": [
+      "excuse me",
+      "goodbye"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru",
+      "adjective-na",
+      "expression"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru",
+      "adjective-na",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1335080-192c92069b",
+    "jmdictEntryId": "1335080",
+    "jmdictSenseGlosses": [
+      "enough",
+      "sufficient",
+      "plenty",
+      "adequate",
+      "satisfactory"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1356700-5b378172bd",
+    "jmdictEntryId": "1356700",
+    "jmdictSenseGlosses": [
+      "state of affairs",
+      "situation",
+      "conditions",
+      "circumstances"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1611020-1b430d6f25",
+    "jmdictEntryId": "1611020",
+    "jmdictSenseGlosses": [
+      "why?",
+      "what for?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1371260-efced54318",
+    "jmdictEntryId": "1371260",
+    "jmdictSenseGlosses": [
+      "water (esp. cool or cold)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1460850-cc8b7a5813",
+    "jmdictEntryId": "1460850",
+    "jmdictSenseGlosses": [
+      "difficult",
+      "hard",
+      "troublesome",
+      "complicated",
+      "serious (disease, problem, etc.)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1328190-64062e6943",
+    "jmdictEntryId": "1328190",
+    "jmdictSenseGlosses": [
+      "to help",
+      "to assist",
+      "to aid"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1545820-6983578847",
+    "jmdictEntryId": "1545820",
+    "jmdictSenseGlosses": [
+      "appearance",
+      "look(s)",
+      "air",
+      "manner",
+      "behaviour",
+      "demeanor"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1524720-f239677fc1",
+    "jmdictEntryId": "1524720",
+    "jmdictSenseGlosses": [
+      "every day",
+      "daily"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1000520-2f7d6974f5",
+    "jmdictEntryId": "1000520",
+    "jmdictSenseGlosses": [
+      "oh!",
+      "ah!",
+      "oh no"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1600260-f36bac6604",
+    "jmdictEntryId": "1600260",
+    "jmdictSenseGlosses": [
+      "to leave (behind)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1592100-a80d681cbf",
+    "jmdictEntryId": "1592100",
+    "jmdictSenseGlosses": [
+      "to eat"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1218760-ccd6521211",
+    "jmdictEntryId": "1218760",
+    "jmdictSenseGlosses": [
+      "to be delighted",
+      "to be glad",
+      "to be pleased",
+      "to rejoice"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2005860-dd29ff675b",
+    "jmdictEntryId": "2005860",
+    "jmdictSenseGlosses": [
+      "once more",
+      "again"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1008950-f1b611f1e0",
+    "jmdictEntryId": "1008950",
+    "jmdictSenseGlosses": [
+      "in any case",
+      "regardless",
+      "either way",
+      "after all",
+      "no matter what",
+      "anyway"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1000440-7c2252737b",
+    "jmdictEntryId": "1000440",
+    "jmdictSenseGlosses": [
+      "he",
+      "she",
+      "that person"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1310620-0782934631",
+    "jmdictEntryId": "1310620",
+    "jmdictSenseGlosses": [
+      "to stop (moving)",
+      "to come to a stop"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1005120-31d043f260",
+    "jmdictEntryId": "1005120",
+    "jmdictSenseGlosses": [
+      "even"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
+    "id": "jmdict-1531940-569a4ebfa5",
+    "jmdictEntryId": "1531940",
+    "jmdictSenseGlosses": [
+      "life",
+      "life force"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2841921-1080b159b3",
+    "jmdictEntryId": "2841921",
+    "jmdictSenseGlosses": [
+      "any more",
+      "anymore",
+      "any further",
+      "any better",
+      "any longer"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-2100900-a8197886c9",
+    "jmdictEntryId": "2100900",
+    "jmdictSenseGlosses": [
+      "to become",
+      "to be"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1425790-0e0b99a2f4",
+    "jmdictEntryId": "1425790",
+    "jmdictSenseGlosses": [
+      "companion",
+      "fellow",
+      "friend",
+      "mate",
+      "comrade",
+      "partner",
+      "colleague",
+      "coworker",
+      "associate"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1324300-f77927bfb7",
+    "jmdictEntryId": "1324300",
+    "jmdictSenseGlosses": [
+      "young",
+      "youthful"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1260670-5dc03c1e5a",
+    "jmdictEntryId": "1260670",
+    "jmdictSenseGlosses": [
+      "origin",
+      "source",
+      "beginning"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "counter"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "counter"
+    ]
+  },
+  {
+    "id": "jmdict-1368370-c0d0e2bf12",
+    "jmdictEntryId": "1368370",
+    "jmdictSenseGlosses": [
+      "(one's) life"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1467530-099b9d75ec",
+    "jmdictEntryId": "1467530",
+    "jmdictSenseGlosses": [
+      "to recognize",
+      "to recognise",
+      "to observe",
+      "to notice"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1449540-ea918c5e6b",
+    "jmdictEntryId": "1449540",
+    "jmdictSenseGlosses": [
+      "to answer",
+      "to reply"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1429060-96395be457",
+    "jmdictEntryId": "1429060",
+    "jmdictSenseGlosses": [
+      "to examine",
+      "to look up",
+      "to investigate",
+      "to check up",
+      "to sense",
+      "to study",
+      "to inquire",
+      "to search"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1164510-07a3b6d7f6",
+    "jmdictEntryId": "1164510",
+    "jmdictSenseGlosses": [
+      "(what) the heck",
+      "(why) in the world",
+      "(who) on earth",
+      "(where) the hell",
+      "(how) the hell"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2707760-8bda284522",
+    "jmdictEntryId": "2707760",
+    "jmdictSenseGlosses": [
+      "that child",
+      "that kid",
+      "that boy",
+      "that girl",
+      "that young lady"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1522370-cbbedeb4a8",
+    "jmdictEntryId": "1522370",
+    "jmdictSenseGlosses": [
+      "seriousness",
+      "earnestness",
+      "truth",
+      "sanctity"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1160790-7c7634e5a5",
+    "jmdictEntryId": "1160790",
+    "jmdictSenseGlosses": [
+      "one",
+      "1"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "numeric"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "numeric"
+    ]
+  },
+  {
+    "id": "jmdict-1394840-36619be085",
+    "jmdictEntryId": "1394840",
+    "jmdictSenseGlosses": [
+      "all members",
+      "all hands",
+      "everyone",
+      "everybody",
+      "whole crew"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1189170-442958ae17",
+    "jmdictEntryId": "1189170",
+    "jmdictSenseGlosses": [
+      "how many times"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2098230-157da46877",
+    "jmdictEntryId": "2098230",
+    "jmdictSenseGlosses": [
+      "to also be (implies that as well as the earlier stated this is also the case)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1344970-608bda652e",
+    "jmdictEntryId": "1344970",
+    "jmdictSenseGlosses": [
+      "girl",
+      "daughter",
+      "baby girl"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-2061250-bd5cf94243",
+    "jmdictEntryId": "2061250",
+    "jmdictSenseGlosses": [
+      "yikes",
+      "oops",
+      "eep",
+      "wow",
+      "aargh"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1002650-a4578a7e3f",
+    "jmdictEntryId": "1002650",
+    "jmdictSenseGlosses": [
+      "mother",
+      "mom",
+      "mum",
+      "ma"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1454670-bd506627ce",
+    "jmdictEntryId": "1454670",
+    "jmdictSenseGlosses": [
+      "particularly",
+      "especially",
+      "in particular",
+      "expressly"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1449190-3cd6749f82",
+    "jmdictEntryId": "1449190",
+    "jmdictSenseGlosses": [
+      "natural",
+      "right",
+      "proper",
+      "just",
+      "reasonable",
+      "appropriate",
+      "deserved"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1211510-320e7fdcbf",
+    "jmdictEntryId": "1211510",
+    "jmdictSenseGlosses": [
+      "perfect",
+      "complete"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-2076040-6cf0921015",
+    "jmdictEntryId": "2076040",
+    "jmdictSenseGlosses": [
+      "unrelated",
+      "irrelevant",
+      "unconcerned",
+      "unconnected"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1227560-bc4caf6144",
+    "jmdictEntryId": "1227560",
+    "jmdictSenseGlosses": [
+      "to rest",
+      "to have a break"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1269320-34b4e087d4",
+    "jmdictEntryId": "1269320",
+    "jmdictSenseGlosses": [
+      "after",
+      "later"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1345250-e968ec3547",
+    "jmdictEntryId": "1345250",
+    "jmdictSenseGlosses": [
+      "woman",
+      "female"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1257240-7783ebdf3f",
+    "jmdictEntryId": "1257240",
+    "jmdictSenseGlosses": [
+      "disliked",
+      "hated",
+      "disagreeable"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1414340-a611f1ac9d",
+    "jmdictEntryId": "1414340",
+    "jmdictSenseGlosses": [
+      "important",
+      "significant",
+      "serious",
+      "crucial"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1295070-f41e7bb5b9",
+    "jmdictEntryId": "1295070",
+    "jmdictSenseGlosses": [
+      "to finish",
+      "to end",
+      "to be completed",
+      "to be resolved"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1202170-2af7895b19",
+    "jmdictEntryId": "1202170",
+    "jmdictSenseGlosses": [
+      "all",
+      "everyone",
+      "everybody"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1421630-b0c3fe9b22",
+    "jmdictEntryId": "1421630",
+    "jmdictSenseGlosses": [
+      "embarrassing",
+      "embarrassed",
+      "ashamed",
+      "humiliated",
+      "shy"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1347750-75b4a52085",
+    "jmdictEntryId": "1347750",
+    "jmdictSenseGlosses": [
+      "small",
+      "little",
+      "tiny"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1457040-ebf049de89",
+    "jmdictEntryId": "1457040",
+    "jmdictSenseGlosses": [
+      "abrupt",
+      "sudden",
+      "unexpected"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1223660-694eb55894",
+    "jmdictEntryId": "1223660",
+    "jmdictSenseGlosses": [
+      "to wake",
+      "to wake up",
+      "to waken",
+      "to awaken"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1334040-79124a276a",
+    "jmdictEntryId": "1334040",
+    "jmdictSenseGlosses": [
+      "to live (of humans)",
+      "to reside",
+      "to inhabit",
+      "to dwell",
+      "to abide"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1377590-c8e61dbee9",
+    "jmdictEntryId": "1377590",
+    "jmdictSenseGlosses": [
+      "honest",
+      "frank",
+      "candid",
+      "straightforward"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1237820-74c7692587",
+    "jmdictEntryId": "1237820",
+    "jmdictSenseGlosses": [
+      "chest",
+      "breast"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1365980-fb41e837ab",
+    "jmdictEntryId": "1365980",
+    "jmdictSenseGlosses": [
+      "to advance",
+      "to go forward"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1207270-684d95a0af",
+    "jmdictEntryId": "1207270",
+    "jmdictSenseGlosses": [
+      "to enjoy",
+      "to take pleasure in",
+      "to have a good time",
+      "to have fun",
+      "to amuse oneself"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1284430-021fdf068e",
+    "jmdictEntryId": "1284430",
+    "jmdictSenseGlosses": [
+      "to fit",
+      "to match",
+      "to suit",
+      "to agree with",
+      "to be correct"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-godan",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-1436730-9a48ff8d22",
+    "jmdictEntryId": "1436730",
+    "jmdictSenseGlosses": [
+      "to give up",
+      "to abandon (hope, plans)",
+      "to resign oneself (to)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1323010-66c0c273c9",
+    "jmdictEntryId": "1323010",
+    "jmdictSenseGlosses": [
+      "to apologize (apologise)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1242130-8bd494fc02",
+    "jmdictEntryId": "1242130",
+    "jmdictSenseGlosses": [
+      "near",
+      "close",
+      "short (distance)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1519290-6e27c9b232",
+    "jmdictEntryId": "1519290",
+    "jmdictSenseGlosses": [
+      "busy",
+      "occupied",
+      "hectic"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1009010-e37daa3a55",
+    "jmdictEntryId": "1009010",
+    "jmdictSenseGlosses": [
+      "how",
+      "in what way",
+      "by what means"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1293850-ff71c6039e",
+    "jmdictEntryId": "1293850",
+    "jmdictSenseGlosses": [
+      "best",
+      "supreme",
+      "wonderful",
+      "finest"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1002590-84605b331e",
+    "jmdictEntryId": "1002590",
+    "jmdictSenseGlosses": [
+      "father",
+      "dad",
+      "papa",
+      "pa",
+      "pop",
+      "daddy",
+      "dada"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1254690-f5dcd08e84",
+    "jmdictEntryId": "1254690",
+    "jmdictSenseGlosses": [
+      "result",
+      "consequence",
+      "outcome",
+      "effect"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1195970-4b2c8ff110",
+    "jmdictEntryId": "1195970",
+    "jmdictSenseGlosses": [
+      "to pass (of time)",
+      "to elapse"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1457200-e7a831a577",
+    "jmdictEntryId": "1457200",
+    "jmdictSenseGlosses": [
+      "to be delivered",
+      "to arrive"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1531330-dc6a74d98d",
+    "jmdictEntryId": "1531330",
+    "jmdictSenseGlosses": [
+      "name",
+      "given name"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1384830-5fee1bf224",
+    "jmdictEntryId": "1384830",
+    "jmdictSenseGlosses": [
+      "to cut",
+      "to cut through",
+      "to perform (surgery)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1355540-464fdf58b5",
+    "jmdictEntryId": "1355540",
+    "jmdictSenseGlosses": [
+      "joke",
+      "jest",
+      "funny story"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2087950-61f4611d7b",
+    "jmdictEntryId": "2087950",
+    "jmdictSenseGlosses": [
+      "wow!",
+      "oh!",
+      "eek!",
+      "gee!"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1517090-8f47cce1c1",
+    "jmdictEntryId": "1517090",
+    "jmdictSenseGlosses": [
+      "method",
+      "way",
+      "manner",
+      "process",
+      "procedure",
+      "means",
+      "measure"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1206730-4d3ba723ba",
+    "jmdictEntryId": "1206730",
+    "jmdictSenseGlosses": [
+      "school"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1228650-7649234824",
+    "jmdictEntryId": "1228650",
+    "jmdictSenseGlosses": [
+      "to hurry",
+      "to rush",
+      "to hasten",
+      "to make something happen sooner"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1448810-89aedcb367",
+    "jmdictEntryId": "1448810",
+    "jmdictSenseGlosses": [
+      "to be hit",
+      "to strike"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2835840-f410eb92b6",
+    "jmdictEntryId": "2835840",
+    "jmdictSenseGlosses": [
+      "oh"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1530030-d56495f8d4",
+    "jmdictEntryId": "1530030",
+    "jmdictSenseGlosses": [
+      "safety",
+      "security",
+      "peace",
+      "quiet"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1356370-ae02df8883",
+    "jmdictEntryId": "1356370",
+    "jmdictSenseGlosses": [
+      "information",
+      "news",
+      "report",
+      "intelligence"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1222590-39ec0dde45",
+    "jmdictEntryId": "1222590",
+    "jmdictSenseGlosses": [
+      "feeling",
+      "mood"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2832955-f326686f81",
+    "jmdictEntryId": "2832955",
+    "jmdictSenseGlosses": [
+      "this person",
+      "he",
+      "she"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1413660-12b688ee5f",
+    "jmdictEntryId": "1413660",
+    "jmdictSenseGlosses": [
+      "liking very much",
+      "loving (something or someone)",
+      "adoring",
+      "being very fond of"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1319750-3dbbf23cbf",
+    "jmdictEntryId": "1319750",
+    "jmdictSenseGlosses": [
+      "to lose"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1304680-f504f1f879",
+    "jmdictEntryId": "1304680",
+    "jmdictSenseGlosses": [
+      "regrettable",
+      "unfortunate",
+      "disappointing",
+      "vexing"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1443840-c09a760962",
+    "jmdictEntryId": "1443840",
+    "jmdictSenseGlosses": [
+      "telephone call",
+      "phone call"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1356730-61fa9abc6c",
+    "jmdictEntryId": "1356730",
+    "jmdictSenseGlosses": [
+      "state",
+      "condition",
+      "situation",
+      "appearance",
+      "circumstances"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1263510-82e07c26ea",
+    "jmdictEntryId": "1263510",
+    "jmdictSenseGlosses": [
+      "to appear",
+      "to come in sight",
+      "to become visible",
+      "to come out",
+      "to embody",
+      "to materialize",
+      "to materialise"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1313580-ee500f3e55",
+    "jmdictEntryId": "1313580",
+    "jmdictSenseGlosses": [
+      "thing",
+      "matter"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1589060-c30e973e9b",
+    "jmdictEntryId": "1589060",
+    "jmdictSenseGlosses": [
+      "to perform",
+      "to do",
+      "to conduct oneself",
+      "to carry out"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2830519-d649617721",
+    "jmdictEntryId": "2830519",
+    "jmdictSenseGlosses": [
+      "by myself",
+      "in person",
+      "by oneself"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-2870322-fb19ba8ec9",
+    "jmdictEntryId": "2870322",
+    "jmdictSenseGlosses": [
+      "mm",
+      "hm",
+      "ngh"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1562850-8c6be5fe2f",
+    "jmdictEntryId": "1562850",
+    "jmdictSenseGlosses": [
+      "arm"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2002810-caf412dd05",
+    "jmdictEntryId": "2002810",
+    "jmdictSenseGlosses": [
+      "oof",
+      "ough",
+      "ulp"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1365040-dc62847ac5",
+    "jmdictEntryId": "1365040",
+    "jmdictSenseGlosses": [
+      "parent",
+      "parents",
+      "mother and father"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1492570-7d653127cd",
+    "jmdictEntryId": "1492570",
+    "jmdictSenseGlosses": [
+      "wonderful",
+      "marvelous",
+      "strange",
+      "incredible",
+      "amazing",
+      "curious",
+      "miraculous",
+      "mysterious"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1008600-b10f1b898e",
+    "jmdictEntryId": "1008600",
+    "jmdictSenseGlosses": [
+      "even if ...",
+      "even supposing that ..."
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1229350-43908a3f19",
+    "jmdictEntryId": "1229350",
+    "jmdictSenseGlosses": [
+      "to request",
+      "to demand",
+      "to require",
+      "to ask for"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1404740-10f77e8ece",
+    "jmdictEntryId": "1404740",
+    "jmdictSenseGlosses": [
+      "to be sufficient",
+      "to be enough"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1423000-f433359b4d",
+    "jmdictEntryId": "1423000",
+    "jmdictSenseGlosses": [
+      "to wear (from the shoulders down)",
+      "to put on"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1242170-9f1a5eb62b",
+    "jmdictEntryId": "1242170",
+    "jmdictSenseGlosses": [
+      "to approach",
+      "to draw near",
+      "to get close"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1455280-bb01accdff",
+    "jmdictEntryId": "1455280",
+    "jmdictSenseGlosses": [
+      "special",
+      "particular",
+      "extraordinary",
+      "exceptional",
+      "especial"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1191080-b908ae4ebe",
+    "jmdictEntryId": "1191080",
+    "jmdictSenseGlosses": [
+      "possibility",
+      "chance",
+      "likelihood",
+      "probability"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2130430-408f855962",
+    "jmdictEntryId": "2130430",
+    "jmdictSenseGlosses": [
+      "remind me",
+      "I forget",
+      "was it?",
+      "was that what happened?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
+    "id": "jmdict-1212380-e765ef84de",
+    "jmdictEntryId": "1212380",
+    "jmdictSenseGlosses": [
+      "thanks",
+      "gratitude",
+      "appreciation",
+      "thankfulness"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-2089660-035c02cfde",
+    "jmdictEntryId": "2089660",
+    "jmdictSenseGlosses": [
+      "what to do"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1582200-f4e3923715",
+    "jmdictEntryId": "1582200",
+    "jmdictSenseGlosses": [
+      "on the way",
+      "en route"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1362640-d4833e7442",
+    "jmdictEntryId": "1362640",
+    "jmdictSenseGlosses": [
+      "deep"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1378860-4f16e6d805",
+    "jmdictEntryId": "1378860",
+    "jmdictSenseGlosses": [
+      "life",
+      "living"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1250220-70c5c1d884",
+    "jmdictEntryId": "1250220",
+    "jmdictSenseGlosses": [
+      "(physical) form",
+      "shape",
+      "figure"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1001820-7d83d317f2",
+    "jmdictEntryId": "1001820",
+    "jmdictSenseGlosses": [
+      "money"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1333550-4247b8c6eb",
+    "jmdictEntryId": "1333550",
+    "jmdictSenseGlosses": [
+      "to gather",
+      "to collect",
+      "to assemble"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1448800-08fcf0c902",
+    "jmdictEntryId": "1448800",
+    "jmdictSenseGlosses": [
+      "natural",
+      "reasonable",
+      "obvious"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1483740-9eaca88915",
+    "jmdictEntryId": "1483740",
+    "jmdictSenseGlosses": [
+      "to get tired",
+      "to tire",
+      "to get fatigued",
+      "to become exhausted",
+      "to grow weary"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1221680-cf29974ca1",
+    "jmdictEntryId": "1221680",
+    "jmdictSenseGlosses": [
+      "to mind (negative nuance)",
+      "to care about",
+      "to worry",
+      "to pay undue (amount of) attention to (something)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1549910-ec7cbfa0c4",
+    "jmdictEntryId": "1549910",
+    "jmdictSenseGlosses": [
+      "understanding",
+      "comprehension",
+      "appreciation"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1604300-6680745e55",
+    "jmdictEntryId": "1604300",
+    "jmdictSenseGlosses": [
+      "to turn",
+      "to rotate",
+      "to revolve",
+      "to spin"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1544730-c661dffd4b",
+    "jmdictEntryId": "1544730",
+    "jmdictSenseGlosses": [
+      "to give (esp. to someone of lower status)",
+      "to bestow",
+      "to grant",
+      "to confer",
+      "to present",
+      "to award"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-2733410-f100bd67ea",
+    "jmdictEntryId": "2733410",
+    "jmdictSenseGlosses": [
+      "it is, isn't it?",
+      "I know, right?",
+      "innit?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1598530-5720e74817",
+    "jmdictEntryId": "1598530",
+    "jmdictSenseGlosses": [
+      "to meet (by chance)",
+      "to come across",
+      "to run across",
+      "to encounter",
+      "to happen upon"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1352320-37d6075e79",
+    "jmdictEntryId": "1352320",
+    "jmdictSenseGlosses": [
+      "to give"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-ichidan",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 4,
+    "jmdictSensePos": [
+      "noun",
+      "verb-ichidan",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-1431850-895a015d98",
+    "jmdictEntryId": "1431850",
+    "jmdictSenseGlosses": [
+      "rare",
+      "uncommon",
+      "unusual",
+      "curious"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1220570-95df2c5529",
+    "jmdictEntryId": "1220570",
+    "jmdictSenseGlosses": [
+      "expectation",
+      "anticipation",
+      "hope"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1396590-6d65728ea2",
+    "jmdictEntryId": "1396590",
+    "jmdictSenseGlosses": [
+      "to be after (something or someone)",
+      "to have an eye on",
+      "to plan to make one's own"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1401210-fc39c95777",
+    "jmdictEntryId": "1401210",
+    "jmdictSenseGlosses": [
+      "consultation",
+      "discussion",
+      "discussing",
+      "asking (someone) for advice"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1323560-2ef90fb975",
+    "jmdictEntryId": "1323560",
+    "jmdictSenseGlosses": [
+      "to borrow"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1213400-f457521853",
+    "jmdictEntryId": "1213400",
+    "jmdictSenseGlosses": [
+      "sweet-tasting",
+      "sweet",
+      "sugary",
+      "sugared"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1269410-6bcc59928b",
+    "jmdictEntryId": "1269410",
+    "jmdictSenseGlosses": [
+      "back",
+      "behind",
+      "rear"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1595730-056fa8a140",
+    "jmdictEntryId": "1595730",
+    "jmdictSenseGlosses": [
+      "everything",
+      "all",
+      "the whole"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1206080-202c83f92a",
+    "jmdictEntryId": "1206080",
+    "jmdictSenseGlosses": [
+      "readiness",
+      "(mental) preparedness"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1001150-988ae27431",
+    "jmdictEntryId": "1001150",
+    "jmdictSenseGlosses": [
+      "let me see",
+      "well",
+      "errr ...",
+      "uhh ..."
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1582000-0fa4a2f643",
+    "jmdictEntryId": "1582000",
+    "jmdictSenseGlosses": [
+      "opponent",
+      "rival",
+      "adversary"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1604290-9c59466266",
+    "jmdictEntryId": "1604290",
+    "jmdictSenseGlosses": [
+      "surroundings",
+      "neighbourhood",
+      "neighborhood",
+      "vicinity"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1368740-addb321f2c",
+    "jmdictEntryId": "1368740",
+    "jmdictSenseGlosses": [
+      "people"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2853889-e833cb5756",
+    "jmdictEntryId": "2853889",
+    "jmdictSenseGlosses": [
+      "but",
+      "however",
+      "although"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle",
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle",
+      "conjunction"
+    ]
+  },
+  {
+    "id": "jmdict-1607180-6afc18ad98",
+    "jmdictEntryId": "1607180",
+    "jmdictSenseGlosses": [
+      "to be usable",
+      "to be serviceable",
+      "to be useful"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1156410-5c5bd8f0c5",
+    "jmdictEntryId": "1156410",
+    "jmdictSenseGlosses": [
+      "unexpected",
+      "surprising"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1127680-c3ae05620d",
+    "jmdictEntryId": "1127680",
+    "jmdictSenseGlosses": [
+      "serious",
+      "not joking",
+      "straight"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1326990-4086d0a6b7",
+    "jmdictEntryId": "1326990",
+    "jmdictSenseGlosses": [
+      "to be harvested",
+      "to be picked",
+      "to be produced",
+      "to be caught (of fish)",
+      "to be obtained",
+      "to be extracted"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 2,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1535560-9dae27b256",
+    "jmdictEntryId": "1535560",
+    "jmdictSenseGlosses": [
+      "purpose",
+      "goal",
+      "aim",
+      "objective",
+      "intention",
+      "motive"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1420420-3ca1682d5c",
+    "jmdictEntryId": "1420420",
+    "jmdictSenseGlosses": [
+      "unknown",
+      "strange"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1227370-b57116abb5",
+    "jmdictEntryId": "1227370",
+    "jmdictSenseGlosses": [
+      "a long time (since the last time)",
+      "first in a long time"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1411160-f694463666",
+    "jmdictEntryId": "1411160",
+    "jmdictSenseGlosses": [
+      "to lend",
+      "to loan"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1320140-f05566fa07",
+    "jmdictEntryId": "1320140",
+    "jmdictSenseGlosses": [
+      "failure",
+      "mistake",
+      "blunder"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1589320-0309c2ca8a",
+    "jmdictEntryId": "1589320",
+    "jmdictSenseGlosses": [
+      "thought"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2019590-7c2e865974",
+    "jmdictEntryId": "2019590",
+    "jmdictSenseGlosses": [
+      "oh, yes?",
+      "really?"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1632520-0900579170",
+    "jmdictEntryId": "1632520",
+    "jmdictSenseGlosses": [
+      "hmm",
+      "well ...",
+      "humph",
+      "huh",
+      "pshaw",
+      "pish"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1161170-e9c70580ad",
+    "jmdictEntryId": "1161170",
+    "jmdictSenseGlosses": [
+      "tentatively",
+      "for the time being"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1589260-372e2253a9",
+    "jmdictEntryId": "1589260",
+    "jmdictSenseGlosses": [
+      "to drop",
+      "to lose",
+      "to let fall",
+      "to shed (light)",
+      "to cast (one's gaze)",
+      "to pour in (liquid)",
+      "to leave behind"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1514940-be752b3892",
+    "jmdictEntryId": "1514940",
+    "jmdictSenseGlosses": [
+      "to live (on, by, etc.)",
+      "to lead a life",
+      "to get along",
+      "to get by"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1160820-658c71d642",
+    "jmdictEntryId": "1160820",
+    "jmdictSenseGlosses": [
+      "one"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb",
+      "numeric"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb",
+      "numeric"
+    ]
+  },
+  {
+    "id": "jmdict-1294940-454e67f2f0",
+    "jmdictEntryId": "1294940",
+    "jmdictSenseGlosses": [
+      "... years old",
+      "age (of) ..."
+    ],
+    "jmdictPartOfSpeechTags": [
+      "counter"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "counter"
+    ]
+  },
+  {
+    "id": "jmdict-1218560-f30d972d54",
+    "jmdictEntryId": "1218560",
+    "jmdictSenseGlosses": [
+      "danger",
+      "peril",
+      "hazard"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1544090-89faa77c9f",
+    "jmdictEntryId": "1544090",
+    "jmdictSenseGlosses": [
+      "extra",
+      "more",
+      "too much",
+      "too many",
+      "excessive",
+      "superfluous",
+      "spare",
+      "surplus"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1223680-349e1cd2ac",
+    "jmdictEntryId": "1223680",
+    "jmdictSenseGlosses": [
+      "to occur",
+      "to happen"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1346190-e757f74bf0",
+    "jmdictEntryId": "1346190",
+    "jmdictSenseGlosses": [
+      "one's own convenience",
+      "one's way",
+      "selfishness"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1316300-ed1bac4837",
+    "jmdictEntryId": "1316300",
+    "jmdictSenseGlosses": [
+      "period",
+      "epoch",
+      "era",
+      "age"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1555830-510430d7bc",
+    "jmdictEntryId": "1555830",
+    "jmdictSenseGlosses": [
+      "next (to)",
+      "adjoining",
+      "adjacent"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1808020-56ae0f9ffc",
+    "jmdictEntryId": "1808020",
+    "jmdictSenseGlosses": [
+      "before one's eyes",
+      "in front of one",
+      "under one's nose"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1602440-c54165577b",
+    "jmdictEntryId": "1602440",
+    "jmdictSenseGlosses": [
+      "to increase",
+      "to multiply"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1500940-cd296e5504",
+    "jmdictEntryId": "1500940",
+    "jmdictSenseGlosses": [
+      "clothes (esp. Western clothes)",
+      "clothing",
+      "dress",
+      "costume",
+      "suit",
+      "outfit"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "counter"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "counter"
+    ]
+  },
+  {
+    "id": "jmdict-1512670-a75ef58f65",
+    "jmdictEntryId": "1512670",
+    "jmdictSenseGlosses": [
+      "study"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1483185-e1f45ad8fa",
+    "jmdictEntryId": "1483185",
+    "jmdictSenseGlosses": [
+      "that way",
+      "that direction",
+      "over there",
+      "yonder"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1388410-8a8f7fde78",
+    "jmdictEntryId": "1388410",
+    "jmdictSenseGlosses": [
+      "senior (at school, work, etc.)",
+      "superior",
+      "elder",
+      "older person",
+      "predecessor"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1399610-9edc687244",
+    "jmdictEntryId": "1399610",
+    "jmdictSenseGlosses": [
+      "imagination",
+      "supposition",
+      "guess"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1491150-6642aad31d",
+    "jmdictEntryId": "1491150",
+    "jmdictSenseGlosses": [
+      "anxiety",
+      "uneasiness",
+      "worry",
+      "apprehension",
+      "fear",
+      "insecurity",
+      "suspense"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1008030-42866c3e87",
+    "jmdictEntryId": "1008030",
+    "jmdictSenseGlosses": [
+      "unintentionally",
+      "subconsciously",
+      "by mistake",
+      "against one's better judgement (judgment)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 2,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1254790-c460f62faa",
+    "jmdictEntryId": "1254790",
+    "jmdictSenseGlosses": [
+      "marriage"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1009320-94b4617206",
+    "jmdictEntryId": "1009320",
+    "jmdictSenseGlosses": [
+      "rapidly",
+      "quickly",
+      "steadily"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2110850-32fbb83ca8",
+    "jmdictEntryId": "2110850",
+    "jmdictSenseGlosses": [
+      "never again"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1341210-62d4b81d61",
+    "jmdictEntryId": "1341210",
+    "jmdictSenseGlosses": [
+      "moment",
+      "instant",
+      "second"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1321900-fc8dbcfe94",
+    "jmdictEntryId": "1321900",
+    "jmdictSenseGlosses": [
+      "photograph",
+      "photo",
+      "picture",
+      "photography"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1217950-ac78a30a56",
+    "jmdictEntryId": "1217950",
+    "jmdictSenseGlosses": [
+      "to desire",
+      "to wish",
+      "to hope"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-1583250-33aa64cf1f",
+    "jmdictEntryId": "1583250",
+    "jmdictSenseGlosses": [
+      "no"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1179320-c2821ddb42",
+    "jmdictEntryId": "1179320",
+    "jmdictSenseGlosses": [
+      "inner part",
+      "interior",
+      "back (of a drawer, one's throat, etc.)",
+      "depths (e.g. of a forest)",
+      "recesses (e.g. of a cave)",
+      "heart",
+      "end (of a road, garden, etc.)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1419570-a32ad88e8e",
+    "jmdictEntryId": "1419570",
+    "jmdictSenseGlosses": [
+      "to refuse",
+      "to reject",
+      "to dismiss",
+      "to turn down",
+      "to decline"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1201190-f7edfecdb4",
+    "jmdictEntryId": "1201190",
+    "jmdictSenseGlosses": [
+      "sea",
+      "ocean",
+      "waters"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1255940-0ef69cc17f",
+    "jmdictEntryId": "1255940",
+    "jmdictSenseGlosses": [
+      "matter",
+      "affair",
+      "case",
+      "item",
+      "subject"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "counter"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "counter"
+    ]
+  },
+  {
+    "id": "jmdict-1318720-2305a9ff92",
+    "jmdictEntryId": "1318720",
+    "jmdictSenseGlosses": [
+      "freedom",
+      "liberty"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1510690-1275375af1",
+    "jmdictEntryId": "1510690",
+    "jmdictSenseGlosses": [
+      "unusual",
+      "abnormal",
+      "strange",
+      "odd",
+      "peculiar",
+      "weird",
+      "different"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1229060-6f2fffbd46",
+    "jmdictEntryId": "1229060",
+    "jmdictSenseGlosses": [
+      "to rescue (someone)",
+      "to save",
+      "to help (out of a difficulty)",
+      "to relieve (from)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1432410-294ac2b620",
+    "jmdictEntryId": "1432410",
+    "jmdictSenseGlosses": [
+      "to chase",
+      "to run after",
+      "to pursue",
+      "to follow after"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1196970-18383bbc6b",
+    "jmdictEntryId": "1196970",
+    "jmdictSenseGlosses": [
+      "endurance",
+      "patience",
+      "perseverance",
+      "bearing (with something)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-2136180-4b4fe4d427",
+    "jmdictEntryId": "2136180",
+    "jmdictSenseGlosses": [
+      "small",
+      "little",
+      "tiny"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1611610-12040316fa",
+    "jmdictEntryId": "1611610",
+    "jmdictSenseGlosses": [
+      "to be mistaken",
+      "to be incorrect",
+      "to be wrong"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1281000-522041da31",
+    "jmdictEntryId": "1281000",
+    "jmdictSenseGlosses": [
+      "thinking",
+      "thought",
+      "view",
+      "opinion",
+      "concept"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1588760-864c2e159d",
+    "jmdictEntryId": "1588760",
+    "jmdictSenseGlosses": [
+      "to get",
+      "to earn",
+      "to acquire",
+      "to procure",
+      "to gain",
+      "to secure",
+      "to attain",
+      "to obtain",
+      "to win"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-1473950-339bea9091",
+    "jmdictEntryId": "1473950",
+    "jmdictSenseGlosses": [
+      "to sell"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1245290-a6ba5663e1",
+    "jmdictEntryId": "1245290",
+    "jmdictSenseGlosses": [
+      "sky",
+      "the air",
+      "the heavens"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1433030-c00cafd3ae",
+    "jmdictEntryId": "1433030",
+    "jmdictSenseGlosses": [
+      "to go by",
+      "to go past",
+      "to go along",
+      "to travel along",
+      "to pass through",
+      "to use (a road)",
+      "to take (a route)",
+      "to go via",
+      "to go by way of"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1596960-846e7135f8",
+    "jmdictEntryId": "1596960",
+    "jmdictSenseGlosses": [
+      "to make war (on)",
+      "to wage war (against)",
+      "to go to war (with)",
+      "to fight (with)",
+      "to do battle (against)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1429700-2a19b18a09",
+    "jmdictEntryId": "1429700",
+    "jmdictSenseGlosses": [
+      "to fly",
+      "to soar"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1255060-d59435ae02",
+    "jmdictEntryId": "1255060",
+    "jmdictSenseGlosses": [
+      "blood"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1212670-1d93acdb55",
+    "jmdictEntryId": "1212670",
+    "jmdictSenseGlosses": [
+      "to get used to",
+      "to grow accustomed to",
+      "to become familiar with"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-1333560-bc10008c1a",
+    "jmdictEntryId": "1333560",
+    "jmdictSenseGlosses": [
+      "to collect",
+      "to assemble",
+      "to gather"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-2038160-3dc966d296",
+    "jmdictEntryId": "2038160",
+    "jmdictSenseGlosses": [
+      "to anyone",
+      "to everyone"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1401310-a62d69090a",
+    "jmdictEntryId": "1401310",
+    "jmdictSenseGlosses": [
+      "as usual",
+      "as always",
+      "as before",
+      "as ever",
+      "still"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1221740-998c75f711",
+    "jmdictEntryId": "1221740",
+    "jmdictSenseGlosses": [
+      "to like",
+      "to be pleased with",
+      "to be delighted with",
+      "to take a liking to",
+      "to suit one's fancy"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1607050-5f7fe04fda",
+    "jmdictEntryId": "1607050",
+    "jmdictSenseGlosses": [
+      "we"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1242590-d32a1fec0b",
+    "jmdictEntryId": "1242590",
+    "jmdictSenseGlosses": [
+      "money"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1357980-3e5704b6e1",
+    "jmdictEntryId": "1357980",
+    "jmdictSenseGlosses": [
+      "to touch",
+      "to feel",
+      "to handle"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2770620-9e1247a497",
+    "jmdictEntryId": "2770620",
+    "jmdictSenseGlosses": [
+      "oh",
+      "oops"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1150450-2768d577e6",
+    "jmdictEntryId": "1150450",
+    "jmdictSenseGlosses": [
+      "to love"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1590770-23e38e52bf",
+    "jmdictEntryId": "1590770",
+    "jmdictSenseGlosses": [
+      "substitute",
+      "replacement",
+      "substituting",
+      "replacing"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1543240-b7fdabbd0a",
+    "jmdictEntryId": "1543240",
+    "jmdictSenseGlosses": [
+      "plans",
+      "arrangement",
+      "schedule",
+      "program",
+      "programme",
+      "expectation",
+      "estimate"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1631370-7d73a68537",
+    "jmdictEntryId": "1631370",
+    "jmdictSenseGlosses": [
+      "to be good (at)",
+      "to go well"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1282100-28638c5248",
+    "jmdictEntryId": "1282100",
+    "jmdictSenseGlosses": [
+      "action",
+      "conduct",
+      "behaviour",
+      "behavior",
+      "mobilization",
+      "mobilisation"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1451180-e30e4ca562",
+    "jmdictEntryId": "1451180",
+    "jmdictSenseGlosses": [
+      "movement",
+      "move",
+      "motion"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1172660-1aecfc1caf",
+    "jmdictEntryId": "1172660",
+    "jmdictSenseGlosses": [
+      "to carry",
+      "to transport",
+      "to move",
+      "to convey"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1467720-5d1e12b1d6",
+    "jmdictEntryId": "1467720",
+    "jmdictSenseGlosses": [
+      "hot (to the touch)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1009290-7325da9852",
+    "jmdictEntryId": "1009290",
+    "jmdictSenseGlosses": [
+      "which (of three or more)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1351430-aec59e5e6a",
+    "jmdictEntryId": "1351430",
+    "jmdictSenseGlosses": [
+      "introduction",
+      "presentation",
+      "referral",
+      "showcase (of a product)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1169250-52feee1ec5",
+    "jmdictEntryId": "1169250",
+    "jmdictSenseGlosses": [
+      "to pull",
+      "to tug",
+      "to lead (e.g. a horse)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1422970-982924f5d1",
+    "jmdictEntryId": "1422970",
+    "jmdictSenseGlosses": [
+      "to arrive at",
+      "to reach"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1541900-522092554a",
+    "jmdictEntryId": "1541900",
+    "jmdictSenseGlosses": [
+      "to invite",
+      "to ask (someone to do)",
+      "to call (for)",
+      "to take (someone) along"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1317970-fa0f9af17b",
+    "jmdictEntryId": "1317970",
+    "jmdictSenseGlosses": [
+      "self-confidence",
+      "confidence (in oneself)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1252560-48e9733e17",
+    "jmdictEntryId": "1252560",
+    "jmdictSenseGlosses": [
+      "light (i.e. not heavy)",
+      "feeling light (i.e. offering little resistance, moving easily)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1324520-93d35665ac",
+    "jmdictEntryId": "1324520",
+    "jmdictSenseGlosses": [
+      "weak",
+      "frail",
+      "delicate",
+      "tender",
+      "unskilled",
+      "weak (wine)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1005190-174537d7c7",
+    "jmdictEntryId": "1005190",
+    "jmdictSenseGlosses": [
+      "quickly",
+      "promptly",
+      "immediately",
+      "without delay",
+      "without hesitation",
+      "briskly",
+      "hurriedly",
+      "hastily"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1351730-138ed31414",
+    "jmdictEntryId": "1351730",
+    "jmdictSenseGlosses": [
+      "detailed",
+      "full",
+      "minute"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1532800-ce49c1ae05",
+    "jmdictEntryId": "1532800",
+    "jmdictSenseGlosses": [
+      "trouble",
+      "bother",
+      "annoyance",
+      "nuisance",
+      "inconvenience"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-2276200-d2342783bd",
+    "jmdictEntryId": "2276200",
+    "jmdictSenseGlosses": [
+      "excuse me",
+      "pardon me",
+      "I beg your pardon"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1272780-1a5c827195",
+    "jmdictEntryId": "1272780",
+    "jmdictSenseGlosses": [
+      "light"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1515670-7372d498ce",
+    "jmdictEntryId": "1515670",
+    "jmdictSenseGlosses": [
+      "report",
+      "information"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1528060-7f7e7b7e92",
+    "jmdictEntryId": "1528060",
+    "jmdictSenseGlosses": [
+      "(distant) future"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1223150-d4c9241f5d",
+    "jmdictEntryId": "1223150",
+    "jmdictSenseGlosses": [
+      "memory",
+      "recollection",
+      "remembrance"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1576200-d327ff1c5b",
+    "jmdictEntryId": "1576200",
+    "jmdictSenseGlosses": [
+      "whole life",
+      "a lifetime",
+      "all through life"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1315710-ab3c6bb950",
+    "jmdictEntryId": "1315710",
+    "jmdictSenseGlosses": [
+      "to bring (something)",
+      "to take along",
+      "to fetch",
+      "to get"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-irregular",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-irregular",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1591720-3bf71ba9cb",
+    "jmdictEntryId": "1591720",
+    "jmdictSenseGlosses": [
+      "cooperation",
+      "collaboration",
+      "help",
+      "support"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1323080-16a4c66ffa",
+    "jmdictEntryId": "1323080",
+    "jmdictSenseGlosses": [
+      "car",
+      "automobile",
+      "vehicle"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1313830-58cbb5a8ef",
+    "jmdictEntryId": "1313830",
+    "jmdictSenseGlosses": [
+      "event",
+      "affair",
+      "incident",
+      "case",
+      "plot",
+      "trouble",
+      "scandal"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2008670-b5fd5913e6",
+    "jmdictEntryId": "2008670",
+    "jmdictSenseGlosses": [
+      "that's so, isn't it"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1357600-efb9edb8c3",
+    "jmdictEntryId": "1357600",
+    "jmdictSenseGlosses": [
+      "colour",
+      "color",
+      "hue",
+      "tint",
+      "tinge",
+      "shade"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2831328-c053a6b48a",
+    "jmdictEntryId": "2831328",
+    "jmdictSenseGlosses": [
+      "sure",
+      "yeah",
+      "I know"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1631660-604cf64c62",
+    "jmdictEntryId": "1631660",
+    "jmdictSenseGlosses": [
+      "hey!",
+      "wait a minute!",
+      "whoa!"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1335750-d544baff0c",
+    "jmdictEntryId": "1335750",
+    "jmdictSenseGlosses": [
+      "heavy",
+      "weighty"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1155150-71d95c454d",
+    "jmdictEntryId": "1155150",
+    "jmdictSenseGlosses": [
+      "the past",
+      "before",
+      "previously",
+      "former times"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1437260-cf60a6c12a",
+    "jmdictEntryId": "1437260",
+    "jmdictSenseGlosses": [
+      "-ical",
+      "-ive",
+      "-al",
+      "-ic",
+      "-y"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1445790-7055f1db80",
+    "jmdictEntryId": "1445790",
+    "jmdictSenseGlosses": [
+      "to fall (over, down)",
+      "to collapse",
+      "to take a fall",
+      "to topple"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1591330-a5988b6ae8",
+    "jmdictEntryId": "1591330",
+    "jmdictSenseGlosses": [
+      "to notice",
+      "to realize",
+      "to realise",
+      "to become aware (of)",
+      "to perceive",
+      "to sense",
+      "to suspect"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1497610-0919443743",
+    "jmdictEntryId": "1497610",
+    "jmdictSenseGlosses": [
+      "father"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1582710-b99fc3300b",
+    "jmdictEntryId": "1582710",
+    "jmdictSenseGlosses": [
+      "Japan"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1979930-c162a6d1f9",
+    "jmdictEntryId": "1979930",
+    "jmdictSenseGlosses": [
+      "each other",
+      "one another"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1522750-8ad8230c8b",
+    "jmdictEntryId": "1522750",
+    "jmdictSenseGlosses": [
+      "the person in question",
+      "the person themselves",
+      "said person"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1550830-eab820f6b2",
+    "jmdictEntryId": "1550830",
+    "jmdictSenseGlosses": [
+      "to separate",
+      "to part",
+      "to divide",
+      "to keep apart"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1254130-b54b39bdb2",
+    "jmdictEntryId": "1254130",
+    "jmdictSenseGlosses": [
+      "(not) ever",
+      "(not) by any means",
+      "(not) in the least",
+      "(not) in any way",
+      "(not) at all"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1592250-96ab7963c3",
+    "jmdictEntryId": "1592250",
+    "jmdictSenseGlosses": [
+      "country",
+      "state"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1351400-b95bb89ceb",
+    "jmdictEntryId": "1351400",
+    "jmdictSenseGlosses": [
+      "smiling face",
+      "smile"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2869467-998f567d7c",
+    "jmdictEntryId": "2869467",
+    "jmdictSenseGlosses": [
+      "probably",
+      "(it) seems",
+      "I suppose",
+      "right?",
+      "isn't it"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-2643980-a746f618d9",
+    "jmdictEntryId": "2643980",
+    "jmdictSenseGlosses": [
+      "even if",
+      "even though"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
+    "id": "jmdict-1238410-0e68d58f28",
+    "jmdictEntryId": "1238410",
+    "jmdictSenseGlosses": [
+      "interest (in something)",
+      "curiosity (about something)",
+      "zest (for)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1605820-162be6488e",
+    "jmdictEntryId": "1605820",
+    "jmdictSenseGlosses": [
+      "good",
+      "excellent",
+      "fine",
+      "nice",
+      "pleasant",
+      "agreeable"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-2831677-4c0321bba3",
+    "jmdictEntryId": "2831677",
+    "jmdictSenseGlosses": [
+      "you (plural)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "pronoun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "pronoun"
+    ]
+  },
+  {
+    "id": "jmdict-1551790-d97d7fccc3",
+    "jmdictEntryId": "1551790",
+    "jmdictSenseGlosses": [
+      "splendid",
+      "fine",
+      "handsome",
+      "elegant",
+      "imposing",
+      "prominent",
+      "impressive"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-2026520-44fb3969de",
+    "jmdictEntryId": "2026520",
+    "jmdictSenseGlosses": [
+      "apart from that",
+      "other than that",
+      "leaving that aside",
+      "more importantly",
+      "more ... than that",
+      "but",
+      "however"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "jmdict-1207230-b83e044b09",
+    "jmdictEntryId": "1207230",
+    "jmdictSenseGlosses": [
+      "easy",
+      "simple",
+      "without trouble",
+      "without hardships"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1277100-28547119e0",
+    "jmdictEntryId": "1277100",
+    "jmdictSenseGlosses": [
+      "to turn (towards)",
+      "to face",
+      "to point",
+      "to aim",
+      "to direct to"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1196000-c1a4df3179",
+    "jmdictEntryId": "1196000",
+    "jmdictSenseGlosses": [
+      "to spend (time)",
+      "to pass",
+      "to lead (a life)",
+      "to live"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1156640-6ed6accf89",
+    "jmdictEntryId": "1156640",
+    "jmdictSenseGlosses": [
+      "consciousness"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-2863159-c61013318c",
+    "jmdictEntryId": "2863159",
+    "jmdictSenseGlosses": [
+      "don't sweat it",
+      "you're welcome",
+      "no worries"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1313960-63a16a505d",
+    "jmdictEntryId": "1313960",
+    "jmdictSenseGlosses": [
+      "fact",
+      "truth",
+      "reality"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1519630-70de02a083",
+    "jmdictEntryId": "1519630",
+    "jmdictSenseGlosses": [
+      "to desire",
+      "to want",
+      "to wish for",
+      "to hope for"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1523180-a1e955d06a",
+    "jmdictEntryId": "1523180",
+    "jmdictSenseGlosses": [
+      "genuine article",
+      "real thing",
+      "real deal"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1512220-325ae5a813",
+    "jmdictEntryId": "1512220",
+    "jmdictSenseGlosses": [
+      "reply",
+      "answer",
+      "response"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1350110-d1f957e4fb",
+    "jmdictEntryId": "1350110",
+    "jmdictSenseGlosses": [
+      "to erase",
+      "to rub out",
+      "to rub off",
+      "to cross out",
+      "to delete"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1302680-b6f62130bd",
+    "jmdictEntryId": "1302680",
+    "jmdictSenseGlosses": [
+      "mountain",
+      "hill"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "counter"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "counter"
+    ]
+  },
+  {
+    "id": "jmdict-1357990-7f2c89558f",
+    "jmdictEntryId": "1357990",
+    "jmdictSenseGlosses": [
+      "to touch",
+      "to feel"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-2133750-d23410f519",
+    "jmdictEntryId": "2133750",
+    "jmdictSenseGlosses": [
+      "please remember me",
+      "please help me",
+      "please treat me well",
+      "I look forward to working with you"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-2119750-9282e565a8",
+    "jmdictEntryId": "2119750",
+    "jmdictSenseGlosses": [
+      "what!",
+      "oh"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-2858616-36ba63e954",
+    "jmdictEntryId": "2858616",
+    "jmdictSenseGlosses": [
+      "so",
+      "then"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression",
+      "conjunction",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "expression",
+      "conjunction",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1499720-53cf7b6bb9",
+    "jmdictEntryId": "1499720",
+    "jmdictSenseGlosses": [
+      "wind",
+      "breeze",
+      "draught",
+      "draft"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1289520-f9a409bf79",
+    "jmdictEntryId": "1289520",
+    "jmdictSenseGlosses": [
+      "this evening",
+      "tonight"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2209490-f3ec629728",
+    "jmdictEntryId": "2209490",
+    "jmdictSenseGlosses": [
+      "never mind that",
+      "don't worry about that"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1383180-d672c9c94e",
+    "jmdictEntryId": "1383180",
+    "jmdictSenseGlosses": [
+      "duty",
+      "responsibility (incl. supervision of staff)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2683060-e659741669",
+    "jmdictEntryId": "2683060",
+    "jmdictSenseGlosses": [
+      "it is assuredly that ...",
+      "can say with confidence that ..."
+    ],
+    "jmdictPartOfSpeechTags": [
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-1556730-cdd13938a4",
+    "jmdictEntryId": "1556730",
+    "jmdictSenseGlosses": [
+      "cold (to the touch)",
+      "chilly",
+      "icy",
+      "freezing"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-2717510-8fc24ba5c4",
+    "jmdictEntryId": "2717510",
+    "jmdictSenseGlosses": [
+      "means",
+      "is",
+      "as for"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1207250-4e67ad920d",
+    "jmdictEntryId": "1207250",
+    "jmdictSenseGlosses": [
+      "enjoyment",
+      "pleasure",
+      "amusement",
+      "delight",
+      "joy",
+      "fun",
+      "diversion",
+      "hobby"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1985560-e9116a9c29",
+    "jmdictEntryId": "1985560",
+    "jmdictSenseGlosses": [
+      "sorry",
+      "excuse me",
+      "thank you"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1431110-c4a91d6379",
+    "jmdictEntryId": "1431110",
+    "jmdictSenseGlosses": [
+      "direct",
+      "immediate",
+      "personal",
+      "firsthand"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1549660-be70d35656",
+    "jmdictEntryId": "1549660",
+    "jmdictSenseGlosses": [
+      "use",
+      "utilization",
+      "utilisation",
+      "application"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1579720-7eab33cac2",
+    "jmdictEntryId": "1579720",
+    "jmdictSenseGlosses": [
+      "lonely",
+      "lonesome",
+      "solitary",
+      "desolate"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1591990-fe3d41a164",
+    "jmdictEntryId": "1591990",
+    "jmdictSenseGlosses": [
+      "to be careful",
+      "to pay attention",
+      "to take care"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1006860-a234a6e16c",
+    "jmdictEntryId": "1006860",
+    "jmdictSenseGlosses": [
+      "after that",
+      "afterwards",
+      "thereafter"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1245470-d3b3dfe271",
+    "jmdictEntryId": "1245470",
+    "jmdictSenseGlosses": [
+      "air",
+      "atmosphere"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2153940-3865d6263b",
+    "jmdictEntryId": "2153940",
+    "jmdictSenseGlosses": [
+      "thank you",
+      "thanks"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1163340-8580ac918b",
+    "jmdictEntryId": "1163340",
+    "jmdictSenseGlosses": [
+      "instant",
+      "moment",
+      "for an instant"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1436540-53846dc012",
+    "jmdictEntryId": "1436540",
+    "jmdictSenseGlosses": [
+      "degree",
+      "amount",
+      "grade",
+      "standard",
+      "of the order of (following a number)",
+      "about",
+      "approximately"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1610070-8363a0f117",
+    "jmdictEntryId": "1610070",
+    "jmdictSenseGlosses": [
+      "absolutely",
+      "definitely",
+      "unconditionally"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1318000-63f33e6a54",
+    "jmdictEntryId": "1318000",
+    "jmdictSenseGlosses": [
+      "(one's) self",
+      "oneself",
+      "yourself",
+      "himself",
+      "herself"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1478200-71bea962b5",
+    "jmdictEntryId": "1478200",
+    "jmdictSenseGlosses": [
+      "to come out",
+      "to fall out",
+      "to be omitted",
+      "to be missing",
+      "to escape",
+      "to come loose"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1480210-d25eeaefdf",
+    "jmdictEntryId": "1480210",
+    "jmdictSenseGlosses": [
+      "reaction",
+      "response"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1314680-ea8e5dad46",
+    "jmdictEntryId": "1314680",
+    "jmdictSenseGlosses": [
+      "to suit",
+      "to match",
+      "to become",
+      "to be like"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1196030-5d1f310503",
+    "jmdictEntryId": "1196030",
+    "jmdictSenseGlosses": [
+      "the past",
+      "bygone days"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1486360-f290568c7a",
+    "jmdictEntryId": "1486360",
+    "jmdictSenseGlosses": [
+      "beautiful",
+      "pretty",
+      "lovely",
+      "sweet",
+      "pure (heart, friendship, etc.)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1595070-6afda916d4",
+    "jmdictEntryId": "1595070",
+    "jmdictSenseGlosses": [
+      "acquaintance"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1329650-2f8b07c3e7",
+    "jmdictEntryId": "1329650",
+    "jmdictSenseGlosses": [
+      "to receive",
+      "to get",
+      "to accept"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1284480-ad148e462c",
+    "jmdictEntryId": "1284480",
+    "jmdictSenseGlosses": [
+      "to join together",
+      "to unite",
+      "to combine",
+      "to add up"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-2856217-a582df090c",
+    "jmdictEntryId": "2856217",
+    "jmdictSenseGlosses": [
+      "then",
+      "and (then)",
+      "in that case",
+      "if so"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "conjunction"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "conjunction"
+    ]
+  },
+  {
+    "id": "jmdict-1009020-01ceee5b90",
+    "jmdictEntryId": "1009020",
+    "jmdictSenseGlosses": [
+      "possibly",
+      "apparently",
+      "(seem) likely",
+      "seemingly"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1358490-0e5ef61909",
+    "jmdictEntryId": "1358490",
+    "jmdictSenseGlosses": [
+      "meal (e.g. lunch, dinner)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1554310-145a9b39d2",
+    "jmdictEntryId": "1554310",
+    "jmdictSenseGlosses": [
+      "cooking",
+      "cookery",
+      "cuisine",
+      "food",
+      "dish"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1507180-883cd5659d",
+    "jmdictEntryId": "1507180",
+    "jmdictSenseGlosses": [
+      "all right",
+      "fine",
+      "OK",
+      "okay"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-2581590-ad4aef1509",
+    "jmdictEntryId": "2581590",
+    "jmdictSenseGlosses": [
+      "story",
+      "tale"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1348910-70fa977d7c",
+    "jmdictEntryId": "1348910",
+    "jmdictSenseGlosses": [
+      "few",
+      "little",
+      "small (amount)",
+      "low",
+      "scarce",
+      "insufficient",
+      "seldom",
+      "rare"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1484150-326cf89350",
+    "jmdictEntryId": "1484150",
+    "jmdictSenseGlosses": [
+      "secret",
+      "secrecy",
+      "confidentiality",
+      "privacy"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1215260-cabbe0c9a2",
+    "jmdictEntryId": "1215260",
+    "jmdictSenseGlosses": [
+      "to be in time (for)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-2006640-2946305273",
+    "jmdictEntryId": "2006640",
+    "jmdictSenseGlosses": [
+      "certain",
+      "sure",
+      "no doubt"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1262530-469ee39ec2",
+    "jmdictEntryId": "1262530",
+    "jmdictSenseGlosses": [
+      "severe",
+      "strict",
+      "rigid",
+      "unsparing",
+      "relentless"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1408810-ab8f167e70",
+    "jmdictEntryId": "1408810",
+    "jmdictSenseGlosses": [
+      "to hit",
+      "to strike",
+      "to knock",
+      "to beat",
+      "to punch",
+      "to slap",
+      "to tap",
+      "to bang",
+      "to clap",
+      "to pound"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1376600-ea5e783973",
+    "jmdictEntryId": "1376600",
+    "jmdictSenseGlosses": [
+      "right",
+      "correct"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1551530-f8e0883733",
+    "jmdictEntryId": "1551530",
+    "jmdictSenseGlosses": [
+      "to stand up",
+      "to put up",
+      "to set up",
+      "to erect",
+      "to raise"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1009000-ccfc47bf00",
+    "jmdictEntryId": "1009000",
+    "jmdictSenseGlosses": [
+      "thank you",
+      "thanks"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb",
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb",
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-2078760-8f3494b021",
+    "jmdictEntryId": "2078760",
+    "jmdictSenseGlosses": [
+      "to have a talk",
+      "to tell a story"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1501620-b62c6d2070",
+    "jmdictEntryId": "1501620",
+    "jmdictSenseGlosses": [
+      "to pay (e.g. money, bill)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1150410-15c89823bf",
+    "jmdictEntryId": "1150410",
+    "jmdictSenseGlosses": [
+      "love",
+      "affection",
+      "care"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1175570-890e54691a",
+    "jmdictEntryId": "1175570",
+    "jmdictSenseGlosses": [
+      "yen (currency of Japan)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1006570-28f3dbf889",
+    "jmdictEntryId": "1006570",
+    "jmdictSenseGlosses": [
+      "at least",
+      "at most",
+      "(even) just"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1581310-d4f5617565",
+    "jmdictEntryId": "1581310",
+    "jmdictSenseGlosses": [
+      "side (of something, or taking someone's side)",
+      "part"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1314010-9c0153c92a",
+    "jmdictEntryId": "1314010",
+    "jmdictSenseGlosses": [
+      "circumstances",
+      "conditions",
+      "situation",
+      "reasons",
+      "state of affairs"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1397340-0ae75b7214",
+    "jmdictEntryId": "1397340",
+    "jmdictSenseGlosses": [
+      "honest",
+      "frank",
+      "upfront (about one's feelings)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1550190-266efcec16",
+    "jmdictEntryId": "1550190",
+    "jmdictSenseGlosses": [
+      "opposite side",
+      "bottom",
+      "other side",
+      "side hidden from view",
+      "undersurface",
+      "reverse side"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1577280-efe79007e4",
+    "jmdictEntryId": "1577280",
+    "jmdictSenseGlosses": [
+      "spare time",
+      "free time",
+      "leisure"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1270810-8920a46ac0",
+    "jmdictEntryId": "1270810",
+    "jmdictSenseGlosses": [
+      "thanks",
+      "gratitude"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1010150-5689b70c3e",
+    "jmdictEntryId": "1010150",
+    "jmdictSenseGlosses": [
+      "clearly",
+      "plainly",
+      "distinctly"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2827091-167310f57e",
+    "jmdictEntryId": "2827091",
+    "jmdictSenseGlosses": [
+      "even"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "particle"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "particle"
+    ]
+  },
+  {
+    "id": "jmdict-1321110-97f2a773d6",
+    "jmdictEntryId": "1321110",
+    "jmdictSenseGlosses": [
+      "reality",
+      "actuality",
+      "truth",
+      "fact",
+      "actual conditions"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1470080-3e4a3c9c1b",
+    "jmdictEntryId": "1470080",
+    "jmdictSenseGlosses": [
+      "consent",
+      "agreement",
+      "acceptance"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-2710010-6c13aa7fd1",
+    "jmdictEntryId": "2710010",
+    "jmdictSenseGlosses": [
+      "not a chance",
+      "not likely",
+      "no way",
+      "no"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1244320-ad08ea12b6",
+    "jmdictEntryId": "1244320",
+    "jmdictSenseGlosses": [
+      "painful",
+      "difficult",
+      "tough",
+      "hard"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1177820-8f15287152",
+    "jmdictEntryId": "1177820",
+    "jmdictSenseGlosses": [
+      "far away",
+      "distant place",
+      "a (great) distance",
+      "a long way off",
+      "afar"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1581400-9ec4f30a76",
+    "jmdictEntryId": "1581400",
+    "jmdictSenseGlosses": [
+      "another person",
+      "other people",
+      "others"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1529390-4528c7e447",
+    "jmdictEntryId": "1529390",
+    "jmdictSenseGlosses": [
+      "to sleep"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1170660-fa53232f13",
+    "jmdictEntryId": "1170660",
+    "jmdictSenseGlosses": [
+      "to hide",
+      "to conceal oneself",
+      "to take cover"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1552140-afc9b1d8bb",
+    "jmdictEntryId": "1552140",
+    "jmdictSenseGlosses": [
+      "to stream",
+      "to flow (liquid, time, etc.)",
+      "to run (ink)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1375690-92aa2f83c9",
+    "jmdictEntryId": "1375690",
+    "jmdictSenseGlosses": [
+      "success",
+      "achievement"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-2022640-da27f546c0",
+    "jmdictEntryId": "2022640",
+    "jmdictSenseGlosses": [
+      "number (in a series)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1449530-4c520aba4e",
+    "jmdictEntryId": "1449530",
+    "jmdictSenseGlosses": [
+      "answer",
+      "reply",
+      "response"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1589040-83d0651bfc",
+    "jmdictEntryId": "1589040",
+    "jmdictSenseGlosses": [
+      "to be late",
+      "to be delayed",
+      "to fall behind schedule",
+      "to be overdue"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1384860-58b56a6645",
+    "jmdictEntryId": "1384860",
+    "jmdictSenseGlosses": [
+      "to break",
+      "to snap",
+      "to be cut",
+      "to split",
+      "to crack"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan",
+      "auxiliary"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan",
+      "auxiliary"
+    ]
+  },
+  {
+    "id": "jmdict-1429170-e3f80f8920",
+    "jmdictEntryId": "1429170",
+    "jmdictSenseGlosses": [
+      "condition",
+      "state of health",
+      "shape"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 2,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1606590-640d449228",
+    "jmdictEntryId": "1606590",
+    "jmdictSenseGlosses": [
+      "to part (usu. of people)",
+      "to part from",
+      "to part with",
+      "to be apart from"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1261190-5e6b5c877f",
+    "jmdictEntryId": "1261190",
+    "jmdictSenseGlosses": [
+      "cause",
+      "origin",
+      "source"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1583460-e725ebcf98",
+    "jmdictEntryId": "1583460",
+    "jmdictSenseGlosses": [
+      "to draw",
+      "to paint",
+      "to sketch"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1483190-a3a95045e4",
+    "jmdictEntryId": "1483190",
+    "jmdictSenseGlosses": [
+      "sad",
+      "miserable",
+      "unhappy",
+      "sorrowful"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1535440-e4e0a077ce",
+    "jmdictEntryId": "1535440",
+    "jmdictSenseGlosses": [
+      "to aim at (for, to do, to become)",
+      "to try for",
+      "to have an eye on"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1269510-6f71d7330f",
+    "jmdictEntryId": "1269510",
+    "jmdictSenseGlosses": [
+      "regret",
+      "repentance",
+      "remorse"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1526960-41cf5c9e90",
+    "jmdictEntryId": "1526960",
+    "jmdictSenseGlosses": [
+      "flavor",
+      "flavour",
+      "taste"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1327230-5bba9c910b",
+    "jmdictEntryId": "1327230",
+    "jmdictSenseGlosses": [
+      "to obtain",
+      "to get",
+      "to procure",
+      "to win",
+      "to secure"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan",
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1006110-164ee30cea",
+    "jmdictEntryId": "1006110",
+    "jmdictSenseGlosses": [
+      "all",
+      "completely",
+      "totally",
+      "entirely",
+      "thoroughly"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1351600-746d352282",
+    "jmdictEntryId": "1351600",
+    "jmdictSenseGlosses": [
+      "evidence",
+      "proof"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1226630-2b6ef7c526",
+    "jmdictEntryId": "1226630",
+    "jmdictSenseGlosses": [
+      "customer",
+      "client",
+      "shopper",
+      "spectator",
+      "audience",
+      "tourist",
+      "sightseer",
+      "passenger"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "counter"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "counter"
+    ]
+  },
+  {
+    "id": "jmdict-2008730-a7264a9914",
+    "jmdictEntryId": "2008730",
+    "jmdictSenseGlosses": [
+      "nevertheless",
+      "at any rate",
+      "even so",
+      "all things considered",
+      "be that as it may"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1515120-fd0906b01f",
+    "jmdictEntryId": "1515120",
+    "jmdictSenseGlosses": [
+      "mother"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1219910-05e8bcc6d0",
+    "jmdictEntryId": "1219910",
+    "jmdictSenseGlosses": [
+      "hope",
+      "wish",
+      "aspiration"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1180470-82591217fd",
+    "jmdictEntryId": "1180470",
+    "jmdictSenseGlosses": [
+      "to push",
+      "to thrust",
+      "to shove"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1346230-8238b1c151",
+    "jmdictEntryId": "1346230",
+    "jmdictSenseGlosses": [
+      "match",
+      "contest",
+      "game",
+      "bout",
+      "showdown"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1203270-62676f6cc9",
+    "jmdictEntryId": "1203270",
+    "jmdictSenseGlosses": [
+      "to remove",
+      "to take off",
+      "to detach",
+      "to unfasten",
+      "to undo"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1532710-17eb9d275a",
+    "jmdictEntryId": "1532710",
+    "jmdictSenseGlosses": [
+      "to lose one's way",
+      "to get lost",
+      "to go astray"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1177800-8d7446781c",
+    "jmdictEntryId": "1177800",
+    "jmdictSenseGlosses": [
+      "far",
+      "distant",
+      "far away",
+      "a long way off",
+      "in the distance"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1528490-f485effdb9",
+    "jmdictEntryId": "1528490",
+    "jmdictSenseGlosses": [
+      "strange",
+      "weird",
+      "odd",
+      "curious"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1194500-edb2145cb5",
+    "jmdictEntryId": "1194500",
+    "jmdictSenseGlosses": [
+      "flower",
+      "blossom",
+      "bloom",
+      "petal"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1263710-f27ca0de14",
+    "jmdictEntryId": "1263710",
+    "jmdictSenseGlosses": [
+      "reality",
+      "actuality",
+      "hard fact"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2763520-38ce364970",
+    "jmdictEntryId": "2763520",
+    "jmdictSenseGlosses": [
+      "a bit more",
+      "a bit longer"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1184160-a95c63c05c",
+    "jmdictEntryId": "1184160",
+    "jmdictSenseGlosses": [
+      "to come down",
+      "to go down",
+      "to fall",
+      "to drop",
+      "to sink",
+      "to get lower"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1333330-a7fdf3f780",
+    "jmdictEntryId": "1333330",
+    "jmdictSenseGlosses": [
+      "to attack",
+      "to assail",
+      "to make an assault",
+      "to strike",
+      "to hunt down"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1310720-4bfdcc65e6",
+    "jmdictEntryId": "1310720",
+    "jmdictSenseGlosses": [
+      "death"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1320760-973288be6b",
+    "jmdictEntryId": "1320760",
+    "jmdictSenseGlosses": [
+      "question",
+      "inquiry",
+      "enquiry"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1241880-fb4223bfc6",
+    "jmdictEntryId": "1241880",
+    "jmdictSenseGlosses": [
+      "tension",
+      "strain",
+      "nervousness",
+      "stress"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1409820-05e6b88f71",
+    "jmdictEntryId": "1409820",
+    "jmdictSenseGlosses": [
+      "for",
+      "in regard to",
+      "per"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-1244470-0d97cdec6e",
+    "jmdictEntryId": "1244470",
+    "jmdictSenseGlosses": [
+      "poor (at)",
+      "weak (in)",
+      "not very good (at)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1451170-85ea60281c",
+    "jmdictEntryId": "1451170",
+    "jmdictSenseGlosses": [
+      "to move",
+      "to shift",
+      "to stir",
+      "to budge",
+      "to change position"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-godan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-godan"
+    ]
+  },
+  {
+    "id": "jmdict-1383240-4f4379cbe5",
+    "jmdictEntryId": "1383240",
+    "jmdictSenseGlosses": [
+      "red",
+      "crimson",
+      "scarlet",
+      "vermilion"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1251270-fb33dbf9bf",
+    "jmdictEntryId": "1251270",
+    "jmdictSenseGlosses": [
+      "experience"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1154330-fad97af043",
+    "jmdictEntryId": "1154330",
+    "jmdictSenseGlosses": [
+      "dark",
+      "gloomy",
+      "murky"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adjective-i"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adjective-i"
+    ]
+  },
+  {
+    "id": "jmdict-1365990-5349dc0393",
+    "jmdictEntryId": "1365990",
+    "jmdictSenseGlosses": [
+      "to advance",
+      "to move forward",
+      "to put (a clock, watch) forward"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-ichidan"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-ichidan"
+    ]
+  },
+  {
+    "id": "jmdict-1590480-0df8a914c9",
+    "jmdictEntryId": "1590480",
+    "jmdictSenseGlosses": [
+      "appearance",
+      "style"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1004780-9b8a453faa",
+    "jmdictEntryId": "1004780",
+    "jmdictSenseGlosses": [
+      "hey!"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1610160-2796c58632",
+    "jmdictEntryId": "1610160",
+    "jmdictSenseGlosses": [
+      "to face (each other)",
+      "to be facing"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-1533550-a461042d5b",
+    "jmdictEntryId": "1533550",
+    "jmdictSenseGlosses": [
+      "trouble",
+      "bother"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na"
+    ]
+  },
+  {
+    "id": "jmdict-1309650-9be8296a15",
+    "jmdictEntryId": "1309650",
+    "jmdictSenseGlosses": [
+      "finger",
+      "toe",
+      "digit"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1012550-97a1168fd7",
+    "jmdictEntryId": "1012550",
+    "jmdictSenseGlosses": [
+      "hello (e.g. on phone)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1478620-1ac33a5e86",
+    "jmdictEntryId": "1478620",
+    "jmdictSenseGlosses": [
+      "judgment",
+      "judgement",
+      "decision",
+      "conclusion",
+      "adjudication"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "verb-suru"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "verb-suru"
+    ]
+  },
+  {
+    "id": "jmdict-2008680-8323d3c3a7",
+    "jmdictEntryId": "2008680",
+    "jmdictSenseGlosses": [
+      "Oh well",
+      "yeah",
+      "good",
+      "OK"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "expression"
+    ]
+  },
+  {
+    "id": "jmdict-2843309-ff18676c59",
+    "jmdictEntryId": "2843309",
+    "jmdictSenseGlosses": [
+      "I've had enough (e.g. when offered something)",
+      "that's enough"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "interjection"
+    ],
+    "jmdictSenseIdx": 1,
+    "jmdictSensePos": [
+      "interjection"
+    ]
+  },
+  {
+    "id": "jmdict-1509290-3e73e7869c",
+    "jmdictEntryId": "1509290",
+    "jmdictSenseGlosses": [
+      "wall",
+      "partition"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1472800-f9ac5f782c",
+    "jmdictEntryId": "1472800",
+    "jmdictSenseGlosses": [
+      "back (of the body)"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-2026850-7870fe8486",
+    "jmdictEntryId": "2026850",
+    "jmdictSenseGlosses": [
+      "at once",
+      "immediately",
+      "right now"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1355790-7e2ad37f58",
+    "jmdictEntryId": "1355790",
+    "jmdictSenseGlosses": [
+      "place",
+      "spot",
+      "space"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "jmdict-1479890-06f17c7a5b",
+    "jmdictEntryId": "1479890",
+    "jmdictSenseGlosses": [
+      "half"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-1246270-bfed4e04f6",
+    "jmdictEntryId": "1246270",
+    "jmdictSenseGlosses": [
+      "coincidence",
+      "chance",
+      "accident",
+      "fortuity"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "noun",
+      "adjective-na",
+      "adverb"
+    ]
+  },
+  {
+    "id": "jmdict-2438400-b353666d1d",
+    "jmdictEntryId": "2438400",
+    "jmdictSenseGlosses": [
+      "to come out",
+      "to appear",
+      "to turn up",
+      "to emerge"
+    ],
+    "jmdictPartOfSpeechTags": [
+      "verb-irregular",
+      "expression"
+    ],
+    "jmdictSenseIdx": 0,
+    "jmdictSensePos": [
+      "verb-irregular",
+      "expression"
     ]
   }
 ]

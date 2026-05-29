@@ -28,6 +28,7 @@ export interface VocabSeedOriginal {
   surface: string;
   reading: string;
   romaji: string;
+  pronunciationKo: string;
   targetLevel: JlptLevel;
   meaningKo: string;
   shortMeaningKo: string;
@@ -57,6 +58,7 @@ export interface VocabEntry {
   surface: string;
   reading: string;
   romaji: string;
+  pronunciationKo: string;
   level: JlptLevel;
   meaningKo: string;
   shortMeaningKo: string;

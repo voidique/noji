@@ -3,6 +3,10 @@ import { useSQLiteContext } from 'expo-sqlite';
 import { useCallback, useState } from 'react';
 import { getLevelStats, type LevelStats } from '../../repositories/vocab-repo';
 import { getSettings, type UserSettings } from '../../repositories/settings-repo';
+import {
+  hasNotificationPermission,
+  scheduleDailyNotification,
+} from '../../services/notification-service';
 
 interface TodayData {
   stats: LevelStats | null;
@@ -24,6 +28,12 @@ export function useTodayData(): TodayData {
     setSettings(s);
     setStats(st);
     setLoading(false);
+
+    // Keep the daily notification content fresh: reschedule with today's due count
+    if (s.notificationsEnabled && (await hasNotificationPermission())) {
+      const dueCount = st.due + Math.min(st.newCount, s.newPerDay);
+      scheduleDailyNotification(s.notificationHour, dueCount).catch(() => {});
+    }
   }, [db]);
 
   useFocusEffect(

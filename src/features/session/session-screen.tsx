@@ -9,7 +9,7 @@ import { useSessionQueue } from './use-session-queue';
 
 export function SessionScreen() {
   const router = useRouter();
-  const { current, completed, total, loading, rate } = useSessionQueue();
+  const { current, completed, total, loading, rate, intervals } = useSessionQueue();
 
   if (loading) {
     return (
@@ -56,7 +56,7 @@ export function SessionScreen() {
         <View style={styles.cardArea} key={current.id}>
           <SessionCard vocab={current} />
         </View>
-        <RatingBar onRate={rate} />
+        <RatingBar onRate={rate} intervals={intervals} />
       </View>
     </>
   );

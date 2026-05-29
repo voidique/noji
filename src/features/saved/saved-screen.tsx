@@ -1,24 +1,31 @@
-import { FlatList, StyleSheet, View } from 'react-native';
+import { useCallback } from 'react';
+import { FlatList, ListRenderItem, StyleSheet, View } from 'react-native';
 import { EmptyState } from '../../components/empty-state';
 import { VocabRow } from '../../components/vocab-row';
+import type { VocabWithReview } from '../../data/vocab-types';
 import { palette, spacing } from '../../theme/tokens';
 import { useSavedData } from './use-saved-data';
 
 export function SavedScreen() {
   const { items, loading } = useSavedData();
 
+  const renderItem = useCallback<ListRenderItem<VocabWithReview>>(
+    ({ item, index }) => (
+      <VocabRow
+        vocab={item}
+        showLevel
+        showSeparator={index !== items.length - 1}
+      />
+    ),
+    [items.length]
+  );
+
   return (
     <FlatList
       contentInsetAdjustmentBehavior="automatic"
       data={items}
       keyExtractor={(item) => item.id}
-      renderItem={({ item, index }) => (
-        <VocabRow
-          vocab={item}
-          showLevel
-          showSeparator={index !== items.length - 1}
-        />
-      )}
+      renderItem={renderItem}
       ListEmptyComponent={
         loading ? null : (
           <View style={styles.empty}>

@@ -14,6 +14,7 @@ export function buildSeedEntries(): VocabEntry[] {
       surface: o.surface,
       reading: o.reading,
       romaji: o.romaji,
+      pronunciationKo: o.pronunciationKo,
       level: o.targetLevel,
       meaningKo: o.meaningKo,
       shortMeaningKo: o.shortMeaningKo,
@@ -29,4 +30,4 @@ export function buildSeedEntries(): VocabEntry[] {
   });
 }
 
-export const SEED_VERSION = 1;
+export const SEED_VERSION = 2;
