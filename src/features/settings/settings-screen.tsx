@@ -15,6 +15,7 @@ import { useSQLiteContext } from 'expo-sqlite';
 import { Alert, StyleSheet } from 'react-native';
 import type { JlptLevel } from '../../data/vocab-types';
 import { resetAllProgress } from '../../repositories/review-repo';
+import { syncTodayWidget } from '../../services/widget-service';
 import { palette } from '../../theme/tokens';
 import { useSettings } from './use-settings';
 
@@ -48,6 +49,7 @@ export function SettingsScreen() {
         style: 'destructive',
         onPress: async () => {
           await resetAllProgress(db);
+          syncTodayWidget(db);
         },
       },
     ]);

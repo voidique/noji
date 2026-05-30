@@ -1,6 +1,10 @@
 The MIT License (MIT)
 
-Copyright (c) 2015-present 650 Industries, Inc. (aka Expo)
+Copyright (c) 2026 noji
+
+This license covers the application source code only. The bundled vocabulary
+dataset includes fields derived from JMdict/KANJIDIC2 (© EDRDG) under
+CC BY-SA 4.0; see README.md and the in-app attribution screen for details.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

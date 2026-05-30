@@ -7,6 +7,7 @@ import {
   hasNotificationPermission,
   scheduleDailyNotification,
 } from '../../services/notification-service';
+import { syncTodayWidget } from '../../services/widget-service';
 
 interface TodayData {
   stats: LevelStats | null;
@@ -28,6 +29,8 @@ export function useTodayData(): TodayData {
     setSettings(s);
     setStats(st);
     setLoading(false);
+
+    syncTodayWidget(db);
 
     // Keep the daily notification content fresh: reschedule with today's due count
     if (s.notificationsEnabled && (await hasNotificationPermission())) {

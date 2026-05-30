@@ -15,6 +15,7 @@ import {
   requestNotificationPermission,
   scheduleDailyNotification,
 } from '../../services/notification-service';
+import { syncTodayWidget } from '../../services/widget-service';
 
 export function useSettings() {
   const db = useSQLiteContext();
@@ -35,6 +36,7 @@ export function useSettings() {
     async (level: JlptLevel) => {
       await setTargetLevel(db, level);
       setSettings((prev) => (prev ? { ...prev, targetLevel: level } : prev));
+      syncTodayWidget(db);
     },
     [db]
   );
@@ -45,6 +47,7 @@ export function useSettings() {
       setSettings((prev) =>
         prev ? { ...prev, newPerDay: Math.max(1, Math.min(50, Math.round(value))) } : prev
       );
+      syncTodayWidget(db);
     },
     [db]
   );

@@ -30,10 +30,16 @@ export async function hasNotificationPermission(): Promise<boolean> {
  * Cancels any previously scheduled notifications first.
  * Pass dueCount = 0 to still schedule with a generic message.
  */
+let lastScheduledSignature: string | null = null;
+
 export async function scheduleDailyNotification(
   hour: number,
   dueCount: number
 ): Promise<void> {
+  const signature = `${hour}:${dueCount}`;
+  if (signature === lastScheduledSignature) return;
+  lastScheduledSignature = signature;
+
   await Notifications.cancelAllScheduledNotificationsAsync();
 
   const body =
@@ -43,7 +49,7 @@ export async function scheduleDailyNotification(
 
   await Notifications.scheduleNotificationAsync({
     content: {
-      title: '노지',
+      title: 'noji',
       body,
       sound: false,
     },
@@ -56,5 +62,6 @@ export async function scheduleDailyNotification(
 }
 
 export async function cancelAllNotifications(): Promise<void> {
+  lastScheduledSignature = null;
   await Notifications.cancelAllScheduledNotificationsAsync();
 }

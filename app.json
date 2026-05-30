@@ -8,8 +8,14 @@
     "scheme": "noji",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon",
-      "bundleIdentifier": "com.xira.life.noji"
+      "bundleIdentifier": "com.xira.life.noji",
+      "appleTeamId": "REPLACE_WITH_APPLE_TEAM_ID",
+      "config": {
+        "usesNonExemptEncryption": false
+      },
+      "entitlements": {
+        "com.apple.security.application-groups": ["group.com.xira.life.noji"]
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -46,7 +52,8 @@
         {
           "sounds": []
         }
-      ]
+      ],
+      "@bacons/apple-targets"
     ],
     "experiments": {
       "typedRoutes": true,

@@ -1,56 +1,62 @@
-# Welcome to your Expo app 👋
+# noji
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A calm, monochrome JLPT N5–N4 vocabulary trainer for Korean speakers. Built with Expo SDK 56, native SwiftUI components, and a local-first spaced-repetition engine — no account, no network, no ads.
 
-## Get started
+## Highlights
 
-1. Install dependencies
+- **Fully native iOS feel** — screens are composed from real SwiftUI primitives via `@expo/ui` (`Form`, `Section`, `Picker`, `Stepper`, `Toggle`) and `NativeTabs`, with large-title navigation and native search.
+- **Local-first** — all 200 curated words and every byte of review state live in on-device SQLite (`expo-sqlite`). The app works offline and starts instantly.
+- **Transparent spaced repetition** — a small, deterministic SM-2-style scheduler (`다시 / 어려움 / 알겠어 / 완벽해`) with live next-interval previews on each button.
+- **Animated onboarding** — five Reanimated illustrations that explain the study loop before the first session.
+- **Daily reminders** — opt-in local notifications scheduled with the current due count.
 
-   ```bash
-   npm install
-   ```
+## Tech stack
 
-2. Start the app
+| Area | Choice |
+|------|--------|
+| Framework | Expo SDK 56, React Native 0.85, React 19 |
+| Routing | Expo Router (typed routes) + `NativeTabs` |
+| Native UI | `@expo/ui` (SwiftUI), `expo-symbols`, `expo-glass-effect` |
+| Storage | `expo-sqlite` (WAL, versioned migrations + seed) |
+| Animation | `react-native-reanimated` v4 |
+| Language | TypeScript (strict), React Compiler enabled |
 
-   ```bash
-   npx expo start
-   ```
+## Architecture
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
+```
+src/
+├── app/                 # Expo Router file-based routes (thin screen mounts)
+│   └── (tabs)/          # NativeTabs: (home) · browse · saved · settings
+├── features/            # One folder per feature: screen + hooks + sub-components
+│   ├── today/  browse/  saved/  session/  settings/  onboarding/
+├── components/          # Shared presentational components
+├── repositories/        # SQL access layer (vocab / review / settings)
+├── srs/                 # Spaced-repetition scheduler (pure, testable)
+├── services/            # Side-effectful integrations (notifications)
+├── db/                  # Schema, migrations, SQLite provider
+├── data/                # Seed dataset + domain types
+└── theme/               # Design tokens (color, spacing, typography)
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+The layering is one-directional: `app → features → repositories → db`, with `srs` and `theme` as dependency-free leaves. UI never touches SQL directly; every query lives in a repository.
 
-### Other setup steps
+## Getting started
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+```bash
+bun install
+bun run ios        # native build (required — uses SwiftUI components)
+```
 
-## Learn more
+> SwiftUI primitives from `@expo/ui` do not render in Expo Go or on web; use a development build (`expo run:ios`).
 
-To learn more about developing your project with Expo, look at the following resources:
+```bash
+bun run typecheck  # tsc --noEmit
+bun run lint
+```
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Data & licensing
 
-## Join the community
+- **Application code** is released under the MIT License (see [`LICENSE`](./LICENSE)).
+- **Bundled vocabulary dataset** derives dictionary fields from **JMdict / KANJIDIC2** by the Electronic Dictionary Research and Development Group (EDRDG), licensed under **CC BY-SA 4.0**. Korean meanings, example sentences, translations, and learning order are original to this project.
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+The Japan Foundation does not publish an official JLPT vocabulary list. noji provides JLPT-oriented study content and is **not** an official JLPT resource. Full attribution is shown in the app under **설정 → 출처 및 라이선스**.

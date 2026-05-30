@@ -2,6 +2,7 @@ import { Redirect } from 'expo-router';
 import { NativeTabs } from 'expo-router/unstable-native-tabs';
 import { useSQLiteContext } from 'expo-sqlite';
 import { DynamicColorIOS, Platform } from 'react-native';
+import { useWidgetSync } from '../../features/widget/use-widget-sync';
 import { isOnboardedSync } from '../../repositories/settings-repo';
 
 const tint =
@@ -9,6 +10,7 @@ const tint =
 
 export default function TabsLayout() {
   const db = useSQLiteContext();
+  useWidgetSync();
   if (!isOnboardedSync(db)) {
     return <Redirect href="/onboarding" />;
   }

@@ -15,7 +15,7 @@ export interface OnboardingPage {
 export const ONBOARDING_PAGES: OnboardingPage[] = [
   {
     kind: 'pulse-circle',
-    title: '노지에 오신 것을 환영합니다',
+    title: 'noji에 오신 것을 환영합니다',
     body: '조용하고 차분한\nJLPT 어휘 학습 시스템.',
   },
   {

@@ -1,11 +1,12 @@
 import { DarkTheme, DefaultTheme, Stack, ThemeProvider } from 'expo-router';
 import { StatusBar } from 'expo-status-bar';
+import { useMemo } from 'react';
 import { useColorScheme } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { DatabaseProvider } from '../db/database-provider';
 import { palette } from '../theme/tokens';
 
-const buildTheme = (scheme: 'light' | 'dark') => {
+function buildTheme(scheme: 'light' | 'dark') {
   const base = scheme === 'dark' ? DarkTheme : DefaultTheme;
   const ink = scheme === 'dark' ? '#F2F2F2' : '#111111';
   return {
@@ -19,11 +20,11 @@ const buildTheme = (scheme: 'light' | 'dark') => {
       border: scheme === 'dark' ? '#38383A' : '#C6C6C8',
     },
   };
-};
+}
 
 export default function RootLayout() {
   const scheme = useColorScheme() === 'dark' ? 'dark' : 'light';
-  const theme = buildTheme(scheme);
+  const theme = useMemo(() => buildTheme(scheme), [scheme]);
 
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
